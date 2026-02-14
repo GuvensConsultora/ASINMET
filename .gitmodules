@@ -1,0 +1,3 @@
+[submodule "asinmet_medical"]
+	path = asinmet_medical
+	url = git@github.com:GuvensConsultora/asinmet_medical.git
