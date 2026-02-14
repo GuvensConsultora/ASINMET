@@ -1,0 +1,2374 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:00.320 --> 00:00:08.480
+Entonces, por ahí la grabación y la
+inteligencia artificial asociada que va
+
+00:00:04.880 --> 00:00:12.880
+haciendo el el rastreo de de información
+nos ayuda a entender mejor todo lo que
+
+00:00:10.960 --> 00:00:17.520
+nos vas a contar vos ahora.
+Me parece bárbaro, me parece perfecto.
+
+00:00:15.120 --> 00:00:22.439
+Hay que aprovecharlo, hay quearlo.
+Estamos lo aprovechamos mucho. Nosotros
+
+00:00:20.160 --> 00:00:27.960
+estamos en esa ahora, ¿viste? No, sí,
+sí, sí.
+
+00:00:23.599 --> 00:00:32.320
+Eh, está con apurándose porque eh porque
+si uno no está al tanto con estas cosas,
+
+00:00:31.000 --> 00:00:36.800
+quedaste atrás.
+Mm.
+
+00:00:33.320 --> 00:00:41.719
+Eh, bueno, en ese sentido, vuelvo a para
+que quede en el registro, eh
+
+00:00:40.200 --> 00:00:47.360
+eh desde AsitM, desde la Asociación de
+Industriales Metalúrgicos, estamos
+
+00:00:43.440 --> 00:00:53.879
+interesados en implementar ODU. ¿Por qué
+ODU? Porque muchas empresas que son
+
+00:00:49.920 --> 00:00:58.480
+socias nos han sugerido eh hacerlo, han
+tenido muy buenos resultados,
+
+00:00:56.320 --> 00:01:05.720
+entonces han detectado que por ahí la
+cámara tiene sistemas eh viejos. Eh, por
+
+00:01:03.719 --> 00:01:14.439
+ejemplo, lo que nosotros brindamos
+servicio de pre y postocupacionales
+
+00:01:09.720 --> 00:01:21.240
+en nuestra sede y todo lo que es manejo
+de la parte de la clínica, digamos.
+
+00:01:17.759 --> 00:01:28.920
+está bajo un sistema que fue hecho
+eh en el 2013
+
+00:01:24.680 --> 00:01:34.799
+que ya quedó viejito. Y también
+tenemos el Bixis, que es el de el
+
+00:01:31.280 --> 00:01:41.000
+sistema contable,
+que también tiene sus años y queremos
+
+00:01:38.840 --> 00:01:45.479
+nosotros implementar algo que esté todo
+unificado,
+
+00:01:42.880 --> 00:01:52.159
+que vincule lo que es la parte de los
+servicios que se brindan en la sede,
+
+00:01:48.880 --> 00:02:00.479
+eh, junto con la parte administrativa de
+la cámara y la parte comercial.
+
+00:01:56.680 --> 00:02:04.960
+todo nucleado en un en un mismo sistema.
+Para esto entendemos que van a haber
+
+00:02:03.280 --> 00:02:09.280
+ciertas adaptaciones,
+¿sí?
+
+00:02:05.920 --> 00:02:13.560
+Porque sabemos bien que el sistema no
+tiene es bastante interesante, está bien
+
+00:02:11.239 --> 00:02:19.800
+armado, pero algunas cuestiones les
+faltan.
+
+00:02:15.920 --> 00:02:25.360
+Así que bueno, eh le decía a Horacio que
+la idea mía era hacerlo con la jefa
+
+00:02:22.800 --> 00:02:31.280
+administración
+tiene muchos años en la cámara y sabe
+
+00:02:28.519 --> 00:02:35.120
+perfectamente desde el momento en que se
+impuso el sistema que tenemos
+
+00:02:32.959 --> 00:02:43.000
+actualmente hasta ahora y cuáles son las
+partes eh flacas, digamos, complejas de
+
+00:02:39.360 --> 00:02:48.239
+de que no funciona del todo bien, pero
+eh yo igual
+
+00:02:44.640 --> 00:02:53.879
+sé bastante y puedo brindarles por lo
+menos una aproximación
+
+00:02:50.440 --> 00:03:00.319
+y ponerlos en situación a ver si ustedes
+están o no en condiciones de poder
+
+00:02:56.640 --> 00:03:02.920
+brindarnos eh esta
+esta una solución para esto que estamos
+
+00:03:01.920 --> 00:03:07.400
+buscando.
+Eno, como para contextualizar un poco
+
+00:03:05.280 --> 00:03:10.640
+mejor, porque vos al principio empezaste
+a hablar de eh los exámenes
+
+00:03:09.200 --> 00:03:15.159
+preocupacionales.
+Sí. O sea, ustedes con eso los exámenes
+
+00:03:13.760 --> 00:03:17.959
+preocupacionales obviamente no es para
+entrar a trabajar con ustedes, sino me
+
+00:03:16.760 --> 00:03:21.720
+imagino que es para la industria
+metalúrgica, que lo prestan como un
+
+00:03:20.040 --> 00:03:26.599
+servicio tercerizado a la industria
+metalúrgica.
+
+00:03:23.120 --> 00:03:30.519
+Sí, en realidad usan ahí, o sea, y y
+para qué.
+
+00:03:27.840 --> 00:03:37.200
+Okay. Nosotros le brindamos distintos
+servicios al socio. El objetivo
+
+00:03:33.560 --> 00:03:40.720
+es fue buscar una un servicio que
+también le sirviera a la cámara para
+
+00:03:38.680 --> 00:03:46.319
+poder autofinanciarse
+y a la vez darle un precio
+
+00:03:43.560 --> 00:03:49.519
+por debajo del valor de mercado al
+empresario
+
+00:03:47.799 --> 00:03:53.799
+que lo aprovecharaá, digamos, con
+nosotros.
+
+00:03:51.280 --> 00:03:59.079
+Eh, nosotros además tenemos clientes que
+no son solamente los del sector
+
+00:03:56.120 --> 00:04:02.599
+metalmecánico, porque como la metalurgia
+interviene en casi todos los las
+
+00:04:01.120 --> 00:04:07.920
+industrias,
+pasan por Asmet clientes de todo tipo de
+
+00:04:06.519 --> 00:04:13.879
+empresas. Mm.
+Nosotros tenemos aproximadamente 30
+
+00:04:10.640 --> 00:04:21.280
+personas por día en nuestra sede
+y se hacen diversos estudios que son
+
+00:04:18.400 --> 00:04:26.840
+acorde a lo que se pide también por la
+empresa. No es lo mismo hacer eso
+
+00:04:22.919 --> 00:04:32.440
+preocupacional para una minera o para
+una eh, qué sé yo, una un trabajo que
+
+00:04:30.400 --> 00:04:36.320
+requiere mucho riesgo a otro que no
+tanto,
+
+00:04:33.840 --> 00:04:41.080
+pero normalmente se hacen estudios los
+clásicos, ¿no? toxicológico, se saca
+
+00:04:39.000 --> 00:04:47.759
+sangre, se se hace un
+electrocardiograma, se hace una placa de
+
+00:04:44.120 --> 00:04:52.759
+ruidos X, eh se hace
+electroencefalograma,
+
+00:04:49.680 --> 00:05:02.600
+eh la vista y bueno, de todos los
+estudios eh que y el psicológico
+
+00:04:56.240 --> 00:05:10.560
+también, todo esto eh hace a que por ahí
+quede los distintos estudios cargados en
+
+00:05:06.400 --> 00:05:18.520
+cada área. área y complejiza la carga
+integral en un solo punto, ¿no? Eh, es
+
+00:05:16.240 --> 00:05:23.080
+justo te iba levanté la mano para eso.
+Necesitas concentrar todo.
+
+00:05:20.720 --> 00:05:28.039
+Exacto. Es lo que estamos buscando.
+Anteriormente teníamos un limitante que
+
+00:05:25.199 --> 00:05:31.560
+ya está resuelto, que era que algunos
+estudios
+
+00:05:29.600 --> 00:05:36.199
+directamente no tenían una conexión
+digital, sino que, por ejemplo, el
+
+00:05:34.240 --> 00:05:42.080
+electrocardiograma salía la famosa
+tirita
+
+00:05:37.800 --> 00:05:47.800
+y el profesional con esa tirita daba un
+este resultado.
+
+00:05:44.199 --> 00:05:52.319
+Ahora tenemos que todos tienen carga en
+sistema, pero está independiente. ¿Por
+
+00:05:50.720 --> 00:05:57.000
+qué está independiente? Porque los
+prestadores de estos equipos nos dicen
+
+00:05:54.120 --> 00:06:03.680
+que se tienen que cubrir por si hay
+algún problema de que el resultado no
+
+00:06:00.319 --> 00:06:11.319
+sea el correcto o se presente algún
+reclamo. Bueno, cada uno tiene su propia
+
+00:06:07.520 --> 00:06:16.759
+base de información que despide un PDF,
+pero nosotros lo que hacemos eso lo
+
+00:06:13.840 --> 00:06:22.080
+trasladamos a nuestras máquinas. de
+nuestra máquina,
+
+00:06:18.680 --> 00:06:27.440
+tenemos que escanearlo a veces o pasarlo
+al al papel y va una vez el profesional,
+
+00:06:26.000 --> 00:06:33.319
+porque los que hacen los estudios son
+técnicos, y va alguna vez el profesional
+
+00:06:30.160 --> 00:06:37.639
+que tiene que poner la firma y dice,
+"Bueno, este es apto o no es apto o este
+
+00:06:35.880 --> 00:06:40.680
+está bien o no está bien."
+Sí.
+
+00:06:38.479 --> 00:06:46.759
+¿Qué sucede? Todo eso genera que aparte
+que el médico profesional es por cada
+
+00:06:43.120 --> 00:06:52.000
+área, un oculista, un cardiólogo, un así
+sucesivamente tiene que dar el apto o el
+
+00:06:49.520 --> 00:06:56.199
+psicólogo tiene que dar el apto o no
+apto, no tienen firmas digitales.
+
+00:06:54.360 --> 00:07:01.080
+Nosotros entonces, ¿qué hacemos? Como le
+dije recién,
+
+00:06:58.120 --> 00:07:08.879
+recopilamos todos los resultados,
+los pasamos al papel, el profesional los
+
+00:07:05.039 --> 00:07:15.919
+firma y luego eso queda en una en un
+sobre en papel y se entrega físico a la
+
+00:07:13.919 --> 00:07:21.240
+empresa. O sea, no le entr no le
+mandamos ni un mail
+
+00:07:18.240 --> 00:07:27.160
+ni un QR, mucho menos.
+y eh la empresa o lo va a retirar por la
+
+00:07:23.759 --> 00:07:32.000
+cámara o eh va a un cadete y se los
+entrega físico en la empresa.
+
+00:07:30.199 --> 00:07:36.759
+Y eso ustedes lo quieren eliminar.
+Nosotros lo queremos eliminar es el
+
+00:07:33.400 --> 00:07:41.879
+papel. Lo que queremos eliminar también
+por ahí es que se logre que el
+
+00:07:38.800 --> 00:07:48.240
+profesional pueda firmar digitalmente y
+no tenga que trasladarse hasta la cámara
+
+00:07:45.199 --> 00:07:54.520
+para poder hacer esa validación
+y que se unifique, o sea, que cada
+
+00:07:52.599 --> 00:07:59.440
+estudio pueda quedar cargado en una
+nubem
+
+00:07:56.199 --> 00:08:04.120
+en donde después nosotros
+le damos un perfil en ODU a cada
+
+00:08:01.680 --> 00:08:10.599
+paciente que tenga su nombre suo ha
+pedido o más la empresa a la cual
+
+00:08:07.680 --> 00:08:16.759
+pertenece o quiere pertenecerm
+eh y su resultado, ¿no? Que esté cargado
+
+00:08:14.199 --> 00:08:22.400
+todos informes y al final se hace un
+resumen de eso y ese resumen tiene que
+
+00:08:18.800 --> 00:08:29.280
+tener la firma del profesional.
+Eh, todo eso lo queremos hacer por
+
+00:08:25.639 --> 00:08:33.800
+sistema. Obviamente no sabemos bien que
+la intervención del personal tiene que
+
+00:08:31.120 --> 00:08:40.880
+estar, tiene que cargar la información,
+tiene que no es que digamos todo es así,
+
+00:08:37.399 --> 00:08:45.360
+digamos por apretas un botón, pero sí
+queremos reducir algunos pasos de
+
+00:08:43.680 --> 00:08:52.399
+procedimiento.
+Sí, consulta.
+
+00:08:47.800 --> 00:08:59.399
+Los sistemas eh que emiten los reportes
+eh tienen para conectarse en forma
+
+00:08:56.480 --> 00:09:02.000
+una API de conexión externa.
+Yo entiendo que sí.
+
+00:09:01.200 --> 00:09:04.800
+Bien,
+eso es importante.
+
+00:09:03.440 --> 00:09:10.160
+Yo entiendo que sí. Habría que
+chequearlo, pero entiendo que sí. Porque
+
+00:09:07.760 --> 00:09:13.880
+porque de esa manera se puede podemos
+hacer que se conecte esa app y chupe la
+
+00:09:12.079 --> 00:09:17.000
+información directamente.
+Exacto.
+
+00:09:15.560 --> 00:09:23.600
+Y además estoy pensando otra ventaja
+más, creándole un usuario de portal que
+
+00:09:21.040 --> 00:09:29.279
+nosotros al Tengo ruido atrás por el
+lugar donde estoy.
+
+00:09:26.800 --> 00:09:33.120
+conectados a conectados de la
+información a un usuario de portal a
+
+00:09:31.440 --> 00:09:37.519
+poder tener un registro histórico porque
+por lo general el empleado metalúrgico
+
+00:09:35.360 --> 00:09:42.200
+va rotando en su caso entre entre
+empresa metalúrgica o probablemente sea
+
+00:09:40.760 --> 00:09:45.720
+una persona que tiene que volverse a
+hacer un test el año que viene, o sea,
+
+00:09:43.560 --> 00:09:49.560
+se hace un test anual, entonces va a
+tener eh la información, vas a tener
+
+00:09:48.240 --> 00:09:53.920
+acceso a la información y a tenerla
+guardada dentro de de OB, lo cual creo
+
+00:09:52.440 --> 00:09:56.440
+que para vos es una ventaja de este
+sistema.
+
+00:09:55.360 --> 00:10:00.720
+Sí,
+además de que te va a evitar
+
+00:09:58.320 --> 00:10:05.800
+duplicidades de tener que tener con el
+bigis y otro sistema, una cosa para una
+
+00:10:03.519 --> 00:10:10.040
+y la otra para la otra. Yo creo que es
+una buena una buena decisión elegir ODU
+
+00:10:08.640 --> 00:10:13.480
+en este sentido.
+Bien.
+
+00:10:11.120 --> 00:10:17.519
+¿Qué más quieres contarnos de de la
+necesidad operatoria que tenés? Bien,
+
+00:10:15.839 --> 00:10:21.399
+vamos a hacer otra consulta.
+Sí.
+
+00:10:18.120 --> 00:10:26.240
+Tema de la firma digital.
+Ah. eh, firma electrónica o firma
+
+00:10:24.240 --> 00:10:31.600
+digital. Para mí debería ser firma
+digital. ¿Y quién es la entidad que le
+
+00:10:28.040 --> 00:10:35.880
+va a otorgar ese esa autorización de
+firma digital? ¿Lo tienen identificado?
+
+00:10:34.040 --> 00:10:44.160
+Eso es lo que desconocemos. Nosotros no
+sabemos cómo un profesional médico puede
+
+00:10:40.360 --> 00:10:48.160
+tener autorización para firmar desde
+otro lugar.
+
+00:10:45.720 --> 00:10:54.600
+Eh, y bueno, que eso la verdad que
+habría que averiguarlo. Eh, no, no
+
+00:10:51.440 --> 00:11:00.040
+conocemos, a ver,
+conocemos sobre el tema. Eh, nosotros
+
+00:10:57.440 --> 00:11:05.880
+somos eh
+nosotros somos docentes universitarios
+
+00:11:02.720 --> 00:11:09.120
+yamos estos temas en la facultad.
+Okay.
+
+00:11:06.760 --> 00:11:16.040
+Eh, el tema está de la firma digital que
+tiene que haber una entidad autorizante
+
+00:11:11.560 --> 00:11:20.600
+a nivel eh profesional. Sí, porque puede
+ser, por ejemplo, los abogados tienen
+
+00:11:17.600 --> 00:11:24.040
+firma digital en en Palacio de Justicia
+Tribunales.
+
+00:11:22.120 --> 00:11:30.639
+Sí. Entonces ellos firman digitalmente
+documentos eh con tri. Existe en ODU una
+
+00:11:28.560 --> 00:11:38.000
+herramienta que es para hacer firma
+digital, pero eh eso habría que ver si
+
+00:11:34.160 --> 00:11:43.000
+está avalado por las leyes nacionales.
+Sí, eso es más bien que tenemos que
+
+00:11:41.040 --> 00:11:48.480
+hacer una investigación en el proceso de
+firma digital de cuál entidad es la que
+
+00:11:45.639 --> 00:11:55.399
+va a avalar esa firma digital.
+Generalmente el consejo de ontológico, a
+
+00:11:51.560 --> 00:12:00.480
+lo mejor de la provincia de Mendoza o a
+nivel nacional posiblemente ofrezcan
+
+00:11:57.839 --> 00:12:05.560
+esos certificados de firma digital.
+Habría que estudiar eso. Eso es un punto
+
+00:12:02.839 --> 00:12:11.440
+crítico por lo que vos estás buscando de
+que el médico firme digitalmente. Sí.
+
+00:12:09.200 --> 00:12:16.399
+Entonces, eh eso hay que estudiarlo, hay
+que investigarlo.
+
+00:12:12.680 --> 00:12:22.399
+Perfecto, perfecto. Si no, en el caso en
+el caso que lo tengan que hacer manual,
+
+00:12:19.160 --> 00:12:30.680
+bueno, eh
+se puede hacer el escaneo, eh se firma y
+
+00:12:26.880 --> 00:12:34.880
+luego se vuelve a cargar en la firma ya
+hecha,
+
+00:12:32.000 --> 00:12:40.639
+eh, y se mantiene dentro del mismo
+sistema nuevo,
+
+00:12:36.560 --> 00:12:44.720
+eh, y ya se puede entregar la mail o o
+bueno, de alguna manera Bueno, mira, lo
+
+00:12:42.839 --> 00:12:50.320
+que yo te digo ahí
+es que también tenemos firma
+
+00:12:46.399 --> 00:12:54.040
+electrónica, que es otra otro camino. La
+diferencia fundamental está que la firma
+
+00:12:52.000 --> 00:12:59.480
+digital es un caso cerrado. El médico
+firmó y no hay tu tía. Chao.
+
+00:12:57.959 --> 00:13:04.480
+La firma electrónica es distinta. La
+firma electrónica si llega a haber algún
+
+00:13:01.639 --> 00:13:08.880
+evento, el médico tiene que confirmar
+que él lo firmó nada más. Esa es la
+
+00:13:06.800 --> 00:13:12.519
+diferencia. Entonces nosotros podríamos
+llegar a trabajar en ODU con las dos
+
+00:13:10.839 --> 00:13:16.680
+herramientas. firma digital y firma
+electrónica. Sí, para lo que pasa es que
+
+00:13:15.440 --> 00:13:22.320
+la firma digital no va a estar
+respaldada por una ninguna entidad eh
+
+00:13:19.920 --> 00:13:28.000
+que de Argentina, sino que va a ser
+internacional. Sí, eso es así. Pero
+
+00:13:25.800 --> 00:13:32.519
+podemos hacerlo que el médico tenga una
+firma electrónica. Él accede y lo firma
+
+00:13:30.199 --> 00:13:37.839
+y le va a salir el garabato.
+Sí. En los documentos.
+
+00:13:35.079 --> 00:13:44.000
+Sí, sí, sí. Está claro. Podemos hacer
+que se eh dispare la firma digital. Son
+
+00:13:41.680 --> 00:13:48.120
+dos herramientas distintas. El tema está
+en dónde está la carga de la muestra de
+
+00:13:46.680 --> 00:13:51.639
+la prueba, perdón. La carga de la
+prueba. La carga de la prueba. Si hay
+
+00:13:49.839 --> 00:13:56.600
+algún evento judicial va a ser que el
+médico diga, "Sí, yo esto lo firmé." Sí.
+
+00:13:54.839 --> 00:14:01.480
+Ahora, si se lava las manos, va a ver
+ahí y va a decir, "No, esto yo no lo
+
+00:13:58.440 --> 00:14:08.120
+firmé." y aceptó. En cambio, en la firma
+digital, no en la firma electrónica, ya
+
+00:14:04.240 --> 00:14:12.639
+lo que él firmó se queda callado y se lo
+lo tiene que aceptar porque está avalado
+
+00:14:10.440 --> 00:14:19.279
+por una entidad certificante.
+Bien, bien. Lo que lo que podría yo
+
+00:14:15.480 --> 00:14:24.600
+mostrarles es luego de esta conversación
+es un ejemplo de los estudios que
+
+00:14:21.839 --> 00:14:31.160
+nosotros hacemos, cómo lo tenemos, cómo
+lo estamos cargando actualmente.
+
+00:14:28.240 --> 00:14:35.920
+Y y bueno, y eventualmente quizá en una
+segunda instancia con la encargada del
+
+00:14:34.320 --> 00:14:40.199
+sector de medicina más la
+administrativa,
+
+00:14:37.759 --> 00:14:45.800
+pueden responderle con más detalle
+todavía aún. Eh, no, esto este sí pasa
+
+00:14:44.040 --> 00:14:51.360
+derecho, pero este tiene un paso más
+porque el equipo nos despide esta
+
+00:14:48.759 --> 00:14:56.800
+información parcial porque, bueno, por
+ahí eh hay equipo, el equipo de Rayo es
+
+00:14:54.680 --> 00:15:01.480
+muy viejo y y le hemos hecho una
+actualización, pero igual sigue sigue
+
+00:14:58.639 --> 00:15:07.279
+siendo muy anticuado, eh, y cada uno de
+los equipos tiene su realidad. Entonces,
+
+00:15:04.040 --> 00:15:11.519
+eh a veces eh
+suele haber un paquete, como dije
+
+00:15:09.240 --> 00:15:16.320
+recién, básico, que es como el más
+común, pero también se suman otros que
+
+00:15:14.240 --> 00:15:20.959
+hacen que la el procedimiento se vuela
+un poco más complejo,
+
+00:15:18.600 --> 00:15:26.360
+el de las piezas dentales.
+Bueno, hay otros otros más
+
+00:15:23.440 --> 00:15:31.399
+más puntuales.
+Por otra parte está la parte comercial,
+
+00:15:29.319 --> 00:15:35.560
+que la parte comercial tiene un esquema
+de comisión
+
+00:15:34.040 --> 00:15:41.800
+propio
+por empresa nueva,
+
+00:15:37.839 --> 00:15:48.480
+donde la comercial eh tiene una una
+duración hasta que se fideliza
+
+00:15:45.680 --> 00:15:50.639
+hasta que se fideliza el nuevo cliente.
+Sí,
+
+00:15:49.360 --> 00:15:54.600
+oracho levantó la mano porque te va a
+contar algo que hemos estado trabajando
+
+00:15:52.600 --> 00:15:58.160
+esta mañana a las 8 de la mañana. Esta
+mañana y esta semana estamos trabajando
+
+00:15:56.680 --> 00:16:03.440
+por la subérmica todo el tema de
+comisiones, o sea, adaptamos una
+
+00:16:01.880 --> 00:16:09.000
+característica que tenemos nosotros es
+que adaptamos a lo que necesita el
+
+00:16:05.079 --> 00:16:11.839
+cliente. Sí. Y me preguntaba Franco y
+Matías Toter me decía, "Mira,
+
+00:16:10.399 --> 00:16:16.360
+necesitamos el cálculo de las
+comisiones, que sea bla bla. Hasta
+
+00:16:14.399 --> 00:16:22.199
+mañana terminamos de armarnos y le
+presentamos el prototipo." Por eso me
+
+00:16:18.360 --> 00:16:26.600
+sonreí, porque
+estamos en la misma. Bueno, lo
+
+00:16:24.040 --> 00:16:31.199
+por empresa, por cliente, por, o sea,
+porque tenés clientes distintos, por
+
+00:16:29.040 --> 00:16:36.000
+todo lo que se te ocurra, o sea, eso se
+puede super personalizar en ODU porque
+
+00:16:33.319 --> 00:16:41.759
+se trabaja eh a través de la parte
+funcional. Por eso yo sé que Horacio se
+
+00:16:37.920 --> 00:16:45.920
+sale la vaina por contarte la cuestión e
+la cuestión funcional específica de eso,
+
+00:16:44.160 --> 00:16:51.319
+porque se puede hacer prácticamente de
+todo.
+
+00:16:48.360 --> 00:16:56.839
+Sí, sí, sí, completamente. Horacio, si
+seguís con la mano levantada.
+
+00:16:54.120 --> 00:17:00.920
+Ah, sí. No, no con la mano levantada.
+Eh, pero sabes que estaría bueno que más
+
+00:16:59.160 --> 00:17:06.319
+o menos nos termine ya nos contaste la
+parte comercial, nos contaste de la
+
+00:17:02.800 --> 00:17:09.120
+parte de los eh preocupacionales.
+Sí,
+
+00:17:06.640 --> 00:17:15.240
+nos contaste de la parte eh
+cerrando lo comercial, eh cerrando lo
+
+00:17:11.600 --> 00:17:20.880
+comercial quería y sí que que duce que
+también lo tiene, eh poder hacer ese
+
+00:17:18.880 --> 00:17:27.439
+seguimiento porque a veces la comercial
+trabaja por referencia y por mail nada
+
+00:17:24.160 --> 00:17:34.200
+más. Eh, el problema es que la encargada
+comercial es una jubilada de 67 años
+
+00:17:31.720 --> 00:17:38.520
+que está predispuesta a lo nuevo. No es
+que no está predispuesta a lo nuevo,
+
+00:17:36.160 --> 00:17:44.160
+pero es una persona grande que ya tiene
+sus hábitos y que por ahí este sistema
+
+00:17:41.320 --> 00:17:50.919
+ellas, además, ¿qué sucede? Y esta es la
+realidad. Yo lo detecto, pero bueno, a
+
+00:17:45.919 --> 00:17:55.520
+veces pongo mi reclamos, pero no eh no
+tengo la prueba que que es lo que estoy
+
+00:17:53.240 --> 00:17:59.000
+buscando también con este sistema. Lo
+que fluye mucho en la cámara son los pre
+
+00:17:57.600 --> 00:18:02.480
+y postocupacionales.
+¿Lo qué?
+
+00:17:59.480 --> 00:18:05.320
+Entonces, los pre y postocupacionales en
+cuanto a los servicios que brindamos,
+
+00:18:03.960 --> 00:18:08.400
+pero tenemos un montón de otros
+servicios
+
+00:18:06.640 --> 00:18:14.360
+de capacitaciones,
+de higiene y seguridad, de bueno, de
+
+00:18:11.200 --> 00:18:20.200
+otras de otros asuntos. La la referencia
+de che, se va haciendo en boca en boca,
+
+00:18:17.840 --> 00:18:28.320
+así mete es barato. Bueno, y le van
+llegando a la comercial referidos y ella
+
+00:18:24.240 --> 00:18:33.039
+vía mail sugiere y como fluye eso ella
+justifica su trabajo, pero no está
+
+00:18:31.240 --> 00:18:38.080
+siendo controlada por los otros
+servicios que son más difíciles de
+
+00:18:35.159 --> 00:18:42.280
+vender porque por ahí no tienen tanta
+consideración en el mundo de nuestros
+
+00:18:39.919 --> 00:18:48.840
+socios y nuestros clientes. Y que a mí
+me gustaría decir, no, pará, ¿cuánto que
+
+00:18:46.880 --> 00:18:53.320
+que sé que lo tienes? ¿Cuánto hiciste de
+publicaciones de venta de de
+
+00:18:51.240 --> 00:18:59.480
+capacitaciones de autoelevadores?
+¿Cuánto hiciste de capacitaciones en
+
+00:18:55.640 --> 00:19:05.840
+idiomas para empresa en eh en administra
+en qué sé yo, asesoramiento en finanzas
+
+00:19:03.080 --> 00:19:10.760
+y y contabilidad para empresas? Eh,
+¿cuánto ofreciste el servicio de higiene
+
+00:19:07.799 --> 00:19:15.320
+y seguridad? Bueno, sí, sucesivamente.
+Eh, es lo que también estamos buscando
+
+00:19:12.760 --> 00:19:20.880
+para en todo caso decirle dedicarle
+tiempo también a esto.
+
+00:19:18.679 --> 00:19:26.840
+Es como que hoy los socios y los son
+miembros de comisión directiva las
+
+00:19:23.120 --> 00:19:32.120
+cuentas dan porque ese servicio hoy es
+el que más le representa ingresos a la
+
+00:19:29.039 --> 00:19:36.679
+cámara y están todos viste, relajados
+porque tienen que atender sus cosas en
+
+00:19:33.799 --> 00:19:42.600
+sus empresas y no se van a detener en
+ver si a Sidmet eh puede o no mejorar su
+
+00:19:39.960 --> 00:19:49.720
+rentabilidad. Bueno, es lo que yo estoy
+buscando con esto.
+
+00:19:47.080 --> 00:19:54.000
+Después te hago consulta con respecto a
+esto.
+
+00:19:51.360 --> 00:19:57.880
+Ese seguimiento que necesitas realizar,
+eh, ella lo maneja todo por correo
+
+00:19:55.960 --> 00:20:01.760
+electrónico, me decís.
+Sí,
+
+00:19:59.240 --> 00:20:06.480
+o sea, que deberíamos manejar el CRM ahí
+para que ella pueda hacer eh todo el
+
+00:20:04.200 --> 00:20:12.600
+proceso de seguimiento y de propuesta de
+curso. A lo mejor debería ser por ahí y
+
+00:20:09.240 --> 00:20:16.120
+tener los PKI de esa de esa
+funcionalidad.
+
+00:20:14.039 --> 00:20:19.280
+Por ese lado me parece que puede ir.
+Igualmente va a seguir trabajando con
+
+00:20:17.760 --> 00:20:23.000
+correo electrónico porque toda
+comunicación que haga ella la va a hacer
+
+00:20:20.919 --> 00:20:26.679
+por en el sistema sale el correo
+electrónico y vuelve a entrar el correo
+
+00:20:24.400 --> 00:20:29.919
+electrónico de los distintos clientes.
+Entonces como que ya va a hacer un
+
+00:20:27.960 --> 00:20:35.919
+seguimiento por correo electrónico, pero
+desde
+
+00:20:31.720 --> 00:20:45.039
+Perfecto. Bien. y manejado de
+perfecto. Lo otro es eh un una eh una
+
+00:20:42.400 --> 00:20:50.280
+forma de captar los turnos unificada. O
+sea, hoy lo hemos solucionado con una
+
+00:20:48.000 --> 00:20:55.440
+persona que que tiene que ser la es la
+única encargada de los turnos,
+
+00:20:53.000 --> 00:21:01.080
+pero entiendo yo que se puede armar en
+el sistema un lugar que sea turnos, que
+
+00:20:58.919 --> 00:21:05.120
+que tengan acceso y que se vean los que
+está los días que están reservados en
+
+00:21:03.280 --> 00:21:13.880
+forma ordenada.
+Pero también el otro tema es que eh
+
+00:21:10.240 --> 00:21:20.720
+nosotros no es lo mismo un turno para la
+minera
+
+00:21:16.520 --> 00:21:27.039
+Manfield o para Hols o lo que sea o para
+IPF que un preocupacional para entrar a
+
+00:21:24.799 --> 00:21:34.080
+a un restaurant.
+Obviamente que a nivel ingreso es mejor
+
+00:21:31.440 --> 00:21:39.320
+priorizar los bloques de
+preocupacionales que son con más
+
+00:21:36.600 --> 00:21:46.799
+estudios, pues nos brindan más ingresos.
+Ahí también habría que ver cómo podemos
+
+00:21:41.760 --> 00:21:50.159
+nosotros ordenar eh la los turnos
+priorizando los que son más
+
+00:21:48.559 --> 00:21:55.159
+convenientes. Obviamente que ahí también
+tiene que intervenir el personal,
+
+00:21:53.240 --> 00:21:57.640
+eh no todo lo puede solucionar el
+sistema.
+
+00:21:56.320 --> 00:22:02.200
+Pero bueno, sí un lugar que esté
+centralizado porque nos suele ha pasado
+
+00:22:00.240 --> 00:22:07.600
+mucho y por eso es que yo decidí, bueno,
+se encarga una persona por ahora que uno
+
+00:22:05.520 --> 00:22:13.440
+dice, "Sí, te doy 30 turnos porque por
+una empresa necesita meter en en un paro
+
+00:22:10.400 --> 00:22:21.320
+de planta refinería 80 tipos y lo
+necesita en 4 días y nosotros tenemos
+
+00:22:17.080 --> 00:22:26.120
+una capacidad de de 30 35 por día y ya
+tenemos turnos asignados de semanas
+
+00:22:23.120 --> 00:22:29.880
+anteriores. Entonces, eh los mete y
+después tenemos que salir a a reubicar
+
+00:22:28.200 --> 00:22:35.679
+un montón.
+Bueno, esto también me parece que el
+
+00:22:31.760 --> 00:22:42.720
+sistema nos puede ayudar para tenerlo
+ordenado.
+
+00:22:38.000 --> 00:22:49.840
+Eh, lo otro eh son obviamente mediciones
+de calidad que que queremos hacer.
+
+00:22:46.159 --> 00:22:53.880
+Nosotros tenemos dos clientes.
+El principal es la empresa que nos
+
+00:22:51.360 --> 00:22:59.799
+contrata, pero también el que viene a
+hacerse el estudio, que es el empleado o
+
+00:22:56.039 --> 00:23:02.840
+el futuro empleado de la empresa, que eh
+también le tenemos que dar un buen
+
+00:23:01.200 --> 00:23:07.640
+servicio, no solamente darle el
+resultado bien a la empresa y ágil.
+
+00:23:05.000 --> 00:23:12.440
+Entonces, como que intervienen dos, a
+los cuales le tenemos que dar una hacer
+
+00:23:09.720 --> 00:23:16.919
+una encuesta de satisfacción.
+Eso también me parece importante,
+
+00:23:15.200 --> 00:23:21.919
+hacer también encuesta de satisfacción a
+las empresas que brindamos el servicio
+
+00:23:19.120 --> 00:23:26.400
+eh de de higiene y seguridad, que es en
+la empresa,
+
+00:23:23.720 --> 00:23:32.640
+¿no? En nuestras sedes también tenemos
+medicina, médico en planta. Bueno,
+
+00:23:28.919 --> 00:23:38.120
+también el médico en planta, eh, darle
+un orden, decir, "Che, bueno, ¿cómo
+
+00:23:34.640 --> 00:23:43.679
+está? Eh, ¿fue? ¿No fue?"
+Eh, o sea, es como que se brinan un
+
+00:23:40.679 --> 00:23:48.880
+montón de servicios tercializados o o en
+la empresa y la única que le hace
+
+00:23:47.240 --> 00:23:52.200
+seguimiento es la comercial, que por ahí
+le dice, "Bueno, ¿cuánto estuviste?
+
+00:23:50.799 --> 00:23:58.080
+Habla con el empresario." Le dice, "Sí,
+todo bien, okay, chao." Y en el medio no
+
+00:23:54.600 --> 00:24:01.279
+nos enteramos de un montón de cosas que
+están pasando.
+
+00:23:58.880 --> 00:24:08.480
+Claro, no te enteras de más nada.
+Tal cual, ¿eh?
+
+00:24:04.039 --> 00:24:14.880
+Y sobre todo yo pierdo la información
+porque como hoy es es un chino en la
+
+00:24:11.760 --> 00:24:20.000
+administración, yo como gerente pierdo
+pierdo el rastro de cuánta gente estuvo
+
+00:24:17.840 --> 00:24:24.240
+yendo la cámara por día. Entonces a mí
+me yo voy y les digo, "Bueno, ¿cuánta
+
+00:24:22.320 --> 00:24:28.080
+gente vino hoy?" No, vinieron 30
+personas. ¿Qué sé yo, y después si me
+
+00:24:26.720 --> 00:24:32.120
+tengo que meter en los sistemas de
+carga?
+
+00:24:29.640 --> 00:24:36.360
+es un quilombo y si lo puedo hacer una
+vez, pero después si quiero ver el
+
+00:24:33.360 --> 00:24:43.120
+histórico, o sea, que la la comisión
+directiva que está muy alejada del
+
+00:24:39.679 --> 00:24:49.520
+funcionamiento de la cámara quiere saber
+qué pasa, quiere saber cuánta gente va
+
+00:24:46.240 --> 00:24:55.080
+todos los días, cuánto se factura todos
+los días, eh cuáles son los insumos y
+
+00:24:53.600 --> 00:25:02.720
+los costos que se utilizan por los
+servicios que se prestan. como que hoy
+
+00:24:58.880 --> 00:25:06.120
+poder visualizar eso es dificilísimo.
+Tenés que hablar con el el que está en
+
+00:25:04.640 --> 00:25:09.799
+el área contable, tenés que hablar con
+la administrativa.
+
+00:25:07.880 --> 00:25:15.120
+Por suerte los insumos que se necesitan
+son pocos porque
+
+00:25:11.880 --> 00:25:18.240
+sí, insumos médicos de
+gel,
+
+00:25:17.120 --> 00:25:22.279
+jeringa,
+la jeringa la proporciona. Nosotros no
+
+00:25:20.120 --> 00:25:27.360
+tenemos el el laboratorio lo tenemos
+tercerizado, pero
+
+00:25:24.440 --> 00:25:32.200
+el laboratorio nos nos da las cosas para
+que nosotros saquemos las muestras,
+
+00:25:30.320 --> 00:25:39.960
+pero bueno, también el laboratorio es
+una es un prestador de hace mucho tiempo
+
+00:25:35.919 --> 00:25:44.799
+que tampoco nos da el resultado eh
+digital, no nos da las cosas también que
+
+00:25:43.159 --> 00:25:50.799
+habría que hablar con Edo a ver si
+también se pueden amoldar a la
+
+00:25:47.279 --> 00:25:55.880
+tecnología que queremos incorporar. Mm.
+Eh, bueno, eso es todo lo que tiene
+
+00:25:53.799 --> 00:26:00.360
+relación con los servicios.
+Por otra parte está el funcionamiento
+
+00:25:58.120 --> 00:26:07.880
+institucional y el centro tecnológico
+que tenemos ahí, que nosotros hacemos
+
+00:26:05.039 --> 00:26:12.480
+cursos de eh capacitación en soldadura
+con el centro tecnológico en donde
+
+00:26:10.520 --> 00:26:17.480
+interfieren entidades públicas,
+universidades
+
+00:26:14.279 --> 00:26:24.200
+y ahí nosotros hacemos por convenio.
+Entonces, las universidades brindan un
+
+00:26:21.440 --> 00:26:30.360
+aporte, el el una municipalidad dice,
+"Bueno, yo les compro,
+
+00:26:26.399 --> 00:26:33.960
+sale electros electrodos, tanto esto, el
+Ministerio de Producción dice, "Yo les
+
+00:26:31.799 --> 00:26:39.799
+pago la hora docente."
+Entonces eso todo eso va llegando por
+
+00:26:36.559 --> 00:26:46.960
+distintas vías a la cámara y tampoco hay
+un orden. O sea, el encargado de los
+
+00:26:42.960 --> 00:26:52.039
+cursos eh le dejan las cosas, le dan un
+papel, lo firman y lo tira en el
+
+00:26:48.760 --> 00:26:58.440
+escritorio. O sea, no no hay una carga
+de lo que entra, eh, no hay un registro
+
+00:26:56.559 --> 00:27:03.120
+ordenado, decir, "Bueno, centro
+tecnológico,
+
+00:27:00.360 --> 00:27:09.799
+tanta plata para un horario docente,
+registrado,
+
+00:27:05.039 --> 00:27:14.799
+ordenado, eh un inventario de todo el
+equipamiento que tenemos, porque hoy
+
+00:27:13.240 --> 00:27:21.279
+desaparecen
+herramientas y no se sabe si habían
+
+00:27:18.120 --> 00:27:24.760
+cinco, se habían en siete, o sea, como
+es nuevo también, esto se ha incorporado
+
+00:27:23.120 --> 00:27:31.120
+hace un año,
+no tiene un inventario armado y nada eh
+
+00:27:28.159 --> 00:27:37.559
+un sistema propio.
+Y en esto también interfieren cosas
+
+00:27:33.880 --> 00:27:42.159
+costosas, o sea, estamos hablando de de,
+no sé, cursos
+
+00:27:40.200 --> 00:27:46.919
+en donde en donde para hacer un curso de
+soldadura entre los elementos de
+
+00:27:44.559 --> 00:27:52.600
+protección, la máscara,
+eh los guantes,
+
+00:27:49.159 --> 00:28:00.080
+lo el material, eh las máquinas que se
+usan, este todo eso, no hay un un
+
+00:27:57.679 --> 00:28:06.600
+inventario y una una organización bien
+armada. sería área de activos. Claro.
+
+00:28:03.919 --> 00:28:12.039
+Después, por otro lado, tenemos el área
+de comunicación
+
+00:28:08.600 --> 00:28:17.600
+en donde también eh
+está con su encargada de relaciones
+
+00:28:13.880 --> 00:28:25.440
+institucionales, una periodista, eh
+vamos a incorporar un diseñador y una y
+
+00:28:22.039 --> 00:28:32.000
+una chica que hace redes sociales.
+Bueno, tampoco ellos tienen nada. se les
+
+00:28:29.679 --> 00:28:36.440
+son contratos que se le dice, "Bueno,
+mira, necesitamos
+
+00:28:33.799 --> 00:28:44.080
+difundir tal cosa, pero no hay una
+campaña ordenada, dirigida con también
+
+00:28:40.159 --> 00:28:49.159
+con que esté todo bien cargado.
+El sistema de pagos nosotros lo hacemos
+
+00:28:47.159 --> 00:28:56.200
+algunos por el CRCOP, otros por el
+Santander,
+
+00:28:51.559 --> 00:29:02.279
+y también se hace de una manera se arman
+las planillas
+
+00:28:58.159 --> 00:29:09.720
+y también se no sé, dice hoy
+prestadores, proveedores tanto y vos
+
+00:29:05.519 --> 00:29:15.760
+decís, ¿de dónde sacaron
+reparaciones de yo voy todos los días.
+
+00:29:13.399 --> 00:29:19.960
+Bueno, pero la y no es que uno, yo sé
+que no hay mala fe, uno pregunta,
+
+00:29:17.320 --> 00:29:24.240
+pregunta y la respuesta siempre llega,
+pero es como que bueno, eh,
+
+00:29:22.360 --> 00:29:27.399
+sí, tenés que estar más sistematizado.
+Es así,
+
+00:29:24.880 --> 00:29:30.440
+totalmente en todo sentido. Yo creo que
+lo más complejo habilidad de las
+
+00:29:28.919 --> 00:29:35.600
+operaciones.
+Totalmente. Yo creo que lo más complejo
+
+00:29:32.360 --> 00:29:42.840
+de de ecualizar es la parte del
+preocupacional.
+
+00:29:38.399 --> 00:29:48.399
+Lo demás, entiendo yo, que se puede ir
+buscando mecanismos
+
+00:29:45.480 --> 00:29:55.240
+rápidos para poder este salvarlo y
+solucionarlo, pero la parte de la de
+
+00:29:52.399 --> 00:30:01.720
+comercial con el preocupacional y y
+contable, que esté todo bien,
+
+00:29:58.720 --> 00:30:06.960
+ágil y aceitado, yo sé que pueden haber
+este tipo marketplace, alguna clínica o
+
+00:30:04.640 --> 00:30:11.760
+algún sector que esto ya lo tenga más
+desarroll ado,
+
+00:30:08.880 --> 00:30:17.279
+eh, o que digan, "Bueno, mira, no,
+tampoco es que nosotros pretendemos ser
+
+00:30:14.240 --> 00:30:23.120
+imagen diagnóstica que te da un query
+inmediato con
+
+00:30:19.080 --> 00:30:29.159
+toda la tecnología, pero sí reducir al
+máximo todos los pasos que se hacen y
+
+00:30:26.640 --> 00:30:31.760
+que la información sea mucho más clara y
+visible."
+
+00:30:30.120 --> 00:30:38.080
+Sí,
+eso. Mira, antes de pasar por ahí un
+
+00:30:35.320 --> 00:30:43.159
+poco a la parte funcional, me parece eh
+que a ver qué ventaja tiene ODU. Te digo
+
+00:30:41.480 --> 00:30:46.720
+porque vos planteaste que por ahí pueden
+haber otras instituciones que esto ya lo
+
+00:30:44.720 --> 00:30:53.240
+tengan resuelto.
+Eh, Asinet no es como las otras, porque
+
+00:30:51.360 --> 00:30:56.679
+Asinet, por lo que vos estás planteando,
+tiene tanto el servicio de pre y
+
+00:30:55.039 --> 00:31:00.639
+postocupacional,
+así como también tiene un montón de
+
+00:30:58.440 --> 00:31:04.919
+servicios que probablemente no en una
+primera etapa, pero seguramente en una
+
+00:31:03.000 --> 00:31:09.880
+etapa posterior te va a interesar
+incluir. Vos ahora nos has mencionado un
+
+00:31:07.639 --> 00:31:14.080
+montón de cosas y si vos a mí me decís
+que me llevo esta reunión, yo me llevo
+
+00:31:11.519 --> 00:31:17.399
+un Pareto donde a vos tenés en la
+primera parte las cosas que más te
+
+00:31:15.639 --> 00:31:22.240
+interesan, que son lo pre y lo lo
+pocupacional y el manejo contable, el
+
+00:31:20.360 --> 00:31:26.399
+manejo de las cuentas bancarias, dónde
+van los pagos y todo eso para luego
+
+00:31:24.840 --> 00:31:30.480
+empezar a pensar en otras cosas que
+probablemente en este momento sean
+
+00:31:27.840 --> 00:31:34.279
+menores como la cuestión del inventario,
+como la cuestión de cómo se manejan un
+
+00:31:32.279 --> 00:31:37.639
+montón de otras pequeñas cosas, como
+decir, "Okay, podemos llegar a crear un
+
+00:31:35.840 --> 00:31:41.799
+curso y lo manejamos como un evento y
+creamos el evento y y mandamos en la
+
+00:31:39.559 --> 00:31:47.559
+página web y toda la historia, pero en
+nuestro pareto tener primero la idea de
+
+00:31:44.880 --> 00:31:51.399
+qué es lo que más te interesa. Entonces,
+¿por qué creo que es una buena
+
+00:31:48.720 --> 00:31:55.360
+herramienta OD para vos? Porque
+probablemente haya otros sistemas que en
+
+00:31:53.760 --> 00:31:59.200
+este momento te estén dando esas
+prestaciones y que se lo estén dando a
+
+00:31:57.600 --> 00:32:04.559
+la la misma prestación a imagen
+diagnóstica, digo porque vos lo
+
+00:32:00.559 --> 00:32:09.240
+mencionaste, pero también eh ODU te va a
+permitir a futuro implementar otras
+
+00:32:07.120 --> 00:32:14.200
+cosas que no son solo estas cuestiones
+médicas, sino que son otras. Vamos a
+
+00:32:12.120 --> 00:32:17.799
+tener que cranear y que pensar cómo
+hacemos para implementar esas cosas y
+
+00:32:16.399 --> 00:32:21.600
+para llevar esas cosas para que te
+funcionen de acuerdo con lo que vos
+
+00:32:19.480 --> 00:32:26.720
+creés.
+Y por qué nosotros, que tengo que
+
+00:32:24.240 --> 00:32:33.200
+decírtelo, nosotros hemos llegado a
+hacer e implementaciones con con
+
+00:32:29.960 --> 00:32:37.240
+cuestiones funcionales muy complejas que
+han permitido llegar a hacer
+
+00:32:34.639 --> 00:32:41.840
+adaptaciones de ODU a cuestiones
+específicas propias que nos pide el
+
+00:32:39.159 --> 00:32:47.399
+cliente. nos han pedido que hagamos
+implementaciones específicas adaptando
+
+00:32:44.000 --> 00:32:54.120
+cosas que realmente nos han resultado,
+te digo, cosas que a veces parecen una
+
+00:32:50.360 --> 00:32:59.240
+locura y la hemos terminado resolviendo.
+Creo que desde lo funcional tenemos
+
+00:32:56.320 --> 00:33:05.039
+respuesta y de hecho nuestros clientes
+que los quienes te hayan dado nuestro
+
+00:33:02.000 --> 00:33:10.880
+nombre o las personas que te hemos
+mencionado te podrán dar fe de de esto
+
+00:33:07.519 --> 00:33:15.240
+que te estamos diciendo porque porque
+del lado funcional tenemos solvencia.
+
+00:33:13.559 --> 00:33:22.240
+Creo que es un poco lo que te quería
+contar también Horacio ahora, justo
+
+00:33:17.919 --> 00:33:26.519
+cuando empezó a hablar. Eh, pero pero
+bueno, en eso tengo la tranquilidad de
+
+00:33:24.799 --> 00:33:29.760
+decirte que con el tiempo de experiencia
+que con los años de experiencia que
+
+00:33:27.480 --> 00:33:34.480
+tenemos en esto, eh, podemos dar
+respuesta a esto inicial, a este primer
+
+00:33:32.399 --> 00:33:38.279
+pareto del que nos está hablando y a las
+cosas que se vienen después. Horacio, no
+
+00:33:36.880 --> 00:33:43.200
+sé qué ibas a agregar.
+No, no, básicamente es eso y además el
+
+00:33:40.880 --> 00:33:47.480
+tema de la velocidad de respuesta, o
+sea, hay un ¿Por qué se llama la empresa
+
+00:33:45.639 --> 00:33:52.320
+nuestra Google? Porque Google en turco
+significa eh confianza.
+
+00:33:50.159 --> 00:33:56.960
+Sí. Y esa confianza la lográs con
+velocidad y precisión. O sea, vos
+
+00:33:54.200 --> 00:34:04.200
+necesitas algo y nosotros buscamos que
+sea precisa la respuesta y rápida. Está.
+
+00:34:00.519 --> 00:34:09.520
+Entonces, eh y somos nosotros dos como
+equipo de trabajo, somos dos contadores,
+
+00:34:06.880 --> 00:34:15.000
+docentes universitarios, eh tenemos
+bastante espalda, digamos, para seguir
+
+00:34:13.079 --> 00:34:19.839
+para hacer todas estas cuestiones y
+sobre todo en el caso mío, que yo soy
+
+00:34:17.639 --> 00:34:26.159
+más técnico, tengo mucha capacidad de
+desarrollo. Sí.
+
+00:34:22.240 --> 00:34:30.480
+Últimamente con la IA más. Eso es así.
+Tenemos una capacidad de desarrollo. Yo
+
+00:34:28.399 --> 00:34:35.079
+cada vez me sorprendo, cada vez más.
+lo que estamos aplicando. Eh, o sea,
+
+00:34:33.240 --> 00:34:38.760
+¿qué es lo que te quiero mostrar? que en
+el proceso de desarrollo de adaptación
+
+00:34:37.040 --> 00:34:44.720
+específica las empresas no tenemos
+límite puntualmente. Así que eso es lo
+
+00:34:42.399 --> 00:34:48.359
+que te puedo decir.
+Bien, bien, bien, perfecto.
+
+00:34:46.359 --> 00:34:52.280
+Si ustedes tienen una particularidad que
+tienen, o sea, enm tenés una amplitud de
+
+00:34:51.040 --> 00:34:57.400
+la cantidad de cosas que hay que
+contemplar que es enorme. Te digo, yo
+
+00:34:54.639 --> 00:35:01.640
+creo que y corregime Horacio, si me
+equivoco, pero todas las cosas que vos
+
+00:34:59.280 --> 00:35:05.800
+has planteado, o sea, son muchísimas
+cosas más de las que a veces nos pide
+
+00:35:03.400 --> 00:35:10.880
+una empresa, porque una empresa nos pide
+básicamente ventas, compra, inventario.
+
+00:35:08.760 --> 00:35:14.160
+Claro. Y vos no has paseado por todos
+los servicios de la empresa, todas las
+
+00:35:12.720 --> 00:35:17.200
+cosas que haces, las cuestiones que
+tienen que ver con marketing, las
+
+00:35:15.760 --> 00:35:21.440
+encuestas posteriores que quer hacer.
+Digo, es tan amplia la paleta que tienen
+
+00:35:19.400 --> 00:35:26.079
+ustedes en la en la asociación que
+termina por ser una una implementación
+
+00:35:23.920 --> 00:35:29.800
+que tiene muchos matices.
+Por eso también decía lo de recién que
+
+00:35:28.400 --> 00:35:35.359
+por ahí lo que habría que hacer para
+empezar a pensar en esto es un pareto,
+
+00:35:32.560 --> 00:35:39.920
+que es lo más importante
+y arrancar por ahí.
+
+00:35:37.760 --> 00:35:43.440
+De acuerdo. Sí, sí. Sobre todo, a ver,
+aparte de que uno quiere optimizarlo,
+
+00:35:42.040 --> 00:35:51.640
+que están buscando todos y estamos
+buscando también nosotros, eh es que por
+
+00:35:47.599 --> 00:35:58.040
+ahí las las eh comisiones directivas,
+sea quien sea quien tome el mando,
+
+00:35:55.280 --> 00:36:04.160
+encuentre, se siente en la botonera y la
+entienda lo más rápido posible, porque
+
+00:36:00.960 --> 00:36:13.079
+si no pasa que te va un presidente y
+entra otro y no se entiende nada de lo
+
+00:36:08.359 --> 00:36:19.319
+que había antes, eh, y eso no le da
+eh futuro, digamos, parejo a a las
+
+00:36:16.240 --> 00:36:22.640
+decisiones en en la institución, ¿no?
+Bueno, mira, en el caso de Odu, una de
+
+00:36:21.079 --> 00:36:27.440
+las características fundamentales que
+tiene es lo intuitivo, que es se
+
+00:36:25.079 --> 00:36:31.560
+explican tres o cuatro cosas y empezas a
+fluir dentro del sistema. Eso es una de
+
+00:36:29.680 --> 00:36:37.160
+las características fundamentales que
+tiene ODU. Eso no es nuestro eh como
+
+00:36:34.200 --> 00:36:40.800
+Yagú, sino que eso es de
+Entonces esa situación eh es muy
+
+00:36:39.440 --> 00:36:43.599
+importante que sea rápido el
+entendimiento del sistema, pues si no no
+
+00:36:42.640 --> 00:36:51.119
+tiene sentido.
+Por supuesto. Yo yo lo que para concluir
+
+00:36:46.319 --> 00:36:57.880
+y ojalá que podamos tener la próxima con
+el personal y empezar a ser un poco más
+
+00:36:53.920 --> 00:37:03.800
+puntilloso, pero en cuanto a lo que es
+son los la estructura
+
+00:37:00.640 --> 00:37:13.200
+es por eso que tiene su complejidad es
+la parte de los servicios por un lado
+
+00:37:07.839 --> 00:37:20.160
+en Asmet y fuera de Sidmet la parte de
+el centro. tecnológico
+
+00:37:16.200 --> 00:37:26.880
+en la SINET y también fuera de la SINET
+y la parte institucional,
+
+00:37:23.160 --> 00:37:31.839
+¿sí? Que es comisiones de trabajo,
+vinculaciones
+
+00:37:28.440 --> 00:37:40.160
+con provincias, con eh cualquier tipo de
+institución nacional o internacional.
+
+00:37:35.240 --> 00:37:45.560
+Eh, son esas tres las nucleados en una
+administración
+
+00:37:42.640 --> 00:37:52.800
+en una administración y eh con su parte
+contable, con su parte, digamos este del
+
+00:37:49.240 --> 00:37:56.440
+día a día, que ahí se hace la maraña,
+¿no? Eh,
+
+00:37:54.440 --> 00:38:00.520
+entiendo más de esto, pero no tanto de
+esto. Esto lo manejo hace un montón de
+
+00:37:58.680 --> 00:38:05.960
+años así, de todas maneras.
+Y la parte comercial también eh
+
+00:38:02.800 --> 00:38:12.319
+desactualizada y la parte comunicacional
+en transformación. Es más o menos ese el
+
+00:38:09.119 --> 00:38:17.040
+universo que tiene hoy SINET, que tiene
+muchas vinculaciones y algunas más
+
+00:38:15.240 --> 00:38:23.839
+desarrolladas que otras con algunas
+instituciones y eh por la por donde
+
+00:38:20.200 --> 00:38:29.160
+pasan 200 más de 200 empresas que son
+socias, pero más de 700 empresas que son
+
+00:38:27.640 --> 00:38:35.160
+clientes.
+Entonces, tenés muchísima base de datos,
+
+00:38:32.160 --> 00:38:42.119
+muchísima cantidad de
+de conexiones y diálogo con distintas
+
+00:38:38.599 --> 00:38:48.280
+empresas, en donde también es una patla
+que entiendo que las empresas muchas
+
+00:38:45.560 --> 00:38:53.560
+incorporan esta tecnología porque corren
+riesgo de que los administrativos o el
+
+00:38:51.760 --> 00:39:00.680
+personal que hace años que está en la
+empresa es el único que sabe
+
+00:38:56.920 --> 00:39:06.839
+con cuántas empresas, cuál son. Bueno, y
+la idea no es depender de las personas,
+
+00:39:03.000 --> 00:39:10.839
+sino que para esto está la tecnología.
+Perfecto.
+
+00:39:08.560 --> 00:39:14.680
+Bueno, mira, una consulta que te hago.
+Eh, ultimativamente, ¿cuántos usuarios
+
+00:39:13.040 --> 00:39:18.720
+crees que necesitarías vos en el
+despliegue? Usuarios internos. Me
+
+00:39:16.599 --> 00:39:23.400
+refiero a aquellos usuarios en donde van
+a trabajar en el backend del sistema, o
+
+00:39:20.640 --> 00:39:28.359
+sea, dentro del sistema. Sí, esos son
+los usuarios que se pagan en OD porque
+
+00:39:25.640 --> 00:39:34.319
+es una membresía de usuario. A partir de
+eso tenés todo el despliegue de todas
+
+00:39:30.040 --> 00:39:38.640
+las aplicaciones de ODU eh disponibles,
+¿sí? más las que podemos armar nosotros
+
+00:39:36.800 --> 00:39:44.599
+adaptándola a los requerimientos
+específicos de ustedes.
+
+00:39:40.720 --> 00:39:49.280
+Okay. Y yo creo que nos necesitaríamos
+uno para la parte comercial,
+
+00:39:46.880 --> 00:39:54.680
+uno para la administrativa de la jefa de
+administración, otro para la que el que
+
+00:39:51.760 --> 00:40:01.640
+maneja la parte contable
+y otra para la encargada de medicina. Al
+
+00:39:57.800 --> 00:40:06.760
+menos cuatro usuarios. Quizás se podría
+dejar algún usuario, que sé que eso no
+
+00:40:03.560 --> 00:40:11.599
+es lo más conveniente, abierto para la
+gerencia
+
+00:40:09.119 --> 00:40:16.040
+para poder tener o o no sé cómo
+funciona, pero para poder tener el
+
+00:40:13.880 --> 00:40:20.119
+seguimiento eh de
+todo
+
+00:40:17.560 --> 00:40:25.440
+lo que está pasando, o sea, que serían
+cuatro o cinco usuarios al menos. Mira,
+
+00:40:23.400 --> 00:40:28.359
+te digo, no te va a encarecer mucho un
+usuario más porque en realidad gran
+
+00:40:26.960 --> 00:40:33.599
+parte del costo, o sea, lo que más costo
+se lleva en realidad es la parte de lo
+
+00:40:31.079 --> 00:40:37.680
+que tiene que ver con con la nube y el
+worker, que sería como la capacidad de
+
+00:40:35.440 --> 00:40:45.160
+procesamiento y todo eso. Un usuario te
+va a agregar ponerle $150 al año,
+
+00:40:41.960 --> 00:40:48.319
+0 al año, no mucho más que eso. O sea,
+eh y probablemente sea una buena
+
+00:40:46.920 --> 00:40:52.880
+práctica tener un usuario para la
+gerencia porque de hecho también es el
+
+00:40:50.400 --> 00:40:54.960
+usuario que se usa en la implementación.
+Claro,
+
+00:40:53.160 --> 00:40:58.800
+para no tocar los usuarios, ponerle el
+contable, sobre todo por una cuestión de
+
+00:40:56.800 --> 00:41:01.680
+asignación de permisos, porque vos a los
+distintos empleados le vas a asignar
+
+00:41:00.000 --> 00:41:05.440
+permisos recortados donde van a tener
+acceso a determinadas cosas y gerencia
+
+00:41:03.760 --> 00:41:09.400
+tiene acceso a todo. Nosotros
+necesitamos un usuario con acceso a todo
+
+00:41:07.640 --> 00:41:13.160
+poder programar.
+Claro.
+
+00:41:10.359 --> 00:41:18.400
+Entonces, ese usuario eh te digo, es
+necesario, o sea, creo que es el más el
+
+00:41:15.400 --> 00:41:23.240
+más necesario, o sea, tener
+lo sé cómo funciona,
+
+00:41:20.800 --> 00:41:28.200
+no sé cómo funciona si el profesional,
+el médico tiene que firmar a distancia,
+
+00:41:25.480 --> 00:41:33.839
+puede quisiera firmar a distancia,
+va a necesitar un usuario. Eh, es
+
+00:41:30.839 --> 00:41:39.920
+relativo eso, todo depende porque se
+puede hacer una adaptación para que él
+
+00:41:35.920 --> 00:41:43.400
+ponga el gancho de afuera. Sí,
+eso se puede hacer. Esto es desarrollo.
+
+00:41:42.400 --> 00:41:50.000
+Sí.
+El tema, ¿cuántos profesionales tenés?
+
+00:41:46.160 --> 00:41:57.119
+Sí, es lo que yo decía, son por lo menos
+a veces entre las distintas eh áreas
+
+00:41:55.760 --> 00:42:01.640
+más de 20,
+ah,
+
+00:41:58.400 --> 00:42:04.560
+30 quizás eh habituales.
+Claro.
+
+00:42:02.160 --> 00:42:11.359
+Eh, como te decía, fonodóloga,
+cardiólogo,
+
+00:42:06.079 --> 00:42:14.560
+psicólogo, eh imágenes, eh, bueno, y así
+puedo seguir odontólogo.
+
+00:42:13.880 --> 00:42:19.240
+Bueno,
+eh eso se puede hacer una adaptación del
+
+00:42:17.079 --> 00:42:22.280
+sistema, un desarrollo específico para
+eso, ¿no? No hay problema.
+
+00:42:20.760 --> 00:42:26.240
+Pues no siempre es el mismo, a veces
+cambia el cardiólogo, a veces cambia el
+
+00:42:24.359 --> 00:42:30.359
+el profesional.
+Eh, algunos con los que solemos trabajar
+
+00:42:28.839 --> 00:42:36.520
+habitualmente,
+que están hace años, pero hay otros que
+
+00:42:33.839 --> 00:42:38.880
+que se que no son tan frecuentes, que se
+eh
+
+00:42:37.160 --> 00:42:41.480
+eso serían usuarios, no usuarios
+internos, sino son usuarios de
+
+00:42:40.079 --> 00:42:43.520
+plataforma.
+Perfecto.
+
+00:42:42.119 --> 00:42:47.200
+Tenés dos niveles. Por los usuarios de
+plataforma no se paga. Sí se pagan por
+
+00:42:45.720 --> 00:42:51.760
+los usuarios.
+Bien, bien.
+
+00:42:50.000 --> 00:42:56.200
+Bueno, me parece que
+que tenemos una visión general,
+
+00:42:54.640 --> 00:42:59.000
+una visión general que podemos
+equivocarnos.
+
+00:42:57.640 --> 00:43:02.920
+¿Qué te propongo?
+¿Qué te propongo? O sea, porque
+
+00:43:01.240 --> 00:43:08.720
+evidentemente esto por la amplitud que
+tiene Asinet, eh,
+
+00:43:06.160 --> 00:43:14.119
+digo, nos pueden quedar cosas sin sin
+bordar, ¿no? Sin ilvanar.
+
+00:43:11.200 --> 00:43:18.280
+Eh, ¿qué te propongo? Hagamos otra
+reunión como como ofrecías con si querés
+
+00:43:16.559 --> 00:43:22.680
+con el equipo técnico y nosotros ya con
+una propuesta de las cosas que vos
+
+00:43:20.720 --> 00:43:28.079
+considerás más importante.
+¿Okay? O sea, si querés puntualizarnos o
+
+00:43:25.920 --> 00:43:31.760
+mandale ahí a Horacio en un mensaje
+cuáles son los los tres puntos más
+
+00:43:30.280 --> 00:43:36.599
+importantes, tres o cuatro puntos más
+importantes para que nosotros vayamos
+
+00:43:33.400 --> 00:43:40.640
+con una propuesta y te ofrecemos hacer
+en la próxima reunión, si querés unir al
+
+00:43:38.760 --> 00:43:45.040
+equipo administrativo por si se nos
+escapa alguna cosa, mostrarle las
+
+00:43:42.800 --> 00:43:49.000
+bondades de ODU, hacer una reunión un
+poco más al hueso y un poco más
+
+00:43:46.359 --> 00:43:54.040
+funcional donde por ahí te mostremos el
+sistema e te mostremos alguna
+
+00:43:51.599 --> 00:43:58.160
+adaptación, las ventajas que tienen como
+también para que para venderle a los
+
+00:43:56.520 --> 00:44:01.640
+empleados el el sistema, porque
+seguramente que ese es otro de los
+
+00:43:59.359 --> 00:44:06.079
+problemas que tenés, convencer a los a
+los empleados que lo quieran usar
+
+00:44:04.359 --> 00:44:11.200
+e
+y luego eh dejarles una demo de lo que
+
+00:44:09.680 --> 00:44:16.280
+nosotros hayamos trabajado para que
+ustedes puedan jugar un poquito con eso
+
+00:44:13.040 --> 00:44:20.800
+y conocerlo, ambientar, seguirlo eh
+probando.
+
+00:44:17.599 --> 00:44:25.680
+Excelente. Y ya, bueno, luego de eso sí
+pasarles nosotros un presupuesto, por lo
+
+00:44:23.160 --> 00:44:29.160
+menos para esa parte. Mientras tanto, te
+vamos a ir averiguando, o sea, en
+
+00:44:27.760 --> 00:44:33.680
+función a lo que vos nos has pedido,
+cuál sería el presupuesto para eh
+
+00:44:31.480 --> 00:44:37.839
+implementar ODU para cinco usuarios, que
+eso se lo tenemos que pedir a OD, eso
+
+00:44:35.800 --> 00:44:40.160
+nuestro comercial nos lo prepara y
+nosotros te lo reenviamos.
+
+00:44:39.839 --> 00:44:46.000
+Okay.
+Es el costo de, o sea, que por el hecho
+
+00:44:42.760 --> 00:44:49.400
+de e implementar con Yaguen, ustedes la
+ventaja que tienen es que les hacen un
+
+00:44:47.680 --> 00:44:51.800
+20% para el primer de descuento para el
+primer año.
+
+00:44:50.960 --> 00:44:57.760
+Bien, bien.
+Así que eso, bueno, me parece que son
+
+00:44:54.960 --> 00:44:59.480
+los los próximos pasos.
+Perfecto.
+
+00:44:58.040 --> 00:45:03.440
+¿Qué días y horarios te quedan más
+cómodos?
+
+00:45:00.680 --> 00:45:10.319
+Quizás pensando, ¿no? Porque por ahí la
+la de medicina eh no esté eh algunos
+
+00:45:07.839 --> 00:45:15.640
+meses. Bueno, habría que ver si bueno,
+por ahí pueda llegar a ser necesario un
+
+00:45:12.359 --> 00:45:19.000
+par más de usuarios, pero salvo eso lo
+demás creo que está
+
+00:45:16.960 --> 00:45:22.720
+no importa porque eso vos podés tomar
+una decisión de mínima, decir, "Okay,
+
+00:45:20.680 --> 00:45:26.079
+ponemos cinco usuarios y de repente
+cuando vos necesitas un usuario extra,
+
+00:45:24.400 --> 00:45:30.800
+simplemente se crea,
+¿okay? y llega un mail de ODU donde te
+
+00:45:28.359 --> 00:45:36.599
+dicen, eh, hemos registrado que usted ha
+incluido un usuario más, te van a pasar
+
+00:45:33.359 --> 00:45:40.400
+la factura, lo pagas y, bueno, lo usas.
+Ahí la la desventaja es que eh me parece
+
+00:45:38.720 --> 00:45:46.200
+que ahí no va a tener descuento del 20%,
+pero es un usuario, o sea, de van a ser
+
+00:45:42.880 --> 00:45:49.800
+$5, digamos, tampoco es el mayor de los
+problemas.
+
+00:45:47.920 --> 00:45:53.200
+Muy bien, muy bien. Estamos de acuerdo.
+Entonces,
+
+00:45:51.200 --> 00:45:56.480
+eh, simplemente decirnos más o menos
+comentas los juegos Horacio por mensaje,
+
+00:45:54.720 --> 00:46:03.720
+cuáles son los días y horarios que te
+quedan más cómodos a vos. Nosotros en
+
+00:45:59.800 --> 00:46:07.839
+por lo general nos adaptamos y y te
+explicamos, o sea, hacemos la reunión,
+
+00:46:05.599 --> 00:46:13.240
+hacemos la reunión funcional más al
+hueso, más eh con lo que vos no has
+
+00:46:10.200 --> 00:46:17.160
+planteado y para conocer al equipo y
+mostrarle al equipo la las bondades y la
+
+00:46:15.880 --> 00:46:21.920
+herramienta.
+Exactamente. Sí. Y quizás este Bueno, no
+
+00:46:20.000 --> 00:46:23.440
+sé, ustedes están en San Rafael, ¿no?
+Sí.
+
+00:46:22.920 --> 00:46:26.520
+Eh, bueno,
+yo viajo mucho a Mendoza.
+
+00:46:25.839 --> 00:46:31.359
+¿Cómo?
+Yo viajo mucho a Mendoza. Ah, suelen
+
+00:46:28.640 --> 00:46:36.000
+suelen venir, bueno, porque por ahí eh
+en las cámaras se puede mostrar cómo se
+
+00:46:34.680 --> 00:46:43.559
+carga
+en el momento ahí eh un paciente, o sea,
+
+00:46:40.240 --> 00:46:48.359
+hay una la base, no sé si es que
+pueden compartir la pantalla por mí
+
+00:46:45.800 --> 00:46:52.599
+o o bueno, se podría compartir y se les
+muestra
+
+00:46:49.920 --> 00:46:57.079
+eh cómo es al día, cómo se está
+haciendo. Sí, por
+
+00:46:54.000 --> 00:47:00.520
+ahí si necesitas eh Eno que nosotros
+vayamos y estemos y hagamos una
+
+00:46:58.880 --> 00:47:04.119
+presencial, no hay problema.
+Vamos, vamos, vamos y vemos y todo eso,
+
+00:47:03.079 --> 00:47:08.359
+no hay problema.
+Sí, pero se puede compartir el ejemplo
+
+00:47:06.559 --> 00:47:15.559
+igual. Sí, sí se podría hacer.
+Sí, viste, porque por ahí que
+
+00:47:12.280 --> 00:47:19.640
+nos vean, ¿viste? Porque somos somos
+somos docentes de la Uncullo y por ahí
+
+00:47:17.000 --> 00:47:23.839
+viajamos a a Mendoza por alguna cuestión
+o por la cátedra o por otra cosa.
+
+00:47:22.119 --> 00:47:27.480
+Podemos también hacerlo coincidir, o
+sea, no en eso no hay problema. Incluso
+
+00:47:25.880 --> 00:47:33.720
+ponerle, a mí me me han invitado a dar
+charlas allá en Mendoza, eh, y he ido
+
+00:47:31.520 --> 00:47:36.880
+dos o tres veces he ido a a dar charla
+en el último tiempo, así que no hay
+
+00:47:35.440 --> 00:47:40.599
+dramas en eso.
+Bueno, y tenemos experiencia con gente
+
+00:47:39.119 --> 00:47:44.960
+también, que era uno de los dolores que
+vos tenías, eh, ayudándola a utilizar el
+
+00:47:43.640 --> 00:47:50.680
+sistema,
+así que en eso no te das problema.
+
+00:47:47.000 --> 00:47:55.480
+Bueno, voy a hablar con con Antonela con
+Antonela Tazaroli porque ella tiene el
+
+00:47:52.559 --> 00:48:00.920
+centro allá en tecnológico
+que tiene un proyecto de ampliación del
+
+00:47:57.960 --> 00:48:06.920
+centro que lo está haciendo con la Facay
+justament
+
+00:48:02.640 --> 00:48:11.680
+y bueno y está creciendo mucho y por ahí
+si el ejemplo
+
+00:48:08.920 --> 00:48:17.440
+con ustedes si es que se hace eh también
+para el SETEM de Mendoza de acá eh por
+
+00:48:15.040 --> 00:48:23.280
+ahí ya le puede interesar y que pueda
+implementar también el el sistema
+
+00:48:20.920 --> 00:48:27.319
+eh para el centro de San Rafael.
+Con todo.
+
+00:48:24.599 --> 00:48:31.559
+Así que quizás también podemos ir
+nosotros para allá y en vez de que
+
+00:48:29.440 --> 00:48:36.680
+ustedes vengan. Así que no,
+sí, en eso en eso no hay problema. No,
+
+00:48:33.800 --> 00:48:40.640
+no, no tengas problema que
+no hay límites con eso tampoco.
+
+00:48:38.720 --> 00:48:44.640
+No, no, no, no. Este, aparte las
+distancias se acortan, o sea, no hay
+
+00:48:42.800 --> 00:48:49.079
+drama con internet. Las instancias las
+distancias se cortan.
+
+00:48:47.040 --> 00:48:52.760
+Exactamente. Bueno, bueno, Ricardo
+Horacio,
+
+00:48:50.000 --> 00:48:58.920
+quedamos para la próxima
+y estamos hablando si hay si hay después
+
+00:48:55.720 --> 00:49:03.559
+algo algún algún curso de ustedes
+docentes para
+
+00:49:01.280 --> 00:49:06.440
+cuestiones de IA.
+Sí, no hay problema.
+
+00:49:04.680 --> 00:49:08.799
+Sí, yo más que nada lo que he dado de
+finanzas.
+
+00:49:07.799 --> 00:49:12.880
+De finanzas. Ajá.
+Sí, yo soy profesor de seguridad del
+
+00:49:10.880 --> 00:49:14.799
+sistema de información.
+Yo soy de
+
+00:49:13.440 --> 00:49:18.079
+matemática financiera y administración
+financiera.
+
+00:49:15.760 --> 00:49:20.559
+Claro. Y yo toda la parte de auditoría,
+internet y seguridad de sistema de
+
+00:49:19.440 --> 00:49:23.799
+información.
+Ah, okay.
+
+00:49:26.680 --> 00:49:31.440
+Hablando
+avisanos qué días te queda más cómodo y
+
+00:49:29.839 --> 00:49:35.960
+nos organizamos para para hacer la
+próxima reunión.
+
+00:49:32.960 --> 00:49:35.960
+Perfecto.
+
+00:49:36.640 --> 00:49:39.640
+C.
+
