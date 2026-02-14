@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="medical_patient_view_form" model="ir.ui.view">
+        <field name="name">medical.patient.form</field>
+        <field name="model">medical.patient</field>
+        <field name="arch" type="xml">
+            <form>
+                <sheet>
+                    <div class="oe_button_box" name="button_box">
+                        <button name="%(medical_examination_order_action)d"
+                                type="action"
+                                class="oe_stat_button"
+                                icon="fa-stethoscope"
+                                context="{'search_default_patient_id': active_id}">
+                            <field name="examination_count" widget="statinfo" string="Exámenes"/>
+                        </button>
+                    </div>
+                    <field name="image_1920" widget="image" class="oe_avatar"
+                           options='{"preview_image": "image_128"}'/>
+                    <div class="oe_title">
+                        <h1><field name="name" placeholder="Nombre del paciente"/></h1>
+                    </div>
+                    <group>
+                        <group string="Datos Personales">
+                            <field name="dni"/>
+                            <field name="birth_date"/>
+                            <field name="gender"/>
+                            <field name="blood_type"/>
+                        </group>
+                        <group string="Datos Laborales">
+                            <field name="employer_id"/>
+                            <field name="job_position"/>
+                        </group>
+                    </group>
+                    <group string="Contacto">
+                        <group>
+                            <field name="phone"/>
+                            <field name="mobile"/>
+                            <field name="email"/>
+                        </group>
+                        <group>
+                            <field name="street"/>
+                            <field name="city"/>
+                            <field name="state_id"/>
+                        </group>
+                    </group>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <record id="medical_patient_view_list" model="ir.ui.view">
+        <field name="name">medical.patient.list</field>
+        <field name="model">medical.patient</field>
+        <field name="arch" type="xml">
+            <list>
+                <field name="dni"/>
+                <field name="name"/>
+                <field name="employer_id"/>
+                <field name="job_position"/>
+                <field name="phone"/>
+                <field name="examination_count"/>
+            </list>
+        </field>
+    </record>
+
+    <record id="medical_patient_view_search" model="ir.ui.view">
+        <field name="name">medical.patient.search</field>
+        <field name="model">medical.patient</field>
+        <field name="arch" type="xml">
+            <search>
+                <field name="name"/>
+                <field name="dni"/>
+                <field name="employer_id"/>
+                <separator/>
+                <filter name="group_employer" string="Empresa" context="{'group_by': 'employer_id'}"/>
+            </search>
+        </field>
+    </record>
+
+    <record id="medical_patient_action" model="ir.actions.act_window">
+        <field name="name">Pacientes</field>
+        <field name="res_model">medical.patient</field>
+        <field name="view_mode">list,form</field>
+    </record>
+</odoo>

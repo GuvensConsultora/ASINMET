@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Form -->
+    <record id="medical_examination_order_view_form" model="ir.ui.view">
+        <field name="name">medical.examination.order.form</field>
+        <field name="model">medical.examination.order</field>
+        <field name="arch" type="xml">
+            <form>
+                <header>
+                    <button name="action_confirm" type="object" string="Confirmar"
+                            class="oe_highlight"
+                            invisible="state != 'draft'"/>
+                    <button name="action_start" type="object" string="Iniciar Estudios"
+                            class="oe_highlight"
+                            invisible="state != 'confirmed'"/>
+                    <button name="action_cancel" type="object" string="Cancelar"
+                            invisible="state in ('certified', 'delivered', 'cancelled')"/>
+                    <button name="action_draft" type="object" string="Volver a Borrador"
+                            invisible="state != 'cancelled'"/>
+                    <field name="state" widget="statusbar"
+                           statusbar_visible="draft,confirmed,in_progress,studies_complete,certified,delivered"/>
+                </header>
+                <sheet>
+                    <div class="oe_title">
+                        <h1><field name="name"/></h1>
+                    </div>
+                    <group>
+                        <group string="Paciente">
+                            <field name="patient_id"/>
+                            <field name="employer_id"/>
+                            <field name="job_position"/>
+                        </group>
+                        <group string="Examen">
+                            <field name="examination_type"/>
+                            <field name="template_id"/>
+                            <field name="date"/>
+                        </group>
+                    </group>
+                    <!-- Barra de progreso visual -->
+                    <group>
+                        <group>
+                            <field name="progress" widget="progressbar"/>
+                        </group>
+                        <group>
+                            <div class="text-muted">
+                                <field name="studies_completed" class="oe_inline"/>
+                                /
+                                <field name="studies_total" class="oe_inline"/>
+                                estudios completados
+                            </div>
+                        </group>
+                    </group>
+                    <notebook>
+                        <page string="Estudios" name="studies">
+                            <field name="study_request_ids">
+                                <list>
+                                    <field name="study_type_id"/>
+                                    <field name="specialty_id"/>
+                                    <field name="practitioner_id"/>
+                                    <field name="state" widget="badge"
+                                           decoration-info="state == 'pendiente'"
+                                           decoration-warning="state == 'en_proceso'"
+                                           decoration-success="state in ('completado', 'validado')"/>
+                                </list>
+                            </field>
+                        </page>
+                        <page string="Certificados" name="certificates">
+                            <field name="certificate_ids">
+                                <list>
+                                    <field name="name"/>
+                                    <field name="dictamen"/>
+                                    <field name="practitioner_id"/>
+                                    <field name="state" widget="badge"
+                                           decoration-info="state == 'draft'"
+                                           decoration-success="state == 'signed'"
+                                           decoration-muted="state == 'delivered'"/>
+                                </list>
+                            </field>
+                        </page>
+                        <page string="Facturación" name="invoicing">
+                            <group>
+                                <field name="invoice_id"/>
+                            </group>
+                        </page>
+                    </notebook>
+                </sheet>
+                <chatter/>
+            </form>
+        </field>
+    </record>
+
+    <!-- List -->
+    <record id="medical_examination_order_view_list" model="ir.ui.view">
+        <field name="name">medical.examination.order.list</field>
+        <field name="model">medical.examination.order</field>
+        <field name="arch" type="xml">
+            <list decoration-info="state == 'draft'"
+                  decoration-warning="state == 'in_progress'"
+                  decoration-success="state in ('studies_complete', 'certified')"
+                  decoration-muted="state == 'cancelled'">
+                <field name="name"/>
+                <field name="date"/>
+                <field name="patient_id"/>
+                <field name="employer_id"/>
+                <field name="examination_type"/>
+                <field name="template_id"/>
+                <field name="progress" widget="progressbar"/>
+                <field name="state" widget="badge"
+                       decoration-info="state == 'draft'"
+                       decoration-primary="state == 'confirmed'"
+                       decoration-warning="state == 'in_progress'"
+                       decoration-success="state in ('studies_complete', 'certified', 'delivered')"
+                       decoration-danger="state == 'cancelled'"/>
+            </list>
+        </field>
+    </record>
+
+    <!-- Kanban — Dashboard de recepción -->
+    <record id="medical_examination_order_view_kanban" model="ir.ui.view">
+        <field name="name">medical.examination.order.kanban</field>
+        <field name="model">medical.examination.order</field>
+        <field name="arch" type="xml">
+            <kanban default_group_by="state" class="o_kanban_small_column">
+                <field name="name"/>
+                <field name="patient_id"/>
+                <field name="employer_id"/>
+                <field name="examination_type"/>
+                <field name="progress"/>
+                <field name="studies_total"/>
+                <field name="studies_completed"/>
+                <field name="state"/>
+                <templates>
+                    <t t-name="card">
+                        <field name="name" class="fw-bold"/>
+                        <field name="patient_id"/>
+                        <field name="employer_id" class="text-muted"/>
+                        <div class="mt-1">
+                            <field name="progress" widget="progressbar"/>
+                        </div>
+                        <div class="text-muted small">
+                            <field name="studies_completed"/>/<field name="studies_total"/> estudios
+                        </div>
+                    </t>
+                </templates>
+            </kanban>
+        </field>
+    </record>
+
+    <!-- Search -->
+    <record id="medical_examination_order_view_search" model="ir.ui.view">
+        <field name="name">medical.examination.order.search</field>
+        <field name="model">medical.examination.order</field>
+        <field name="arch" type="xml">
+            <search>
+                <field name="name"/>
+                <field name="patient_id"/>
+                <field name="employer_id"/>
+                <filter name="today" string="Hoy" domain="[('date', '=', context_today().strftime('%Y-%m-%d'))]"/>
+                <filter name="this_week" string="Esta Semana"
+                        domain="[('date', '&gt;=', (context_today() - datetime.timedelta(days=context_today().weekday())).strftime('%Y-%m-%d')),
+                                 ('date', '&lt;=', (context_today() + datetime.timedelta(days=6-context_today().weekday())).strftime('%Y-%m-%d'))]"/>
+                <separator/>
+                <filter name="draft" string="Borrador" domain="[('state', '=', 'draft')]"/>
+                <filter name="confirmed" string="Confirmados" domain="[('state', '=', 'confirmed')]"/>
+                <filter name="in_progress" string="En Proceso" domain="[('state', '=', 'in_progress')]"/>
+                <filter name="studies_complete" string="Estudios Completos" domain="[('state', '=', 'studies_complete')]"/>
+                <separator/>
+                <filter name="group_state" string="Estado" context="{'group_by': 'state'}"/>
+                <filter name="group_employer" string="Empresa" context="{'group_by': 'employer_id'}"/>
+                <filter name="group_date" string="Fecha" context="{'group_by': 'date'}"/>
+                <filter name="group_type" string="Tipo Examen" context="{'group_by': 'examination_type'}"/>
+            </search>
+        </field>
+    </record>
+
+    <!-- Action -->
+    <record id="medical_examination_order_action" model="ir.actions.act_window">
+        <field name="name">Órdenes de Examen</field>
+        <field name="res_model">medical.examination.order</field>
+        <field name="view_mode">list,kanban,form</field>
+        <field name="context">{'search_default_today': 1}</field>
+    </record>
+
+    <!-- Action: Dashboard recepción (kanban por defecto) -->
+    <record id="medical_examination_order_action_kanban" model="ir.actions.act_window">
+        <field name="name">Panel de Recepción</field>
+        <field name="res_model">medical.examination.order</field>
+        <field name="view_mode">kanban,list,form</field>
+        <field name="context">{'search_default_today': 1}</field>
+    </record>
+</odoo>

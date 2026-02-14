@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Categoría del módulo -->
+    <record id="module_category_medical" model="ir.module.category">
+        <field name="name">Medicina Laboral</field>
+        <field name="sequence">50</field>
+    </record>
+
+    <!-- Grupo: Recepción — crea órdenes, pacientes, turnos -->
+    <record id="group_reception" model="res.groups">
+        <field name="name">Recepción</field>
+        <field name="category_id" ref="module_category_medical"/>
+    </record>
+
+    <!-- Grupo: Técnico — ve/completa estudios de su especialidad -->
+    <record id="group_technician" model="res.groups">
+        <field name="name">Técnico / Profesional</field>
+        <field name="category_id" ref="module_category_medical"/>
+        <field name="implied_ids" eval="[(4, ref('group_reception'))]"/>
+    </record>
+
+    <!-- Grupo: Auditor — revisa estudios, emite certificados -->
+    <record id="group_auditor" model="res.groups">
+        <field name="name">Médico Auditor</field>
+        <field name="category_id" ref="module_category_medical"/>
+        <field name="implied_ids" eval="[(4, ref('group_technician'))]"/>
+    </record>
+
+    <!-- Grupo: Manager — acceso total, reportes, configuración -->
+    <record id="group_manager" model="res.groups">
+        <field name="name">Administrador Medicina Laboral</field>
+        <field name="category_id" ref="module_category_medical"/>
+        <field name="implied_ids" eval="[(4, ref('group_auditor'))]"/>
+        <field name="users" eval="[(4, ref('base.user_root')), (4, ref('base.user_admin'))]"/>
+    </record>
+
+    <!-- Regla: Técnico solo ve solicitudes de su especialidad -->
+    <record id="rule_technician_own_specialty" model="ir.rule">
+        <field name="name">Técnico: solo estudios de su especialidad</field>
+        <field name="model_id" ref="model_medical_study_request"/>
+        <field name="groups" eval="[(4, ref('group_technician'))]"/>
+        <field name="domain_force">[
+            '|',
+            ('practitioner_id.partner_id.user_ids', 'in', [user.id]),
+            ('practitioner_id', '=', False)
+        ]</field>
+    </record>
+</odoo>

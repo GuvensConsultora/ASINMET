@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="medical_study_type_view_form" model="ir.ui.view">
+        <field name="name">medical.study.type.form</field>
+        <field name="model">medical.study.type</field>
+        <field name="arch" type="xml">
+            <form>
+                <sheet>
+                    <group>
+                        <group>
+                            <field name="name"/>
+                            <field name="code"/>
+                        </group>
+                        <group>
+                            <field name="specialty_id"/>
+                            <field name="requires_attachment"/>
+                        </group>
+                    </group>
+                    <notebook>
+                        <page string="Parámetros" name="parameters">
+                            <field name="parameter_ids">
+                                <list editable="bottom">
+                                    <field name="sequence" widget="handle"/>
+                                    <field name="parameter"/>
+                                    <field name="unit"/>
+                                    <field name="reference_min"/>
+                                    <field name="reference_max"/>
+                                </list>
+                            </field>
+                        </page>
+                    </notebook>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <record id="medical_study_type_view_list" model="ir.ui.view">
+        <field name="name">medical.study.type.list</field>
+        <field name="model">medical.study.type</field>
+        <field name="arch" type="xml">
+            <list>
+                <field name="code"/>
+                <field name="name"/>
+                <field name="specialty_id"/>
+                <field name="requires_attachment"/>
+            </list>
+        </field>
+    </record>
+
+    <record id="medical_study_type_view_search" model="ir.ui.view">
+        <field name="name">medical.study.type.search</field>
+        <field name="model">medical.study.type</field>
+        <field name="arch" type="xml">
+            <search>
+                <field name="name"/>
+                <field name="code"/>
+                <field name="specialty_id"/>
+                <separator/>
+                <filter name="group_specialty" string="Especialidad" context="{'group_by': 'specialty_id'}"/>
+            </search>
+        </field>
+    </record>
+
+    <record id="medical_study_type_action" model="ir.actions.act_window">
+        <field name="name">Tipos de Estudio</field>
+        <field name="res_model">medical.study.type</field>
+        <field name="view_mode">list,form</field>
+    </record>
+</odoo>
