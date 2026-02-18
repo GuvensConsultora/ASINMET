@@ -4,7 +4,7 @@
 **Cliente:** Asociación de Industriales Metalúrgicos de Mendoza (ASINMET)
 **CUIT:** 30-55085607-3
 **Domicilio:** Lateral Norte Acceso Este 868, Guaymallén, Mendoza
-**Implementador:** YAGUVEN C.G.
+**Implementador:** YAGÜVEN C.G.
 **Fecha:** 13/02/2026
 
 ---
@@ -16,7 +16,7 @@ Odoo es un ERP modular que cubre ventas, compras, inventario, contabilidad, CRM,
 
 ### Limitación actual de ASINMET
 - Sistema clínico del 2013 (obsoleto, sin integración digital)
-- Sistema contable Bixis (sin conexión con el resto)
+- Sistema contable Bixid (sin conexión con el resto)
 - Procesos en papel: resultados médicos, firmas, entregas físicas
 - Sin trazabilidad gerencial ni control de gestión unificado
 - Información dispersa entre áreas sin visibilidad cruzada
@@ -306,4 +306,4 @@ CE = Community Edition (incluido) | EE = Enterprise (incluido en licencia) | Cus
    - Ajuste de requerimientos
 4. **YAGUVEN** entrega presupuesto formal (licencia + implementación)
 5. **Firma de contrato** y arranque de Etapa 1
-6. **Posible extensión** a CETEM San Rafael (Antonela Tazaroli)
+6. **Posible extensión** a CETEM San Rafael (Antonella Tassaroli)
