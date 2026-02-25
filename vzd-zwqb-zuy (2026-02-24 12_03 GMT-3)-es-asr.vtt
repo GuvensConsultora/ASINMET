@@ -1,0 +1,3604 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:00.359 --> 00:00:07.799
+Nosotros hicimos un despliegue en
+testing eh y hemos armado un prototipo
+
+00:00:05.240 --> 00:00:11.880
+de trabajo. Eh, voy a compartir la
+pantalla.
+
+00:00:09.400 --> 00:00:15.799
+Eh,
+no sé si ustedes están pudiendo acceder
+
+00:00:13.719 --> 00:00:23.800
+a este prototipo. En todo caso, les
+vuelvo a pasar el el el conector.
+
+00:00:22.039 --> 00:00:29.960
+Así
+les queda a ustedes también.
+
+00:00:26.359 --> 00:00:38.120
+Se los paso por acá.
+Ahí se los paso. Ahí está. No sé si lo
+
+00:00:34.840 --> 00:00:38.120
+pueden abrir.
+
+00:00:41.320 --> 00:00:49.239
+Lo pudieron abrir.
+Ahí lo abrí. ¿Con qué correo entramos y
+
+00:00:45.879 --> 00:00:49.239
+con qué contraseña?
+
+00:00:50.960 --> 00:00:57.800
+Ahora, ahora te digo bien la contraseña
+y el usuario.
+
+00:00:54.800 --> 00:00:57.800
+Bueno,
+
+00:00:57.840 --> 00:01:07.320
+yo cerré la cámara para tener mejor
+manejo de datos porque si no se pone
+
+00:01:02.559 --> 00:01:07.320
+media lenteja el sistema. Ok.
+
+00:01:46.880 --> 00:01:52.560
+A mí no me pide ahí van a ingresar, van
+a ingresar,
+
+00:01:50.320 --> 00:02:00.960
+no me pide clave ni usuario.
+Vas a ingresar con admin, así como está.
+
+00:01:56.520 --> 00:02:05.960
+Un dos 3. ¿Me puedes compartir, Paula,
+la pantalla?
+
+00:02:03.360 --> 00:02:09.880
+A ver,
+penso cualquiera de los dos.
+
+00:02:15.680 --> 00:02:19.280
+Está. Esa es mi pantalla.
+
+00:02:20.040 --> 00:02:27.200
+Bueno, dale admin arriba y un dos 3
+abajo.
+
+00:02:24.200 --> 00:02:27.200
+Okay.
+
+00:02:41.519 --> 00:02:48.200
+Si te vas en la parte superior izquierda
+donde dice medicina laboral, que hay una
+
+00:02:45.680 --> 00:02:50.760
+cruz en el icono. Ahí
+sí.
+
+00:02:48.840 --> 00:02:56.599
+Ahí ahí vas a estar viendo la pantalla
+del despliegue completo. Sí.
+
+00:02:54.200 --> 00:03:01.360
+Y ahí hay un módulo que es específico
+para ustedes que se llama medicina
+
+00:02:58.840 --> 00:03:07.400
+laboral.
+Bien. Okay.
+
+00:03:03.319 --> 00:03:11.799
+Este módulo eh tiene eh cuatro menús.
+Recepción, clínica, registro y
+
+00:03:08.799 --> 00:03:11.799
+configuración.
+
+00:03:12.040 --> 00:03:17.400
+Si vos entrás en recepción, vas a
+desplegarlo y vas a ver un manual de
+
+00:03:15.879 --> 00:03:24.440
+ayuda.
+Sí. Abajo ayuda.
+
+00:03:21.440 --> 00:03:24.440
+Sí.
+
+00:03:24.720 --> 00:03:32.200
+Ese manual de ayuda va para la
+recepcionista es un, digamos, un paso a
+
+00:03:29.080 --> 00:03:36.560
+paso cómo manejarlomm
+igualmente en configuración y en clínica
+
+00:03:34.840 --> 00:03:40.159
+y en registro cada uno tiene su manual
+de ayuda. Sí.
+
+00:03:38.680 --> 00:03:44.799
+Bien.
+Eh,
+
+00:03:42.120 --> 00:03:50.920
+todo esto se ajusta a las normas de
+medicina laboral, a la ley y todo, así
+
+00:03:47.360 --> 00:03:50.920
+que está bastanteado.
+
+00:03:51.239 --> 00:03:59.280
+En el caso este, por ejemplo, eh vamos a
+analizar los slot disponibles para poder
+
+00:03:56.840 --> 00:04:03.640
+manejar el tema de las agendas y de los
+de los uso de los tiempos.
+
+00:04:02.319 --> 00:04:10.400
+Mm,
+si entrás ahí en los disponibles,
+
+00:04:07.120 --> 00:04:14.480
+vas a ver eh cuáles están ocupados y
+reservado para una cierta empresa. Sí.
+
+00:04:13.599 --> 00:04:20.040
+Eh
+sí
+
+00:04:15.000 --> 00:04:24.560
+y cada slot tiene su eh distintos e eh
+tipos de recursos que son laboratorios,
+
+00:04:22.160 --> 00:04:28.919
+consultorios, ¿sí?
+Eh eh y el recurso, bueno, consultorio
+
+00:04:27.600 --> 00:04:32.960
+uno, consultorio dos, que todo eso hay
+que armarlo en función de la sede y de
+
+00:04:30.840 --> 00:04:36.240
+los lugares. Está
+bien.
+
+00:04:34.960 --> 00:04:39.240
+En configuración tenés las
+parametrizaciones,
+
+00:04:41.800 --> 00:04:48.120
+perdón acá.
+especialidad.
+
+00:04:51.240 --> 00:04:56.240
+Permiso. Voy a ir entrando a ver qué qué
+veo.
+
+00:05:00.600 --> 00:05:05.400
+Esto tendremos que ir ajustándolo de
+acuerdo a lo que nosotros vamos
+
+00:05:03.840 --> 00:05:09.440
+necesitando.
+Eh, claro, todos estos son datos demo
+
+00:05:07.160 --> 00:05:14.840
+que cargamos por defecto para que
+ustedes puedan vivenciar mejor el
+
+00:05:12.280 --> 00:05:18.600
+proceso. Sí. Y si hay observación
+crítica, nosotros nos digan ustedes, no,
+
+00:05:16.880 --> 00:05:22.840
+mira, necesito que esto salga de esta
+manera, bla, bla. Por esto, por eso digo
+
+00:05:21.080 --> 00:05:29.919
+que esto es un prototipo y está en un
+estado en una fase de tes previo a a los
+
+00:05:27.120 --> 00:05:35.479
+avances. Entonces, eh esta secuencia que
+dice 1 2 3 4 5 6 eh son la forma
+
+00:05:33.680 --> 00:05:39.720
+secuencial de ir configurando cada
+etapa. cada etapa, la siguiente etapa
+
+00:05:38.319 --> 00:05:44.520
+depende del anterior, o sea, que lo
+primero que hay que configurar son las
+
+00:05:41.120 --> 00:05:52.000
+especialidades, pero generalmente eh a
+esas traen las especialidades por que
+
+00:05:46.520 --> 00:05:59.319
+están eh a ver las especialidades ahí.
+Eh, son las especialidades que vienen
+
+00:05:56.919 --> 00:06:03.039
+en en
+eh se pueden agregar nuevas
+
+00:06:01.240 --> 00:06:07.039
+especialidades. Bueno,
+se puede ver
+
+00:06:05.000 --> 00:06:13.400
+eh ahí puedes agregarla. Después si
+pasas en configuración en la segunda
+
+00:06:08.639 --> 00:06:17.440
+etapa, eh tipos de estudios, ¿sí? Eh los
+tipos de estudios que vienen
+
+00:06:17.560 --> 00:06:24.720
+que también se pueden agregar y
+modificar. Eh, la tercera etapa,
+
+00:06:21.800 --> 00:06:30.720
+configuración de planillas de examen.
+Eh, por ejemplo, esa que hace si vos
+
+00:06:27.479 --> 00:06:35.240
+tenés esos tipos de exámenes, periódico
+anual, preocupa completo, preocupacional
+
+00:06:33.039 --> 00:06:38.360
+estándar, preocupacional con esfuerzo,
+adentro, por ejemplo, cantidad de
+
+00:06:37.120 --> 00:06:42.240
+estudios,
+¿sí? Son los estudios que lleva el
+
+00:06:40.520 --> 00:06:48.000
+periódico anual, que eso también lo
+puedes modificar.
+
+00:06:43.720 --> 00:06:51.720
+Sí. Eh, en duración estimada son 2 horas
+y acá se establece un precio base que
+
+00:06:50.199 --> 00:06:56.759
+este que va a ser el que va a impactar
+en la facturación hacia la compañía
+
+00:06:54.800 --> 00:07:01.000
+o hacia el
+Esto vuelvo a repetirle esto es una
+
+00:06:58.639 --> 00:07:05.759
+demo, un prototipo, esto se puede
+necesit Sí, sí, sí, sí, sí.
+
+00:07:03.800 --> 00:07:12.199
+Eh, entonces el periódico anual, bueno,
+y ahí está. Seguimos para abajo
+
+00:07:08.520 --> 00:07:14.199
+en configuración eh sedes.
+Eh ahí
+
+00:07:12.960 --> 00:07:18.360
+la única,
+la única sede se puede agregar nueva
+
+00:07:16.199 --> 00:07:25.440
+sede.
+Eh los recursos de cada sede.
+
+00:07:22.280 --> 00:07:30.039
+Ya. Entonces en sede central tenés un
+laboratorio, dos consultorios, se pueden
+
+00:07:27.520 --> 00:07:35.039
+agregar más uso.
+El horario de trabajo en esa sede es de
+
+00:07:32.240 --> 00:07:41.319
+813 a 1417.
+Sí. Eh, y
+
+00:07:37.599 --> 00:07:47.479
+ocupan eh o sea, ¿cuánta es la capacidad
+que tenés de laboratorio? Cinco por por
+
+00:07:44.599 --> 00:07:52.120
+slot y la duración son 30 minutos y la
+capacidad en un consultorio de 1 30
+
+00:07:49.759 --> 00:07:57.280
+minutos. también se puede modificar los
+estándares.
+
+00:07:53.759 --> 00:08:00.759
+Eh, después tienes eh prioridad de la
+empresa, o sea, cuáles son las empresas
+
+00:07:59.080 --> 00:08:03.960
+prioritarias, porque eso me lo había
+planteado Eno de que por ahí tienen
+
+00:08:02.800 --> 00:08:09.599
+empresas muy grandes y que ustedes
+necesitan manejarlas por slot.
+
+00:08:07.479 --> 00:08:14.720
+Eh, es decir, si viene una empresa con
+80 empleados, eh,
+
+00:08:12.960 --> 00:08:19.960
+hay que administrarlo de una manera para
+que queden slots fijos dentro de eso,
+
+00:08:17.879 --> 00:08:24.280
+según lo que yo interpreté, ¿no? Eh,
+dentro de esa empresa, o sea, entran 30
+
+00:08:22.360 --> 00:08:29.159
+30.
+Okay. Te puedo pedir que me clarifiques
+
+00:08:26.720 --> 00:08:34.440
+qué significa slots.
+Son los bloques de tiempo.
+
+00:08:32.320 --> 00:08:38.719
+Bloques de tiempo,
+de espacio físico y de tiempo. Es decir,
+
+00:08:36.599 --> 00:08:44.240
+el consultorio uno lo vas a poder ocupar
+de 8 a 10
+
+00:08:40.279 --> 00:08:50.519
+eh eh de 8 a 10 el consultorio uno. Eso
+es un slot. Entonces, en forma
+
+00:08:45.560 --> 00:08:55.240
+automática va tu armándose los turnos.
+Ajá. Vuelvo a repetir, esto lo podemos
+
+00:08:53.000 --> 00:09:01.440
+modificar a las necesidades específicas
+de ustedes. Ya.
+
+00:08:58.279 --> 00:09:04.440
+Bien. Eh, entonces, eh, sigamos con la
+configuración.
+
+00:09:05.120 --> 00:09:12.120
+Eh,
+ahí está el manual de parametrización y
+
+00:09:10.360 --> 00:09:15.079
+la carga. Bueno, esa carga de prueba de
+datos es lo que estás viendo vos en este
+
+00:09:14.040 --> 00:09:19.079
+momento.
+Hicimos la carga de prueba.
+
+00:09:17.079 --> 00:09:24.279
+Eso te manda el manual de
+parametrización, te manda un a otra
+
+00:09:21.920 --> 00:09:28.839
+página para que vos lo puedas ver. Yo no
+lo estoy viendo, pero bueno. Eh, eso
+
+00:09:26.680 --> 00:09:32.480
+también se puede modificar. Esto es un
+prototipo.
+
+00:09:29.480 --> 00:09:32.480
+Sí.
+
+00:09:32.560 --> 00:09:40.000
+Eso para que uno lo pueda leer un
+poquito.
+
+00:09:36.079 --> 00:09:45.680
+Volviendo a a
+al sistema. Sí,
+
+00:09:43.120 --> 00:09:49.279
+que quiero volver de salir de acá.
+E vuelve para atrás.
+
+00:09:58.160 --> 00:10:04.399
+Se te ha se te abrió otra pestaña,
+Pablo. Tenés que eh
+
+00:10:05.079 --> 00:10:08.079
+anterior.
+
+00:10:08.959 --> 00:10:16.519
+Bien.
+Bueno, sigamos.
+
+00:10:13.040 --> 00:10:23.200
+Bien, bien. Ahí sigo viendo la pantalla
+del manual.
+
+00:10:19.519 --> 00:10:27.680
+Perdón, perdón, perdón. Ahí está.
+Ahora no veo ninguna pantalla.
+
+00:10:25.880 --> 00:10:32.320
+Stop.
+Está bien, tranquilo.
+
+00:10:28.600 --> 00:10:32.320
+Para, para, para.
+
+00:10:42.440 --> 00:10:45.440
+Acá.
+
+00:10:46.800 --> 00:10:54.440
+Bien. Si vos te vas al inicio, al
+inicio, que esto también me interesa que
+
+00:10:50.800 --> 00:11:00.040
+lo vean ahí, te vas a ir a ajuste, baja,
+baja, baja, baja, baja, baja, donde dice
+
+00:10:56.839 --> 00:11:04.279
+ajustes. Este, tenés acceso total a
+todos lados, por eso tenés esta
+
+00:11:01.760 --> 00:11:07.279
+posibilidad. Tendés and administrar
+usuarios.
+
+00:11:07.800 --> 00:11:13.360
+En la parte derecha hay seis usuarios
+activos.
+
+00:11:11.839 --> 00:11:18.040
+Acá,
+acá donde dice usuarios empresas.
+
+00:11:15.120 --> 00:11:21.160
+Sí, ahí puedes también entrar.
+usuarios.
+
+00:11:19.600 --> 00:11:27.560
+Bueno, esos son usuarios estándar que
+hemos generado como para e esta demo.
+
+00:11:24.680 --> 00:11:33.480
+Sí. Entonces, vos vas a tener el usuario
+recepcionista, el usuario técnico
+
+00:11:30.160 --> 00:11:37.720
+laboratorio, el usuario médico, el
+usuario gerente y el usuario editor
+
+00:11:35.600 --> 00:11:43.639
+auditor.
+Cada uno de estos usuarios eh va a tener
+
+00:11:40.200 --> 00:11:49.680
+su propio corredator y sus accesos
+específicos a sus actividades.
+
+00:11:46.839 --> 00:11:56.839
+¿Sí? Entonces, el recepcionista va a ser
+el centro neurálgico de toda esta
+
+00:11:53.240 --> 00:12:00.720
+de todo este esta secuencia y después el
+auditor va a ver los los certificados
+
+00:11:58.920 --> 00:12:04.880
+que tiene que aprobar en donde va a ver
+todos los estudios y él le va a poner
+
+00:12:02.760 --> 00:12:12.399
+apto y le va a poner le va a estampar la
+firma. Eh, el gerente va a ver todo. Eh,
+
+00:12:09.360 --> 00:12:16.760
+el médico va a poder ver eh hacer sus
+consultas y cargar los datos de las
+
+00:12:14.040 --> 00:12:21.480
+consultas. eh el técnico de laboratorio
+va a poder cargar sus eh mediciones. En
+
+00:12:20.079 --> 00:12:25.560
+principio es a mano, pero después,
+bueno, podemos ir viendo, como habíamos
+
+00:12:23.079 --> 00:12:29.519
+hablado con eso de poder migrar la
+información
+
+00:12:27.199 --> 00:12:35.680
+eh y a su vez van a quedar registrados,
+pueden subir los informes que emiten los
+
+00:12:32.240 --> 00:12:40.839
+sistemas a acá para que quede todo en un
+solo documento.
+
+00:12:37.639 --> 00:12:45.040
+Entonces el recepcionista va a poder
+ver, por ejemplo, si volvemos a a
+
+00:12:43.279 --> 00:12:50.360
+Medicar, volvete a inicio donde dice
+ajuste de arriba,
+
+00:12:47.519 --> 00:12:56.440
+sí, en la parte de medical,
+medicina laboral, ahí va. Eh, fíjate que
+
+00:12:53.839 --> 00:13:03.279
+dice ahí hoy en el medio que está el
+cursor titilando. Más al medio, más ahí.
+
+00:12:59.000 --> 00:13:07.160
+Sacá ese hoy, sacalo ese
+ahí tenés
+
+00:13:05.079 --> 00:13:15.000
+todos los movimientos
+de eh turnos que se están otorgando a a
+
+00:13:12.920 --> 00:13:20.199
+distintas personas que tienen a
+distintas empresas. Sí. Entonces,
+
+00:13:17.000 --> 00:13:25.000
+empresa constructora del sur, tenés esa,
+por ejemplo, que acabas de entrar, tenés
+
+00:13:22.199 --> 00:13:32.000
+el paciente, eh
+eh el la empresa, el puesto de trabajo,
+
+00:13:29.279 --> 00:13:35.120
+el tipo de es periódico, tipo de examen
+periódico,
+
+00:13:33.079 --> 00:13:39.079
+sede, asigna central, fecha, hora del
+turno. ¿Qué hace el sistema? En
+
+00:13:37.079 --> 00:13:43.480
+principio el sistema te en función de
+cómo tengas armada la agenda, te va
+
+00:13:40.760 --> 00:13:46.959
+asignando los turnos solos. Sí.
+Ajá.
+
+00:13:44.480 --> 00:13:51.639
+eh teniendo en cuenta los slot también y
+los espacios que tienen que ocupar las
+
+00:13:48.639 --> 00:13:56.639
+empresas. E
+entonces vos ahí vas a ir viendo el
+
+00:13:53.320 --> 00:14:01.320
+progreso de los distintos estudios que
+se tienen que ir haciendo. Entonces en
+
+00:13:59.000 --> 00:14:04.839
+este periódico anual tenés eh
+audiometría, electrocardiograma,
+
+00:14:02.920 --> 00:14:08.920
+análisis de laboratorio, examen clínico
+general. Entonces, los técnicos, cuando
+
+00:14:07.440 --> 00:14:14.240
+vos, por ejemplo, en este caso, que ya
+está confirmado, el técnico, si te vas a
+
+00:14:11.480 --> 00:14:18.959
+clínica, vos recordad que nosotros
+tenemos acceso a todo,
+
+00:14:17.279 --> 00:14:22.680
+eh,
+le vas a
+
+00:14:20.480 --> 00:14:27.279
+claro, entra a los estudios y lo puede
+ver, pero antes eh volvamos para
+
+00:14:26.000 --> 00:14:31.920
+ve ahí tenés estos estudios,
+audiometría, electrodama, análisis de
+
+00:14:29.600 --> 00:14:35.959
+laboratorio, examen clínico general. Si
+entrás en audiometría, ponle, entrá en
+
+00:14:34.360 --> 00:14:40.800
+el estudio que dice pendiente
+audiometría,
+
+00:14:38.600 --> 00:14:45.040
+el técnico va a empezar a iniciar el
+estudio. Le da clic en iniciar arriba en
+
+00:14:43.759 --> 00:14:49.160
+el botoncito de arriba donde dice
+iniciar.
+
+00:14:46.720 --> 00:14:55.160
+Sí. Entonces, ahí empieza el estudio en
+proceso. Sí.
+
+00:14:51.560 --> 00:14:59.680
+Eh, y bueno, después de que tiene
+agregar las líneas, agrega los datos,
+
+00:15:00.399 --> 00:15:04.839
+ahí va completando lo que va
+necesitando.
+
+00:15:07.480 --> 00:15:14.680
+Los adjuntos
+quedar enganchado.
+
+00:15:12.399 --> 00:15:20.519
+tiene que agregar una línea que son los
+parámetros que él va a medir. Si agre
+
+00:15:19.120 --> 00:15:25.440
+línea
+ver ahí le diste clic a agregar una lí
+
+00:15:24.399 --> 00:15:30.040
+ahí está.
+Entonces ahí le pone los datos que
+
+00:15:27.639 --> 00:15:34.319
+vuelvo a repetir, tenemos que si
+seguimos avanzando hacer todos estos
+
+00:15:32.160 --> 00:15:40.279
+parámetros y cargarlo bien. Vas a tener
+las referencias, las referencias máximas
+
+00:15:37.000 --> 00:15:45.600
+eh de cada uno estudios y te va un
+análisis de fuera de rango.
+
+00:15:42.120 --> 00:15:49.240
+Sí. Entonces el parámetro, no sé, X, Z,
+Y, ponerle ahíño,
+
+00:15:51.360 --> 00:16:01.360
+el valor, el valor
+no sé, poner tres
+
+00:15:57.720 --> 00:16:05.959
+y la unidad de medida eh, no sé, A
+es unidad de medida.
+
+00:16:02.839 --> 00:16:13.160
+Claro, puede ser decibeles. Ponel. Sí,
+sí, ponle. No sé cómo se escribe, pero
+
+00:16:08.440 --> 00:16:20.519
+DBS o DCB. DC. Bien. y ponele que esta
+persona la referencia mínima es uno y la
+
+00:16:16.079 --> 00:16:20.519
+referencia máxima es 2.5.
+
+00:16:21.319 --> 00:16:28.639
+Vale. Eh, entonces ahí ya te está
+marcando un rango. Entonces ahí puede
+
+00:16:25.680 --> 00:16:32.759
+hacer todos los estudios necesarios de
+lo que necesita la persona. Sí. ¿Viste
+
+00:16:31.040 --> 00:16:35.720
+que al final de esa línea hay un tarrito
+de basura? Sacarlo. Eso
+
+00:16:34.600 --> 00:16:41.040
+sí.
+eh el de abajo. Bueno,
+
+00:16:38.720 --> 00:16:45.880
+eh acá puedes descartar también todo.
+Sí, descartar, podes crear, guardar y
+
+00:16:43.319 --> 00:16:49.519
+crear uno nuevo. Y el resultado puede
+ser seleccionado como normal, sin
+
+00:16:48.000 --> 00:16:52.759
+particularidad normal y con
+observaciones.
+
+00:16:51.279 --> 00:16:55.319
+Ah, bien.
+Y
+
+00:16:53.480 --> 00:17:02.480
+acá es un campo texto.
+Conclusión. Exacto. Sí. Entonces, eh,
+
+00:16:58.600 --> 00:17:02.480
+pone guardar y cerrar.
+
+00:17:03.519 --> 00:17:11.280
+Entonces, eh, con observaciones. Exacto.
+Imaginemos que terminó la biometría.
+
+00:17:09.480 --> 00:17:14.600
+Completar
+arriba en el botón derecho, en el mismo
+
+00:17:12.839 --> 00:17:20.240
+lugar donde está iniciar
+y ahí está completado.
+
+00:17:16.760 --> 00:17:24.400
+Entonces, eh si volvés a las solicitudes
+de estudio, en la parte ahí al lado
+
+00:17:22.839 --> 00:17:28.600
+donde dice, no, dice solicitudes de
+estudio.
+
+00:17:26.640 --> 00:17:34.520
+Para, para que me perdí.
+¿Viste que dice medical? Ahí, ahí está.
+
+00:17:32.640 --> 00:17:38.880
+está eh esto ya está completado,
+ya la biometría quedó completado. Puedo
+
+00:17:36.200 --> 00:17:43.760
+entrar acá y empezar con este también.
+Exacto. Exactamente.
+
+00:17:40.960 --> 00:17:48.400
+Eh, lo que tiene es que es muy intuitivo
+que vos manejando una,
+
+00:17:46.039 --> 00:17:53.320
+fíjate, de frenos es como que ahí tenés
+un escritorio de trabajo, tenés una
+
+00:17:51.000 --> 00:17:56.840
+ficha a donde dice iniciar pendiente en
+proceso completado y validado. Eso es un
+
+00:17:55.919 --> 00:18:01.200
+menú
+y un y una barra de estados. Y abajo
+
+00:17:59.480 --> 00:18:06.200
+tenés como un encabezado donde dice
+orden, tipo de estudio, especialidad,
+
+00:18:02.799 --> 00:18:13.440
+profesional, paciente, fecha, ¿sí? Tipo
+de prestación interna o externa. Y abajo
+
+00:18:08.720 --> 00:18:13.440
+tenés solapita donde dice resultado.
+
+00:18:13.679 --> 00:18:20.120
+Bueno, todo se trabaja así. Vos tenés
+siempre los encabezados, que es la
+
+00:18:17.520 --> 00:18:25.600
+información general de los contactos, de
+los productos, de los profesionales, de
+
+00:18:22.799 --> 00:18:30.360
+lo que sea. Y abajo con la información
+más específica tenés la zona pita. Sí,
+
+00:18:28.320 --> 00:18:36.000
+vos comprendiendo esto, todo lo demás es
+igual. Sí. Eh, y en la parte derecha
+
+00:18:34.080 --> 00:18:39.159
+tenés una trazabilidad de lo que se va
+haciendo. Ves que al lado te dice
+
+00:18:37.720 --> 00:18:44.520
+administración, solicitud de estudio
+cread. Y aparte se puede comunicar por
+
+00:18:41.960 --> 00:18:51.520
+correo electrónico, por ejemplo, cuando
+le otorgas turno a una persona, por
+
+00:18:47.400 --> 00:18:58.840
+ejemplo, bolete a recepción,
+eh, órdenes de examen, es el primero.
+
+00:18:55.000 --> 00:19:03.760
+Fíjate que sacar el de hoy, saca el
+buscador ahí de hoy y tenés uno que está
+
+00:19:01.400 --> 00:19:09.400
+en estado borrador.
+Sí. Le das ahí y le vas a decir que
+
+00:19:07.159 --> 00:19:13.120
+confirmas un turno. Fíjate que hice
+fecha y el turno. No está. Confirmar un
+
+00:19:11.480 --> 00:19:18.840
+turno.
+Eh, ¿dónde está la fecha? Y ahora
+
+00:19:16.159 --> 00:19:24.679
+no tiene nada. En examen, ¿viste? Que
+dice tipo, tipo examen, cede, fecha y
+
+00:19:20.960 --> 00:19:27.559
+hora del turno en la columna derecha del
+encabezado. O sea, vos ten estudio
+
+00:19:26.840 --> 00:19:31.799
+especial
+más arriba. Más arriba. A la derecha.
+
+00:19:29.080 --> 00:19:38.880
+Anda con el majo a la derecha.
+Ahí, ahí. Baja un poquito,
+
+00:19:35.360 --> 00:19:43.120
+baja más. Ahí donde dice examen.
+Examen
+
+00:19:40.400 --> 00:19:45.880
+fecha fecha barrada.
+No dice nada. Confirma el turn, por
+
+00:19:44.919 --> 00:19:50.559
+favor.
+No le pongas nada. Nada acá.
+
+00:19:48.039 --> 00:19:54.600
+No, nada.
+No confirmo. Ah, está
+
+00:19:52.640 --> 00:20:00.600
+bien ahí. Entonces, fíjate, cuando se
+confirma en forma automática en el chat,
+
+00:19:57.480 --> 00:20:05.480
+te manda un mensaje a la persona y a la
+compañía
+
+00:20:02.400 --> 00:20:09.120
+de que se confirme.
+Esp, espérame un segundito.
+
+00:20:14.960 --> 00:20:21.400
+Ahí estoy. Y esto sale automáticamente
+al teléfono que yo no dice enviar
+
+00:20:19.600 --> 00:20:24.600
+mensaje, pero no lo he enviado todavía.
+Si yo le doy clic ahí, le tengo que
+
+00:20:23.039 --> 00:20:29.240
+decir a dónde mandarlo.
+Sí, podés hacer eso o hacemos que
+
+00:20:26.720 --> 00:20:34.320
+automáticamente se mande por eh correo
+electrónico al celular de la persona que
+
+00:20:32.080 --> 00:20:38.840
+que está registrado. Sí, al correo
+electrónico. Eso viene por despecto.
+
+00:20:36.480 --> 00:20:47.200
+Ahora, si querés manejarlo por WhatsApp,
+eh hay que ahí tenés que contratar con
+
+00:20:41.679 --> 00:20:51.799
+meta eh un una cantidad de créditos para
+metas para que maneja WhatsApp.
+
+00:20:49.760 --> 00:20:56.400
+Entonces, vos podés mandar por WhatsApp
+plantillas,
+
+00:20:53.159 --> 00:21:01.559
+¿sí? Informato.
+Entonces, cuando ya cuando ya se
+
+00:20:58.320 --> 00:21:06.039
+confirmó, eh, ¿qué pasa? le vas a tener
+que el día que él tiene que venir, que
+
+00:21:03.520 --> 00:21:11.200
+es el 24 de febrero, a las 5 a esta
+tarde, perdón, a las 5 a más. Eh, eso
+
+00:21:09.360 --> 00:21:15.440
+hay que corregirlo, los slog.
+Sí, sí, sí.
+
+00:21:13.440 --> 00:21:20.360
+Cuando está la recepcionista y llega la
+persona, le das el check in
+
+00:21:18.360 --> 00:21:23.400
+en la parte izquierda,
+acá
+
+00:21:21.200 --> 00:21:28.559
+le das el ingreso. Ya sabes que esa
+persona está ahí, que vino
+
+00:21:26.559 --> 00:21:33.360
+y después le decís, "Bueno, como que ya
+estás, iniciamos los estudios, iniciar
+
+00:21:31.159 --> 00:21:37.880
+estudios." Y ahí se habilita en toda la
+parte de clínica los estudios que tiene
+
+00:21:35.200 --> 00:21:42.039
+que hacer.
+Bien. Cuando vos le asignas el turno
+
+00:21:39.760 --> 00:21:46.400
+directamente le asignas fecha, hora y el
+tipo estudio, eso ya queda cargado. Le
+
+00:21:44.200 --> 00:21:49.360
+haces el checkin cuando la persona eso
+se manda por mail, le haces el checkin
+
+00:21:47.799 --> 00:21:54.200
+cuando la persona llega y arrancas con
+el proceso.
+
+00:21:50.720 --> 00:22:00.880
+Exactamente. Esa es la idea inicial. Sí.
+Eh, entonces cuando esa persona e vas a
+
+00:21:58.919 --> 00:22:06.480
+tener una declaración jurada que te la
+está pidiendo la normativa de la
+
+00:22:03.960 --> 00:22:10.679
+seguridad, ¿viste la solacita?
+Sí, sí, sí, sí, sí, sí.
+
+00:22:08.400 --> 00:22:16.360
+Y después tenés certificados, que son
+los certificados que vos podés eh
+
+00:22:13.520 --> 00:22:22.799
+agregar del de los auditores y bueno, y
+ahí tenés el manejo de tu
+
+00:22:18.200 --> 00:22:27.520
+y la facturación después. Sí.
+Todo esto es, vuelvo a repetir, la idea
+
+00:22:25.120 --> 00:22:32.320
+de esto es armar un prototipo para que
+ustedes jueguen un poco, vean y bueno,
+
+00:22:30.360 --> 00:22:36.400
+si hay alguna expectativa que ustedes
+tengan que necesitemos que tengamos en
+
+00:22:34.400 --> 00:22:42.400
+cuenta cuando vayamos a presupuestar el
+proceso, eh nos dicen y y la podemos
+
+00:22:39.960 --> 00:22:49.600
+adaptar sin problema.
+Escúchame, ¿y cómo cómo le hacés cómo le
+
+00:22:46.720 --> 00:22:54.400
+haríamos llegar a la empresa el
+resultado completo con todos los
+
+00:22:52.520 --> 00:22:59.320
+informes? O sea, ¿cómo se descarga eso?
+O se manda un link o se manda o te
+
+00:22:56.720 --> 00:23:03.080
+descarga un archivo PDF con todo.
+Podemos hacer las dos cosas, lo que
+
+00:23:01.120 --> 00:23:07.760
+necesites. Podemos hacerlo. Podemos
+hacer generar un link con todo el la
+
+00:23:05.520 --> 00:23:12.919
+reportería. Fíjate que tiene que haber
+en las recepción tiene que haber ya
+
+00:23:10.799 --> 00:23:20.120
+estudios terminados.
+Eh, hay órdenes de exámenes
+
+00:23:16.240 --> 00:23:25.679
+ahí arriba. Primero saco, saco. Hoy ahí
+arriba
+
+00:23:21.840 --> 00:23:29.559
+que deberían haber estudios ya estudi
+ese.
+
+00:23:28.440 --> 00:23:34.600
+Claro. Entonces,
+ese está completo.
+
+00:23:30.840 --> 00:23:40.799
+Ese está completo. Sí. Eh, entonces lo
+que lo que como ustedes necesiten,
+
+00:23:37.679 --> 00:23:46.880
+nosotros podemos generar un en el portal
+la posibilidad de mandarle a la compañía
+
+00:23:43.120 --> 00:23:51.919
+un token con todos los estudios aptos o
+no aptos o lo que sea,
+
+00:23:48.760 --> 00:23:55.600
+eh o un PDF o por correo electrónico.
+Eso lo podemos armar sin problema. Como
+
+00:23:53.640 --> 00:23:59.559
+hemos armado este módulo hasta acá que
+hemos hecho este prototipo,
+
+00:23:57.880 --> 00:24:04.279
+lo demás, digamos, son cosas más
+chiquititas que lo podemos armar sin
+
+00:24:01.080 --> 00:24:10.080
+problema. Sí.
+Eh, claro. Bueno, eso es lo que eso
+
+00:24:07.200 --> 00:24:15.360
+deberíamos ver cómo cómo le hacemos
+llegar. Yo te explico cómo hacemos hoy.
+
+00:24:12.919 --> 00:24:19.200
+Eh, en general cada vez son más las
+empresas que nos piden los informes
+
+00:24:17.080 --> 00:24:24.520
+digitales. Entonces, hoy lo que se está
+haciendo es escanear el informe papel
+
+00:24:22.120 --> 00:24:27.760
+para mandar por mail junto con la
+factura.
+
+00:24:25.919 --> 00:24:31.240
+Eso es lo que se está haciendo hoy en
+general. Por ahí hay algunos que podemos
+
+00:24:29.720 --> 00:24:35.480
+afar, pero en general se está teniendo
+que hacer eso. Entonces, nosotros
+
+00:24:32.720 --> 00:24:40.600
+necesitamos que la empresa o bien acceda
+a ver, a visualizar el estudio y después
+
+00:24:38.679 --> 00:24:44.360
+ellos puedan descargarlo y cargarlo en
+sus respectivos portales, porque pasa
+
+00:24:42.440 --> 00:24:48.960
+que muchas empresas lo que tienen que
+hacer es cargar ese PDF en otros
+
+00:24:46.360 --> 00:24:54.880
+portales de otras empresas. Ellos
+necesitan poder hacer eso o bien recibir
+
+00:24:52.080 --> 00:24:59.720
+directamente el PDF o recibir un link a
+un portal donde puedan descargar un PDF.
+
+00:24:57.679 --> 00:25:05.200
+Sí, no hay problema. Eso lo podemos
+hacer sin problema. Inclusive no hace
+
+00:25:01.960 --> 00:25:08.840
+falta que esté en papel. Eh, nosotros
+acá le hemos puesto la parte de
+
+00:25:06.799 --> 00:25:12.840
+certificación. Entren clínica ahí, por
+favor.
+
+00:25:10.399 --> 00:25:17.679
+La parte de clínica.
+Claro, en en bueno, eso fundamentalmente
+
+00:25:16.000 --> 00:25:24.279
+eso que se pueda descargar en PDF y por
+supuesto el lo complejo de esta parte es
+
+00:25:22.120 --> 00:25:27.960
+el tema de la firma y cómo cómo hacer
+para validar las firmas de los
+
+00:25:25.840 --> 00:25:30.880
+profesionales y que salga todo como
+tiene que ser, digamos.
+
+00:25:28.960 --> 00:25:34.679
+Claro. Nosotros acá lo que hablábamos
+con Eno la vez pasada que tenés dos
+
+00:25:32.919 --> 00:25:39.399
+mecanismos, la firma electrónica y la
+firma digital.
+
+00:25:36.360 --> 00:25:45.840
+Eh, la firma electrónica eh es el
+dibujito ológrafo de la firma. A
+
+00:25:42.000 --> 00:25:51.320
+que eh se engancha con el acceso del
+auditor. Sí. Y en el momento que él
+
+00:25:48.440 --> 00:25:56.200
+valida esa
+firma se estampa en el PDF.
+
+00:25:55.559 --> 00:25:59.799
+Sí.
+Bien.
+
+00:25:56.960 --> 00:26:06.120
+Digitalmente. Entonces, la carga de la
+prueba ahí está en que en en el en el
+
+00:26:04.279 --> 00:26:09.600
+como es en el doctor que digan, "No, yo
+eso no lo firmé."
+
+00:26:07.600 --> 00:26:14.720
+Pero en realidad, si él es el único que
+tiene usuario y contraseña, esto queda
+
+00:26:11.360 --> 00:26:19.720
+registrado y lo podemos eh hacer la
+trazabilidad de de esa firma.
+
+00:26:17.279 --> 00:26:26.480
+Y después la otra es trabajar con firma
+digital. ODU tiene un sistema de firma
+
+00:26:22.159 --> 00:26:33.840
+digital ya implementado que eh la
+entidad certificante eh es la misma
+
+00:26:29.799 --> 00:26:39.720
+empresa ODU y eh bueno, eso habría que
+verlo a nivel legal. Sí, yo creo que sí
+
+00:26:37.200 --> 00:26:45.720
+que lo aceptan, eh, porque si no la otra
+es que las entidades certificantes sea
+
+00:26:42.080 --> 00:26:49.320
+eh la Cámara de, o sea, los doctores o
+la Superintendencia de Riesgo de
+
+00:26:47.240 --> 00:26:57.279
+Trabajo. Habría que ver eso,
+pero en principio eh la firma eh
+
+00:26:53.000 --> 00:27:03.279
+hológrafa electrónica es se puede hacer
+la firma en una tablet y eso queda
+
+00:26:59.840 --> 00:27:09.840
+guardado en el en el ¿cómo es? en el
+perfil del médico auditor.
+
+00:27:07.080 --> 00:27:14.399
+Bueno, entiendo que entiendo que
+inicialmente con eso estaría bien porque
+
+00:27:11.960 --> 00:27:21.799
+si nosotros hoy estamos mandando el
+escaneo de de una firma holográfica en
+
+00:27:18.039 --> 00:27:24.760
+papel, no veo que sea un problema que
+salga de la misma manera en el PDF que
+
+00:27:23.679 --> 00:27:28.480
+vamos a mandar, o sea,
+exacto. Exacto. Es lo mismo.
+
+00:27:26.840 --> 00:27:33.399
+Exactamente. Igual vos tenés el papel
+real en tu escritorio, digamos. Y bueno,
+
+00:27:31.640 --> 00:27:37.520
+si hay algún problema y lo lo
+justificar, lo demostrar.
+
+00:27:35.559 --> 00:27:42.679
+Eh, en ese caso,
+si vos por ejemplo entrás en el menú
+
+00:27:39.080 --> 00:27:47.679
+clínica, ahí fíjate en clínica,
+sí,
+
+00:27:43.360 --> 00:27:47.679
+ahí vas a tener eh certificados,
+
+00:27:48.000 --> 00:27:56.720
+los certificados. Ahí tenés uno que está
+entregado y hay otro que está firmado.
+
+00:27:53.720 --> 00:28:01.519
+Entrado,
+eh, ahí en eso va la firma digital. Ahí
+
+00:28:00.039 --> 00:28:09.720
+va la firma.
+Entonces, el dibujito cuando eh cuando
+
+00:28:04.720 --> 00:28:14.000
+el médico lo firma eh aparece tú el el
+en la entidad certificante hay fíjate
+
+00:28:11.640 --> 00:28:20.640
+que tiene resumen de estudio, eh vas a
+tener todos los resúmenes
+
+00:28:17.080 --> 00:28:23.559
+de todo lo que se le hizo y el apto, el
+apto con
+
+00:28:22.279 --> 00:28:29.480
+y no apto.
+Sí. Y cuando le da marcar como
+
+00:28:26.080 --> 00:28:35.640
+entregador, eh, eso ya cierra todo el
+proceso y ahí es donde se tiene que
+
+00:28:32.600 --> 00:28:43.240
+generar la facturación.
+Perfecto. Bueno, okay. Esto vuelve
+
+00:28:39.640 --> 00:28:46.480
+prototipo. Acá hay quear hacer cositas
+chiquitas para
+
+00:28:44.080 --> 00:28:51.799
+Sí, obvio, obvio, obvio. Hay que hay que
+llevarlo al hay que ajustarlo lo más
+
+00:28:49.240 --> 00:28:56.880
+posible a la realidad que manejamos hoy.
+Por supuesto que una cosa va a tener que
+
+00:28:53.679 --> 00:29:01.320
+ajustarse a la otra, eh, porque, bueno,
+la idea es mejorar lo que estamos
+
+00:28:59.039 --> 00:29:05.799
+haciendo hoy, mejorarlo.
+Hay cosas, hay algunos que que nosotros
+
+00:29:04.039 --> 00:29:11.880
+se lo comentábamos a Eno, no puedo estar
+en la otra reunión, pero hay informes
+
+00:29:08.320 --> 00:29:19.600
+que nosotros los tipeamos y hay informes
+que los los equipos directamente generan
+
+00:29:16.240 --> 00:29:24.960
+un PDF y nosotros lo único que hacemos
+eh, o sea, nosotros no, el médico lo
+
+00:29:21.600 --> 00:29:28.559
+único que hace es leer ese PDF y emitir
+su informe, que ese sí es el tipeado.
+
+00:29:27.279 --> 00:29:33.039
+Pero bueno, nosotros vamos a tener que
+tener la posibilidad de adjuntar el
+
+00:29:31.000 --> 00:29:38.600
+informe PDF que nos arroja el equipo y
+que a su vez el profesional emita su
+
+00:29:35.360 --> 00:29:42.840
+informe en base de ese PDF.
+Sí, no hay problema. Eh, se puede,
+
+00:29:40.679 --> 00:29:47.960
+Lo vi por ahí que se podían adjuntar.
+Sí, mira, eh, o sea, lo podemos apuntar
+
+00:29:45.679 --> 00:29:52.760
+directamente en el documento o acá en el
+mismo chatter que tenés acá al lado,
+
+00:29:50.519 --> 00:29:57.640
+podés apuntar, viste que tenés a la
+derecha, bien, bien a la derecha, tenés
+
+00:29:55.200 --> 00:30:00.559
+abajo, ahí tenés un clipscito más a la
+derecha.
+
+00:29:58.760 --> 00:30:03.640
+Sí, acá sí
+ese
+
+00:30:01.360 --> 00:30:06.760
+con ese. Pero ese es más genérico. Yo lo
+llevaría directamente adentro del
+
+00:30:05.919 --> 00:30:08.440
+reporte o de los
+adentro del estudio.
+
+00:30:08.120 --> 00:30:13.480
+Claro.
+Es que yo recién habíamos entrado acá,
+
+00:30:11.080 --> 00:30:17.600
+por ejemplo, en la audiometría,
+acá donde agregamos la línea acá que te
+
+00:30:16.159 --> 00:30:21.240
+permite adjuntar.
+Sí, ahí adjuntar el archivo.
+
+00:30:19.279 --> 00:30:25.720
+Ahí nosotros deberíamos adjuntar el
+trazado de la audiometría y que después
+
+00:30:22.919 --> 00:30:29.240
+la fono ponga el informe acá. ¿Se
+entiende?
+
+00:30:26.600 --> 00:30:33.760
+Sí, sí, sí. No hay problema. No hay niú.
+Eso es lo que deberíamos poder hacer.
+
+00:30:31.039 --> 00:30:38.519
+Sí, sí. Si querés hacer adjuntar un
+archivo cualquiera, dale a adjuntar
+
+00:30:35.519 --> 00:30:38.519
+archivo.
+
+00:30:40.000 --> 00:30:47.480
+Te va a abrir un un visap eh y lo tenés
+asunto.
+
+00:30:45.679 --> 00:30:51.559
+Perfecto.
+Okay. Bueno, vamos a tener que ver. Sí,
+
+00:30:50.200 --> 00:30:56.399
+sí, sí.
+Si no, sí, porque es un es un lío para
+
+00:30:54.240 --> 00:31:02.519
+la fonobióloga tener que o para el
+sistema tener que implementar el formato
+
+00:30:59.039 --> 00:31:05.840
+del pasado acá. Eso lo hace muy manual.
+Todos los fonodos hacen así manual.
+
+00:31:04.240 --> 00:31:08.480
+Claro, lo hacen manual. Bueno, eso hay
+que ver.
+
+00:31:06.519 --> 00:31:13.120
+Claro, es como lo deograma, ¿viste? Que
+el dentista marca con lapicera roja y
+
+00:31:10.960 --> 00:31:18.159
+azul. Bueno, esto funciona igual. Bueno,
+se puede armar algo como un hotograma o
+
+00:31:15.440 --> 00:31:24.159
+se puede armar el dibujo o lo que
+necesiten, no hay problema con eso. Eh,
+
+00:31:21.679 --> 00:31:27.919
+se puede hacer lo que necesiten en ese
+sentido, no hay problema, lo podemos
+
+00:31:25.600 --> 00:31:31.279
+armar.
+Ahí capaz podemos ver cómo se puede
+
+00:31:29.679 --> 00:31:37.159
+hacer en una de esas podemos conseguir
+algún algún pretrasado, digamos, que la
+
+00:31:35.559 --> 00:31:41.240
+fonobióloga diga, "Bueno, tildo acá,
+tildo acá, tildo acá, tildo acá, hago el
+
+00:31:39.080 --> 00:31:44.399
+trazado y hago el informe y no tener que
+adjuntar el trazado manual, ¿se
+
+00:31:43.679 --> 00:31:50.279
+entiende?"
+Sí, sí, sí, sí, sí, no hay problema. Eh,
+
+00:31:48.039 --> 00:31:56.440
+lo que le comentaba Enzo, a ver,
+nosotros trabajamos mucho con IA,
+
+00:31:53.760 --> 00:32:03.159
+entonces este esta estos desarrollos y
+todo lo hacemos con IA y trabajamos,
+
+00:31:59.039 --> 00:32:08.760
+tenemos un el equipo que somos Ricardo y
+yo y la IA eh nos permite hacer lo que
+
+00:32:05.600 --> 00:32:13.399
+se nos ocurre, eso no hay problema, de
+verdad, de verdad. Este este módulo,
+
+00:32:10.440 --> 00:32:18.000
+este módulo, este módulo, eh si nosotros
+lo tuviésemos que hacer con un equipo de
+
+00:32:15.679 --> 00:32:21.519
+programación solamente,
+no lo hubiésemos tenido en dos o tres
+
+00:32:19.720 --> 00:32:26.840
+meses.
+Claro, ¿no?
+
+00:32:23.320 --> 00:32:30.399
+Este, entonces no, por eso yo digo muy
+tranquilo el tema de que sí lo podemos
+
+00:32:28.600 --> 00:32:36.720
+hacer y lo que buscamos nosotros la
+hiperpersonalización de los del sistema
+
+00:32:33.840 --> 00:32:43.240
+para que funcione eh totalmente
+personalizado a ustedes.
+
+00:32:39.840 --> 00:32:48.440
+Bueno, ahí una vez que
+yo lo la verdad que yo lo veo viable, yo
+
+00:32:45.799 --> 00:32:51.480
+lo voy a ver acá con los chicos en el
+área de medicina, pero por lo que hemos
+
+00:32:50.159 --> 00:32:58.240
+estado hablando nosotros me parece que
+es recontraviable. Habría que que bueno
+
+00:32:54.080 --> 00:33:03.480
+avanzar en pensar eh cuánto cómo es el
+tema del presupuesto, cómo se debería
+
+00:33:00.240 --> 00:33:07.919
+llevar a cabo, cuál es la demora, en
+cuánto tiempo nos puede llevar. Obvio
+
+00:33:05.320 --> 00:33:12.360
+que, a ver, hay una primera etapa y
+después en la medida que se va usando es
+
+00:33:10.039 --> 00:33:16.840
+necesario sí o sí ir haciendo ajustes
+sobre la marcha que van saltando por ahí
+
+00:33:14.200 --> 00:33:20.480
+en el en el momento así estar mirando el
+prototipo, ¿no? Te das cuenta y después
+
+00:33:18.440 --> 00:33:24.039
+decís, "Uy, che, pero esto capaz lo
+podríamos meter por acá o esto lo
+
+00:33:22.240 --> 00:33:29.480
+podemos modificar." Bueno, sobre la
+marcha, eh, pero bueno, me parece que es
+
+00:33:27.639 --> 00:33:35.120
+recontraviable.
+Esa es la idea, Paul, eh, que este
+
+00:33:31.919 --> 00:33:43.559
+prototipo algo genérico que con la IA
+analizando los las normativas y las ISO
+
+00:33:38.519 --> 00:33:50.080
+que nos pasó Eno, eh, hicimos lo más
+viable posible. Ahora es tenemos que
+
+00:33:47.320 --> 00:33:55.399
+bajar a las necesidades específicas a
+ustedes sin perder de vista el la
+
+00:33:52.799 --> 00:34:00.679
+normativa.
+Este, así que no hay problema. Ricardo,
+
+00:33:57.639 --> 00:34:04.600
+¿querías decir algo? Sí, justamente en
+parte
+
+00:34:03.159 --> 00:34:10.320
+apoyando también lo que vos decís,
+Paula, vos imagínate que este este
+
+00:34:07.960 --> 00:34:13.839
+módulo se desarrolló
+eh de alguna manera a través del
+
+00:34:12.040 --> 00:34:17.720
+conocimiento que nosotros tenemos en
+materia de salud y en lo que tiene que
+
+00:34:15.159 --> 00:34:22.839
+ver con con la salud.
+Eh, pero más allá de eso, obviamente que
+
+00:34:21.040 --> 00:34:27.359
+es perfectible y hay un montón de cosas
+que o bien se pueden adaptar a los
+
+00:34:25.159 --> 00:34:31.960
+procesos que ustedes manejan, para lo
+cual si ustedes tienen flujogramas o
+
+00:34:29.320 --> 00:34:38.200
+tienen alguna algún manual de cómo hacen
+las tareas, estaría bueno para poder e
+
+00:34:35.399 --> 00:34:43.159
+alimentar el modelo. A su vez, como
+también, obviamente se te pueden ocurrir
+
+00:34:40.960 --> 00:34:46.480
+mejoras en el camino y esas mejoras
+nosotros la podemos meter adentro del
+
+00:34:44.919 --> 00:34:51.599
+código.
+Esto, obviamente, como te decía Horacio,
+
+00:34:48.839 --> 00:34:55.520
+es un es un modelo sobre el cual
+nosotros podemos empezar a trabajar y y
+
+00:34:54.079 --> 00:34:59.520
+hacer todas las modificaciones que sean
+necesarias,
+
+00:34:57.359 --> 00:35:04.040
+obviamente, siempre con la perspectiva
+nuestra de adaptar eh el sistema a los
+
+00:35:02.440 --> 00:35:09.640
+procesos y no los procesos a los
+sistemas, que es lo que por ahí suelen
+
+00:35:06.079 --> 00:35:14.960
+hacer eh los enlatados.
+Claro. Eh, eso es lo que eso es lo que
+
+00:35:12.359 --> 00:35:20.520
+está Piola, que nosotros pero también a
+ver, así como el sistema es perfectible,
+
+00:35:18.200 --> 00:35:25.880
+el procedimiento también, si bien
+nosotros ya lo lo tenemos muy trabajado,
+
+00:35:23.000 --> 00:35:30.040
+llevamos muchos años trabajando, igual
+también los requerimientos de afuera se
+
+00:35:28.079 --> 00:35:34.240
+van modificando y uno tiene que tener la
+cintura suficiente para poder ir
+
+00:35:31.920 --> 00:35:38.119
+adaptándose a lo que los demás están
+pidiendo, porque si no te quedas fuera
+
+00:35:35.720 --> 00:35:41.720
+del sistema, básicamente. Entonces, por
+eso fue la idea de modernizar un poco,
+
+00:35:40.440 --> 00:35:46.240
+porque en su momento cuando
+implementamos el sistema que trabajamos
+
+00:35:43.480 --> 00:35:52.280
+hoy fue un paso enorme, porque pasamos
+de hacer todo manual, este, manuscrito a
+
+00:35:50.440 --> 00:35:58.119
+un sistema que hoy tiene una base de
+datos de de qué sé yo, tiene como 14
+
+00:35:55.240 --> 00:36:04.040
+años o 11 años por ahí de información
+cargada, es un montón y y también nos
+
+00:36:01.319 --> 00:36:07.560
+sirve eso, tener todo informatizado,
+pero hoy nos está quedando como corto
+
+00:36:06.040 --> 00:36:13.599
+para lo que nos están pidiendo desde
+afuera y se nos hace muy complejo eh
+
+00:36:11.720 --> 00:36:17.119
+llevar lo que estamos haciendo hoy a lo
+que nos están pidiendo. Por eso es
+
+00:36:14.880 --> 00:36:22.839
+tratar de modernizar, dar un salto más y
+modernizarnos. Y así como digo, esto se
+
+00:36:20.920 --> 00:36:27.960
+puede ajustar a nuestro sistema, tratar
+nosotros de de implementar algunas cosas
+
+00:36:26.280 --> 00:36:35.400
+más
+más modernas, más este mejor.
+
+00:36:32.680 --> 00:36:39.760
+Vos dijiste que tenés 14 años de base de
+datos, eso hay que migrarlo. Tenemos que
+
+00:36:37.640 --> 00:36:44.680
+traerlo a este sistema
+y hay que ver cómo se puede hacer. Pero
+
+00:36:41.680 --> 00:36:49.480
+sí hay una cantidad enorme de
+información. Bueno, eso hay que hay que
+
+00:36:47.240 --> 00:36:53.480
+procesarlo o reprocesarlo y traerlo al
+sistema para que queden los historiales,
+
+00:36:51.160 --> 00:36:56.440
+porque si no se que no se pierdan por lo
+menos el historial, que no estén
+
+00:36:55.480 --> 00:36:58.640
+separados.
+Claro.
+
+00:36:57.599 --> 00:37:04.599
+Sí, eso. Dale,
+ver cómo cómo se hace. No sé,
+
+00:37:01.839 --> 00:37:10.760
+ya lo vamos a ver, no te preocupes.
+Quería primero, la verdad me ha gustado
+
+00:37:08.319 --> 00:37:17.760
+mucho, está muy interesante todo el
+logro que han que han hecho con esto.
+
+00:37:14.440 --> 00:37:23.400
+la parte, ¿cómo funciona la parte
+contable?
+
+00:37:20.359 --> 00:37:31.960
+La parte de las facturaciones,
+la parte, digamos, que nosotros tenemos
+
+00:37:26.839 --> 00:37:38.839
+el sistema VIXIS y hay que ver cómo cómo
+funciona con esto,
+
+00:37:34.520 --> 00:37:44.040
+incorporando la esa parte acá también.
+Eso usted
+
+00:37:40.640 --> 00:37:50.960
+lo van a mantener o lo van a reemplazar.
+Y eh para mí ya también eso eh lo
+
+00:37:48.200 --> 00:37:57.359
+podríamos reemplazar. Eh también tiene
+muchos años y y requiere, no sé si se
+
+00:37:54.400 --> 00:38:03.960
+podrá unificar junto con esto.
+Sí, se puede unificar. La parte contable
+
+00:38:00.920 --> 00:38:09.119
+está muy bien desarrollada en ONU.
+está bastante avanzado
+
+00:38:06.200 --> 00:38:14.079
+y está muy bien con la localización
+argentina, o sea, vos podés facturar a
+
+00:38:11.440 --> 00:38:17.960
+fin, podés presentar libros IVA, esto te
+hablo de empresa responsable inscripto,
+
+00:38:16.480 --> 00:38:22.800
+podés presentar intenciones,
+percepciones, podes hacer todo eso y si
+
+00:38:20.680 --> 00:38:28.640
+hay que adaptar algo, lo adaptamos.
+Perfecto, porque lo que veo es como el
+
+00:38:25.920 --> 00:38:34.040
+funcionamiento de medicina laboral por
+lo todo el funcionamiento está perfecto.
+
+00:38:31.200 --> 00:38:41.280
+Lo que veo que quizá faltaría es cómo se
+vincula con la parte
+
+00:38:37.000 --> 00:38:45.760
+de costos, eh ingresos, egresos. Además
+tenemos otros ingresos que no son solo
+
+00:38:43.319 --> 00:38:50.839
+de la medicina laboral. Tenemos
+programas de de esponsoreo de empresas
+
+00:38:48.720 --> 00:38:55.079
+por eventos que tenemos en la cámara
+institucionales.
+
+00:38:52.640 --> 00:38:59.880
+Eh, bueno, qué sé yo. Eventualmente no
+pueden hacer un aporte otra institución,
+
+00:38:57.359 --> 00:39:07.240
+una donación lo que sea que se les pueda
+ocurrir. Eh, y bueno, y creo que estaría
+
+00:39:03.800 --> 00:39:11.960
+bueno que esté todo unificado, eh, y en
+el mismo sistema sería lo ideal.
+
+00:39:09.800 --> 00:39:16.160
+Mira, eh nosotros armamos el tema de
+medicina laboral para enfocándonos en lo
+
+00:39:14.520 --> 00:39:20.720
+que hablamos en la reunión anterior,
+pero eh toda la parte contable está muy
+
+00:39:18.720 --> 00:39:24.800
+bien armada y vuelvo a repetirte,
+armamos este módulo y lo que necesitemos
+
+00:39:22.760 --> 00:39:29.280
+armar lo vamos a armar. Si te vas a
+inicio, eh Paula,
+
+00:39:29.920 --> 00:39:36.160
+para
+eh medicina laboral que salía en el Sí,
+
+00:39:33.200 --> 00:39:39.480
+ahí está,
+ahí está.
+
+00:39:37.880 --> 00:39:45.480
+Bueno, ahí tenés toda la parte de
+ventas, tenés tableros para hacer PKI,
+
+00:39:42.520 --> 00:39:50.560
+el CRM, la parte de contabilidad.
+Si entrás en contabilidad, entrá en
+
+00:39:47.560 --> 00:39:50.560
+contabilidad.
+
+00:39:54.400 --> 00:40:02.680
+Eh,
+todo el tema de contabilidad.
+
+00:39:59.480 --> 00:40:06.640
+Yo le puse que eran una entidad exenta.
+Eh, si te vas a configuración en
+
+00:40:05.000 --> 00:40:12.119
+contabilidad, ya está el plan de cuenta
+armado. Plan de cuentas ahí.
+
+00:40:10.000 --> 00:40:17.960
+Eso está el plan de cuentas listo. Está
+trabajando para con una contabilidad con
+
+00:40:15.079 --> 00:40:22.480
+muchísimas cuentas. Tenés 305 cuentas
+disponibles para usar, eh, y se pueden
+
+00:40:21.119 --> 00:40:25.960
+ir adaptando. Ahí tienes la parte
+activo, pasivo, patrimonio neto,
+
+00:40:24.280 --> 00:40:29.280
+resultados, cuentas de órdenes, de
+movimiento.
+
+00:40:27.960 --> 00:40:36.440
+Sí.
+Eh, y después tenés distintos tipos de
+
+00:40:32.040 --> 00:40:42.160
+de operatoria. Si te vas a a clientes,
+ponerle ahí a client facturas,
+
+00:40:44.319 --> 00:40:52.520
+podes crear una ahí se automatizaríamos
+la relación entre el módulo de médico
+
+00:40:49.760 --> 00:40:57.079
+con la creación de los de las ventas,
+eh, que en realidad empezaría con un
+
+00:40:54.480 --> 00:41:02.119
+presupuesto de venta y también tenés los
+presupuestos de compra. Y ahí si por
+
+00:40:58.760 --> 00:41:07.680
+ejemplo haces un nuevo una nueva factura
+manual, vamos a hacer una venta de un
+
+00:41:04.520 --> 00:41:13.920
+servicio de promoción. Ponele a donde
+dice nuevo, en la parte izquierda.
+
+00:41:12.520 --> 00:41:19.880
+Ahí vas a, fíjate que vuelvo a
+repetirte, Pabla, que es el encabezado y
+
+00:41:17.000 --> 00:41:24.800
+la sola Peters. Sí. qué sé yo, vas a
+promocionar a Constructora del Sur SA,
+
+00:41:22.760 --> 00:41:28.920
+que te está pagando como cliente ahí
+abajo,
+
+00:41:26.480 --> 00:41:32.720
+eh, clic ahí y podés escribir
+directamente. Bueno, ahí me está
+
+00:41:31.000 --> 00:41:38.680
+pidiendo configurar la responsabilidad
+porque ya está relacionado con AFIP
+
+00:41:35.599 --> 00:41:41.680
+y ahí, por ejemplo, le das ahí a la
+flechita y vas a entrar a constructora
+
+00:41:40.240 --> 00:41:44.839
+del Sur.
+Eh, te está
+
+00:41:43.200 --> 00:41:49.240
+Sí, te está pidiendo, te está bloqueando
+porque te pide el como no tenés eh
+
+00:41:46.960 --> 00:41:53.040
+cerrale con una X. Ahí vamos a agarrar
+constructora de sur como ejemplo. ¿Viste
+
+00:41:50.800 --> 00:41:57.760
+la X que tené ahí arribita? Cerralo
+acá, acá la de borrador.
+
+00:41:54.760 --> 00:42:02.800
+Ajá. La sacaste. Ahí andate a clientes
+en la parte de clientes y ahí tenés
+
+00:42:00.480 --> 00:42:06.839
+clientes. Baja y tenés clientes. Vamos a
+agarrar a constructora del sur
+
+00:42:06.920 --> 00:42:14.359
+ahí y ahí le vas a poner un número de
+quit.
+
+00:42:10.960 --> 00:42:14.359
+tipo de responsabilidad
+
+00:42:16.040 --> 00:42:23.079
+no
+pone un número de te lo va a validar.
+
+00:42:22.040 --> 00:42:29.920
+Ojo.
+Sí, claro. Me va a decir para
+
+00:42:25.640 --> 00:42:33.119
+ponerle un número más o menos real.
+Buenos minutos.
+
+00:42:33.160 --> 00:42:40.559
+Ayer estuvimos implementando un modulito
+para que poniendo el número de te traiga
+
+00:42:37.720 --> 00:42:45.480
+todos los datos desde a y está funcional
+ese. Entonces vos poner el número de
+
+00:42:43.000 --> 00:42:50.359
+cuida ahí y le ponés actualizar datos y
+tú vas a fit y te lo traje.
+
+00:42:49.400 --> 00:42:54.760
+Eh,
+eso es genial porque si no ODU también
+
+00:42:52.359 --> 00:42:59.880
+te los cargas y el cliente está pero te
+cobra.
+
+00:42:56.880 --> 00:43:05.040
+Claro. Así, ¿eh?
+Le piste un número de P. Ahí no.
+
+00:43:02.640 --> 00:43:07.960
+Ahí estoy. Estoy buscando uno que valga
+la
+
+00:43:05.640 --> 00:43:12.640
+Ponele ahí 20 corresponde algo.
+Te doy el mío. 20 21 949.
+
+00:43:12.040 --> 00:43:15.640
+Sí.
+5138.
+
+00:43:16.119 --> 00:43:28.599
+Sí. Eh, y cambiale el idioma porque está
+en inglés. Eh, eso es multiidioma el
+
+00:43:22.760 --> 00:43:28.599
+sistema. Eh, guardalo en la nubecita.
+
+00:43:30.119 --> 00:43:39.520
+A guardar,
+te vas a clientes arriba,
+
+00:43:36.400 --> 00:43:46.000
+factura y vas a crear un una venta de
+algún servicio que hagan ustedes.
+
+00:43:42.800 --> 00:43:51.319
+Fíjate que ya me toma la factura C.
+Hm.
+
+00:43:47.040 --> 00:43:57.359
+Eh, y ahí agregas la línea, ponés
+evento, escribir evento o servicio de
+
+00:43:54.720 --> 00:44:01.000
+externo, tarifa de lo que vos quieras.
+Esos tres productos están
+
+00:44:01.119 --> 00:44:08.720
+1000 pesos
+y ahí está. Ahí tenés. Y si vos ves en
+
+00:44:06.880 --> 00:44:16.079
+la contabil, viste que te dice cantidad,
+ponele 20 horas.
+
+00:44:12.920 --> 00:44:19.400
+Capaz que voy muy rápido, Pablo. Perdón.
+¿Qué?
+
+00:44:16.800 --> 00:44:24.040
+Capaz que voy muy rápido.
+No, tranqui, tranqui, tranqui.
+
+00:44:21.760 --> 00:44:28.559
+Entonces, fíjate que la solita apuntes
+contables
+
+00:44:25.880 --> 00:44:30.680
+ahí registr la contabilidad.
+Venta de mercadería.
+
+00:44:29.760 --> 00:44:35.200
+El asiento.
+El asiento contable. Exacto.
+
+00:44:34.000 --> 00:44:39.079
+Está. Entonces ahí
+y esa otra información. Esa otra
+
+00:44:37.280 --> 00:44:44.119
+información es quién es el vendedor de
+esa actividad, eh, o equipo de venta,
+
+00:44:42.119 --> 00:44:49.720
+cuál es el banco del receptor, la
+referencia de pago, fecha de entrega,
+
+00:44:46.400 --> 00:44:53.640
+fecha del servicio, eh ubicación, o sea,
+hay contares para el tema de
+
+00:44:51.000 --> 00:44:59.319
+exportación, la posición fiscal, el
+método de pago. Sí. Bien. Entonces ahí
+
+00:44:55.920 --> 00:44:59.319
+si la confirmas
+
+00:44:59.880 --> 00:45:05.319
+si la confirmo,
+no si estamos en general
+
+00:45:03.400 --> 00:45:10.000
+esa franja rpa que tenés arriba es
+porque no te apega en ningún lado.
+
+00:45:07.760 --> 00:45:14.920
+Entonces si querés imprimirla,
+la imprimís desde ahí mismo.
+
+00:45:12.599 --> 00:45:19.319
+Bien. Y acá si les mando enviar
+le enviar, se lo envías por correo
+
+00:45:16.440 --> 00:45:23.800
+electrónico a ese contacto. Sí.
+Eh, ahí como no está configurado eso que
+
+00:45:22.079 --> 00:45:27.400
+no lo terminamos de configurar y es el
+estándar, vos podés elegir el tipo subí
+
+00:45:25.480 --> 00:45:32.800
+subí, no lo descartes.
+¿Viste que te dice boxes bol? Elegí esos
+
+00:45:30.559 --> 00:45:36.599
+diseños.
+Ah, bien.
+
+00:45:34.520 --> 00:45:39.599
+Elegí otro, el B, por ejemplo, el
+stripe.
+
+00:45:41.520 --> 00:45:45.680
+Bien, me encanta.
+
+00:45:46.640 --> 00:45:57.720
+Entonces puedes poner un fondo también.
+Sí, todo eso es una un wizard que te
+
+00:45:52.559 --> 00:46:02.000
+ayuda a configurar la el documento.
+Otra cosa bonita que tiene es que si vos
+
+00:45:59.599 --> 00:46:09.200
+le cargas el logo abajo donde dice los
+colores, automáticamente sugiere la
+
+00:46:04.720 --> 00:46:12.280
+paleta de colores que se tu logo.
+A ver.
+
+00:46:17.160 --> 00:46:25.359
+Ahí lo tenés.
+A ver, para porque acá vi lo del QR,
+
+00:46:22.160 --> 00:46:28.839
+porque lo del QR es un dato recontro
+importante.
+
+00:46:26.240 --> 00:46:32.920
+El QR es para linkearlo y que acceda
+este QR porque tenés el otro QR de AFIP
+
+00:46:31.440 --> 00:46:35.040
+que también te lo toma.
+Que necesito.
+
+00:46:34.119 --> 00:46:37.480
+Exacto.
+El que necesitan las facturación.
+
+00:46:36.839 --> 00:46:41.839
+Bueno, ese QR
+también lo podemos hacer. Claro, porque
+
+00:46:39.280 --> 00:46:47.280
+se conecta este sistema con web service
+de AFIP y vos podés facturar desde acá
+
+00:46:44.559 --> 00:46:51.319
+y te larga toda la facturación a web
+service, las notas de crédito, nota de
+
+00:46:48.760 --> 00:46:55.440
+débito, todo completo.
+Bueno, con Bixis, eso es lo que hace
+
+00:46:53.520 --> 00:46:59.480
+Bixis. Vos generas la factura desde el
+sistema y el sistema se conecta con el
+
+00:46:57.359 --> 00:47:04.640
+servidor de AFIP y te emite la factura
+con el QR y el K. Ya listo.
+
+00:47:02.480 --> 00:47:08.040
+Correspondiente. El QRM es fundamental
+para cargar las facturas en algunos
+
+00:47:06.480 --> 00:47:11.960
+portales que tengo que cargarlas porque
+si no me las rebota.
+
+00:47:09.559 --> 00:47:16.040
+Claro. Sí, eso
+eso, eso está no no hace falta generar
+
+00:47:14.400 --> 00:47:18.599
+módulo porque ya viene nodu
+directamente,
+
+00:47:17.640 --> 00:47:25.319
+¿no?
+Eh, bueno, dale siguiente
+
+00:47:22.520 --> 00:47:29.040
+para que salgo acá.
+Número de cuenta bancaria.
+
+00:47:29.160 --> 00:47:34.760
+cualquiera, cualquiera si estamos en un
+testing.
+
+00:47:37.119 --> 00:47:42.599
+Bueno, entonces como no teníamos armado
+el entorno ahí vos se la podés enviar.
+
+00:47:41.520 --> 00:47:45.520
+En realidad no se la vas a estar
+enviando porque está bloqueado,
+
+00:47:44.400 --> 00:47:47.720
+¿no? Está bien.
+Está bloqueado.
+
+00:47:45.920 --> 00:47:51.000
+Claro, pero ahí le pongo yo el correo,
+selecciono el correo que es y se lo
+
+00:47:49.319 --> 00:47:55.599
+en realidad en realidad ya lo tendrías
+seleccionado en el contacto en
+
+00:47:52.599 --> 00:48:01.880
+constructora del Zoom. Claro. Y eso está
+bueno porque al hacer la como nosotros
+
+00:47:59.319 --> 00:48:06.520
+en en BXIS existe esa posibilidad, pero
+como la base de datos cargada en ese
+
+00:48:04.040 --> 00:48:10.160
+sistema es vieja, no se emitían en ese
+momento las facturas así, eh no lo
+
+00:48:08.920 --> 00:48:14.640
+tiene. Entonces se hace de manera
+manual, se listan las facturas y se
+
+00:48:12.000 --> 00:48:19.880
+hacen adjunto, se adjuntan correo por
+correo, cosa que sería una genialidad
+
+00:48:17.640 --> 00:48:22.880
+igual metí la factura y salen sale
+directo.
+
+00:48:25.640 --> 00:48:31.319
+Está muteado. Horacio,
+dale enviar.
+
+00:48:29.920 --> 00:48:37.160
+Le voy a enviar.
+Si no sale queda eh trabado. En realidad
+
+00:48:35.079 --> 00:48:41.319
+ese construct
+y en el costado derecho, fíjate,
+
+00:48:40.640 --> 00:48:48.200
+sí
+te muestra.
+
+00:48:43.160 --> 00:48:50.799
+Claro, que que se configuró recién.
+Ajá.
+
+00:48:49.079 --> 00:48:56.599
+Eh,
+y después, por ejemplo, si querés eh
+
+00:48:54.079 --> 00:48:59.839
+imprimirla la factura,
+dale imprimir,
+
+00:49:02.520 --> 00:49:08.880
+ahí te vas con PDF.
+Te vas con PDF. Perfecto.
+
+00:49:06.640 --> 00:49:15.839
+Y después si por ejemplo te llega el
+cobro ahí que te dice pagar,
+
+00:49:13.079 --> 00:49:20.599
+ya ahí entramos a los métodos de cobro.
+En realidad eh puede ser banco efectivo,
+
+00:49:18.839 --> 00:49:25.839
+eso hay que configurarlo. No está
+configurado nada.
+
+00:49:22.000 --> 00:49:30.280
+Eh ahí dale que sí. Crear pagos.
+Sí, sí. Ahí tenés la factura. Crear
+
+00:49:27.839 --> 00:49:35.559
+pago. Esto está por defecto. De verdad
+que no hemos tocado nada.
+
+00:49:33.200 --> 00:49:39.400
+Eh, subí con la ruedita, subí, subí,
+subí con la ruedita. Ya está en proceso
+
+00:49:37.559 --> 00:49:42.559
+de pago.
+¿Qué significa que está en proceso de
+
+00:49:40.960 --> 00:49:46.119
+pago? Significa que no has hecho la
+todavía no realizaste la conciliación
+
+00:49:44.400 --> 00:49:49.880
+bancaria para determinar que realmente
+te ingresó ese dinero.
+
+00:49:48.799 --> 00:49:57.160
+Bien,
+si vos ves, si bajas, andate a la línea
+
+00:49:52.839 --> 00:49:57.160
+de factura en la primer solapa,
+
+00:49:57.359 --> 00:50:03.920
+abajito, baja, baja, no, baja más, baja,
+baja, baja, baja, baja, más, más, más,
+
+00:50:01.680 --> 00:50:07.400
+más, má. Dice, líneas de factura,
+apuntes contables, otra información
+
+00:50:05.520 --> 00:50:10.720
+abajo.
+Más, más que me perdí.
+
+00:50:09.079 --> 00:50:16.240
+Ahí, ahí, ahí, ahí, ahí. Un poco más
+arriba, más arriba, más arriba, más
+
+00:50:12.920 --> 00:50:18.079
+arriba, más arriba. Ahí un poquito.
+Un poquito más arriba.
+
+00:50:17.200 --> 00:50:22.160
+Ahí qué
+un poquito más arriba. Ahí
+
+00:50:20.119 --> 00:50:25.079
+línea factura puntas con Sí,
+sí. Todos son esos son solapitas.
+
+00:50:24.440 --> 00:50:27.520
+Solapas.
+Sí.
+
+00:50:25.920 --> 00:50:30.920
+Líneas de factura. Entrar en líneas de
+factura. Fíjate. Bajar.
+
+00:50:29.680 --> 00:50:36.440
+Eso es lo que hicimos recién.
+Claro. Fíjate que ahí abajo subí un
+
+00:50:33.799 --> 00:50:43.040
+poquitito. Dice pagado. Subí, subí. Subí
+un poquito más. Te dice ahí sal subtotal
+
+00:50:39.440 --> 00:50:46.520
+2000. Total 2000 pagado el 24 del 2,000
+que es el recibo de lo que vos
+
+00:50:45.640 --> 00:50:50.480
+Ajá.
+Eh, te informé recién.
+
+00:50:48.720 --> 00:50:54.880
+Claro. Que te informaron que venía del
+banco. Si cliqueas en la I,
+
+00:50:53.359 --> 00:51:01.319
+ves en la I que ahí,
+tenés el informe de de dónde viene y y
+
+00:50:58.520 --> 00:51:08.000
+de qué banco y todo y está consido el
+recibo. Si vos querés ver el pago, podés
+
+00:51:04.680 --> 00:51:11.559
+entrarlo desde ahí. Y ahí faltaría ahora
+la última parte que es la conciliación
+
+00:51:09.880 --> 00:51:15.280
+bancaria.
+Claro.
+
+00:51:12.280 --> 00:51:20.720
+Que se carga. Lo que se hace normalmente
+en Argentina es traer el extracto
+
+00:51:17.559 --> 00:51:25.119
+bancario del del banco,
+¿sí?
+
+00:51:21.440 --> 00:51:28.520
+Se carga y empezas a conciliarlo
+y existen métodos semiautomáticos en
+
+00:51:27.040 --> 00:51:32.200
+donde vos le decís, "Bueno, si yo
+encuentro el contacto y encuentro este
+
+00:51:30.119 --> 00:51:36.319
+importe, quiero que lo concilies y el
+que me lo muestre es conciliado."
+
+00:51:33.720 --> 00:51:38.599
+Entonces, el conciliación te la hace
+semiautomática.
+
+00:51:38.119 --> 00:51:42.599
+Sí.
+Ajá.
+
+00:51:39.839 --> 00:51:48.079
+Eso, eso, eso es así.
+Así que ahí viste un proceso, vieron un
+
+00:51:45.319 --> 00:51:54.480
+proceso eh rápido y si te vas a
+contabilidad vos podés ver en eh bueno,
+
+00:51:51.920 --> 00:51:57.359
+por ejemplo, ahí tenés la parte de de
+conciliar.
+
+00:51:55.480 --> 00:52:02.599
+Ahí tenés la parte de conciliación.
+Ajá. Eh, si te vas a la parte de reporte
+
+00:52:00.839 --> 00:52:07.799
+de contabilidad,
+mandate a reporte. Hay
+
+00:52:06.000 --> 00:52:11.240
+balance general, estado de resultado,
+estado de flujo de efectivo, balance de
+
+00:52:09.480 --> 00:52:15.319
+comprobación, un libro mayor, un libro
+mayor de empresa, cuentas por cobrar
+
+00:52:13.319 --> 00:52:20.880
+vencida, cuenta por cobrar, pagar
+vencida, declaraciones fiscales, reporte
+
+00:52:18.400 --> 00:52:23.960
+fiscal, todo esto viene por defecto no.
+Si hace falta algo más detal más
+
+00:52:23.200 --> 00:52:30.920
+específico,
+¿no? Pero no, no, no, porque encima
+
+00:52:26.680 --> 00:52:37.720
+nuestra contabilidad es recontrailica.
+Claro, por ejemplo, nosotros con su
+
+00:52:34.160 --> 00:52:41.440
+técnica eh le armamos un módulo para
+hacer el IVA fácil,
+
+00:52:39.880 --> 00:52:47.599
+¿viste? Que hay que subirlo a F con los
+TXT, con todo eso,
+
+00:52:44.280 --> 00:52:51.760
+se lo armamos y lo suben en 2 minutos.
+Sí, no, nosotros para esa parte no la
+
+00:52:49.920 --> 00:52:55.599
+tenemos porque al ser exentos no no
+hacemos posición de IVA ni ingresos
+
+00:52:53.839 --> 00:52:59.839
+brutos ni de nada. Solo tenemos que
+emitir el balance mensual para el
+
+00:52:58.200 --> 00:53:03.280
+balance de sumas y saldo mensual para
+que el contador haga la posición de
+
+00:53:01.640 --> 00:53:07.200
+ingresos brutos y nada más.
+Bueno, entonces date reportes
+
+00:53:07.960 --> 00:53:13.599
+ahí eh balance de comprobación. El
+balance de comprobación.
+
+00:53:16.920 --> 00:53:21.400
+Ahí tenemos un balance de comprobación
+de sumas y saldos de la operación que
+
+00:53:19.839 --> 00:53:26.319
+acabamos de hacer recién, que es una
+sola operación.
+
+00:53:23.319 --> 00:53:30.640
+Sí, y eso lo podés bajar en PDF o en
+Excel o en Excel. Bueno, eso es
+
+00:53:29.079 --> 00:53:35.400
+importante.
+E, ¿qué otra cosa te iba a decir? Bueno,
+
+00:53:32.839 --> 00:53:40.440
+y la otra parte que que es importante
+que podamos eh canalizar por acá es la
+
+00:53:38.559 --> 00:53:44.319
+parte de la liquidación de comisiones
+del área de ventas.
+
+00:53:42.280 --> 00:53:48.760
+Bien, liquidación de comisiones del área
+de ventas en ODU no hay nada armado,
+
+00:53:46.520 --> 00:53:53.799
+pero sí lo podemos armar. Es más, a
+Surtécnica le estoy armando el las
+
+00:53:51.319 --> 00:54:01.400
+comisiones por zona, o sea, hacemos
+reglas de eh productos, categorías,
+
+00:53:57.319 --> 00:54:05.400
+zonas, vendedores. Eh, entonces eso no
+hay problema porque en función de cómo
+
+00:54:03.640 --> 00:54:09.799
+quieren ustedes que calculamos las
+comisiones
+
+00:54:06.920 --> 00:54:16.520
+lo armamos.
+Eso no hay ningún problema.
+
+00:54:13.400 --> 00:54:20.640
+Un día que juntamos con la gente que
+maneja el tema comisiones, hacemos una
+
+00:54:18.280 --> 00:54:25.520
+reunión tal cual estamos haciendo ahora
+con las todas las especificaciones que
+
+00:54:22.520 --> 00:54:32.000
+necesiten y lo procesamos y listo.
+Bien. Bueno. Okay. Okay. Bueno, super
+
+00:54:29.240 --> 00:54:34.359
+completo, la verdad. No sé vos qué
+opinas.
+
+00:54:34.760 --> 00:54:45.119
+Eh, me me parece perfecto. Eh, y bueno,
+también habría que migrar la información
+
+00:54:41.960 --> 00:54:50.880
+contable que es muchísima.
+Eh, no sé si está de la misma época eso
+
+00:54:48.640 --> 00:54:54.760
+o más atrás. Paula
+es anterior.
+
+00:54:52.200 --> 00:55:00.839
+Es anterior. Vixis está incorporado
+desde el 2011 y el sistema de medicina
+
+00:54:57.880 --> 00:55:06.400
+desde el 2000
+13.
+
+00:55:02.960 --> 00:55:09.440
+Estamos estamos hablando de ahí 10 años,
+11, 15 años,
+
+00:55:07.599 --> 00:55:17.720
+muchísimo.
+Igual sí, igual e poner nuestro nuestro
+
+00:55:14.839 --> 00:55:22.920
+balance de cierre del 30 de junio
+y con Bxis, por ejemplo, se hizo como se
+
+00:55:21.119 --> 00:55:27.200
+hace habitualmente. te hace una carga
+inicial y te quedas con el otro sistema
+
+00:55:25.359 --> 00:55:31.079
+de respaldo hasta que el otro sistema de
+respaldo ya deja de ser sistema de
+
+00:55:29.000 --> 00:55:36.200
+respaldo y queda medio guardado ahí,
+pero se hace una carga inicial de saldos
+
+00:55:33.359 --> 00:55:39.440
+iniciales, una cosa así y te queda el
+del otro.
+
+00:55:37.160 --> 00:55:44.200
+Fue una de las cosas que
+fue una de las cosas que me enseñó Hcio
+
+00:55:40.680 --> 00:55:46.760
+cuando fue profesor mío.
+Son los iniciales.
+
+00:55:45.599 --> 00:55:50.680
+Claro, no. Lo que pasa es que hay una
+resolución técnica. en realidad no una
+
+00:55:48.920 --> 00:55:55.240
+resolución técnica, sino el proyecto, lo
+que fue el proyecto cinco, corregime si
+
+00:55:52.960 --> 00:55:59.359
+me equivoco, Horacio, que justamente
+habla de ese método de
+
+00:55:58.000 --> 00:56:05.880
+traspaso de información donde vos
+mantenés a la par una un sistema, el
+
+00:56:03.000 --> 00:56:09.680
+sistema viejo, mientras va ejecutando el
+otro. Y en eso hay varias formas. Una
+
+00:56:08.079 --> 00:56:13.960
+es, por ejemplo, suponete en una
+sucursal llevarlo, entonces lo llevas
+
+00:56:11.480 --> 00:56:17.440
+solo en una sucursal. La otra es que lo
+implementes, suponerte en una caja. Y la
+
+00:56:16.119 --> 00:56:20.799
+otra es que implementes los dos a la
+vez, cada uno con sus ventajas y
+
+00:56:19.319 --> 00:56:23.720
+desventajas, ¿no?
+Sí, sí, sí,
+
+00:56:21.640 --> 00:56:29.039
+claro. Acá yo creo que lo que habría que
+hacer es eh, por ejemplo, la parte de
+
+00:56:26.160 --> 00:56:31.960
+facturación es desde el día X se empieza
+a hacer la facturación en el otro
+
+00:56:30.480 --> 00:56:36.960
+sistema. Una vez que el sistema es nuevo
+tiene cargada, tiene hecha toda la carga
+
+00:56:33.799 --> 00:56:41.039
+inicial para que para que no se
+compliquen los saldos.
+
+00:56:37.920 --> 00:56:45.920
+Sí, eso sí. Pero, pero lo que tiene que
+ver con la base de datos del historial,
+
+00:56:43.720 --> 00:56:51.200
+a ver, yo no necesito duplicar la
+información en dos sistemas, necesito
+
+00:56:48.280 --> 00:56:55.520
+tener un puntapié inicial de una base de
+saldos en el sistema nuevo y arrancar
+
+00:56:53.200 --> 00:56:59.119
+desde ese saldo en adelante y quedarme
+con el archivo de movimientos durante un
+
+00:56:57.359 --> 00:57:02.799
+tiempo hasta que ese movimiento deja de
+ser funcional porque porque ya está
+
+00:57:01.640 --> 00:57:07.880
+historia.
+Claro, hacer un corte de documentación
+
+00:57:05.440 --> 00:57:14.079
+indefin. Exacto, exactamente.
+Eh, bueno, mira, en el tema había otra
+
+00:57:11.200 --> 00:57:20.960
+cosita que no dijimos que es el tema del
+portal web, que en el portal web ahí vos
+
+00:57:17.119 --> 00:57:25.720
+vas a poder ver eh un una
+página bonita, pero también podés ver el
+
+00:57:23.760 --> 00:57:31.960
+que las empresas puedan acceder y que
+vean sus eh e
+
+00:57:29.599 --> 00:57:39.280
+estudios, sus reportes, sus órdenes de
+pago, sus facturas, sus pagos, sus todo.
+
+00:57:35.480 --> 00:57:42.280
+Y ahí entras en inicio en ventas, ahí
+principi
+
+00:57:44.400 --> 00:57:47.400
+acá.
+
+00:58:02.760 --> 00:58:09.440
+No te escucho.
+Ahí justo a la derecha, sitio web, donde
+
+00:58:06.839 --> 00:58:11.400
+dice sitio web,
+eh, a
+
+00:58:10.319 --> 00:58:16.720
+la derecha.
+Ah, uno, uno más a la derecha.
+
+00:58:15.000 --> 00:58:20.400
+Tenés patrimonio, abajo patrimonio,
+tenés sitio.
+
+00:58:18.119 --> 00:58:27.640
+Ahí está. Justo tenía la ventanita del
+meet, por eso no lo veía. Ahí está. Ese
+
+00:58:23.799 --> 00:58:32.520
+es un estándar de sitio web,
+pero ahí se pueden cargar eventos, se
+
+00:58:29.520 --> 00:58:37.920
+pueden cargar eh todo la reportería eh
+de las distintas empresas, de las
+
+00:58:35.359 --> 00:58:43.160
+personas que pueden acceder y ver sus
+datos. Eh, por ejemplo, si vos le mandás
+
+00:58:40.079 --> 00:58:48.400
+un turno a una persona, le llega por su
+correo electrónico o en su caso por
+
+00:58:45.720 --> 00:58:53.480
+WhatsApp y cuando cliquean entran acá
+con un token de acceso y ven esa
+
+00:58:50.559 --> 00:58:57.359
+información ellos solos. Sí. o las
+mismas empresas pueden venir acá y
+
+00:58:55.640 --> 00:59:01.760
+levantar sus reportes en cualquier
+momento. No hace falta que estén
+
+00:59:00.000 --> 00:59:08.640
+dependiendo del correo solamente, sino
+que también puedes hacer, por ejemplo,
+
+00:59:04.680 --> 00:59:13.680
+ahí la cita es dale clic a esa cita y no
+hay citas disponibles para este momento.
+
+00:59:11.400 --> 00:59:17.359
+¿Por qué? Porque eh, ¿qué s yo? Quieren
+hacerte una nueva cita. Ahí, dale para
+
+00:59:15.680 --> 00:59:21.559
+arriba.
+Sub nueva cita. Eso es como que lo estás
+
+00:59:20.119 --> 00:59:25.119
+manejando ahí.
+Utiliza el botón de arriba más nueva
+
+00:59:23.599 --> 00:59:26.440
+cita para crear una cita.
+Sí,
+
+00:59:25.880 --> 00:59:28.039
+dale click.
+Más nueva ahí.
+
+00:59:27.119 --> 00:59:32.839
+Más nueva. Ajá.
+Pero no, no, pero no me no me lo no me
+
+00:59:30.839 --> 00:59:39.160
+habilita el cursor porque no está
+habilitado para entrar con por el por el
+
+00:59:35.720 --> 00:59:44.559
+portal web. Pero bueno, en definitiva,
+esto es otra herramienta de
+
+00:59:40.680 --> 00:59:51.359
+comunicación. Sí, dice, dice blog, post,
+evento, foro,
+
+00:59:47.400 --> 00:59:57.920
+trabajo, curso, producto.
+Claro, pero sí en realidad eso es son
+
+00:59:56.359 --> 01:00:01.680
+herramientas que vienen por defecto
+nodalar,
+
+00:59:59.760 --> 01:00:05.599
+por ejemplo, generate el de evento,
+entrar en el evento,
+
+01:00:04.039 --> 01:00:09.359
+ahí
+instalar. Entonces ahí estás instalando
+
+01:00:07.160 --> 01:00:15.400
+la aplicación evento, solo te arma toda
+la aplicación y te la deja funcionando.
+
+01:00:12.960 --> 01:00:20.799
+E entonces después tenés la posibilidad
+de que la gente proponer un evento y que
+
+01:00:17.960 --> 01:00:24.000
+la gente se registre y se matricule por
+acá para los eventos. Entonces vos sabes
+
+01:00:22.480 --> 01:00:29.640
+la cantidad de gente que va a ir, qué es
+lo que va a necesitar y todo.
+
+01:00:25.680 --> 01:00:33.680
+Nosotros eh tenemos generadas eh tenemos
+dos sitios web.
+
+01:00:31.160 --> 01:00:39.000
+Sí, no hay problema. uno que es la el
+institucional de SITMET y luego un
+
+01:00:35.400 --> 01:00:42.680
+portal de SITMET ya constituido.
+¿Esto se puede incorporar al sitio
+
+01:00:42.119 --> 01:00:48.160
+nuestro?
+Sí, sí, sí, sí. Es más, como sugerencia,
+
+01:00:46.359 --> 01:00:53.599
+yo te diría que a lo mejor ya han
+invertido mucho en el sitio web ustedes,
+
+01:00:50.000 --> 01:00:59.000
+pero esto lo más bien te puede manejar
+todo el sitio web y ya tenés un hosting,
+
+01:00:56.720 --> 01:01:04.359
+eh, que viene con la membresía de ODU,
+no hace falta que pagues un hosting
+
+01:01:00.520 --> 01:01:12.079
+interno directamente, eh, por ejemplo,
+lo lo manejas todo desde acá en una sola
+
+01:01:08.359 --> 01:01:16.160
+base de datos, eh, y sí, no hay
+problema. El portal también lo tenés.
+
+01:01:14.079 --> 01:01:22.039
+Fíjate, vos ahí con este testing que te
+hemos mostrado, vos podés generar foro,
+
+01:01:18.760 --> 01:01:26.160
+podés generar eh cursos,
+podés generar que todo esto viene por
+
+01:01:24.000 --> 01:01:32.240
+defecto
+Sí. Entonces, vos ahí creas un nuevo
+
+01:01:28.240 --> 01:01:36.720
+evento eh como administradora y y podés
+generar un evento y que la gente se
+
+01:01:33.799 --> 01:01:41.520
+matricule y vos tengas el ticket y que
+puedes dar promociones,
+
+01:01:39.319 --> 01:01:48.039
+podés hacer una presentación del evento
+en ese evento.
+
+01:01:43.680 --> 01:01:53.839
+Este es muy interesante. Lo otro,
+volviendo al origen, volviendo al origen
+
+01:01:51.079 --> 01:01:58.359
+para aprovechar la comunicación, es la
+última pregunta que se me ocurre ahora y
+
+01:01:55.680 --> 01:02:05.599
+listo, ¿no? Porque esto va para largo,
+hay que hay que seguir
+
+01:02:01.440 --> 01:02:12.400
+eh pero bueno, digo, según lo que
+hablaba con un técnico que trabaja en
+
+01:02:08.440 --> 01:02:16.599
+Asinet, me explicaba que cada aparato
+donde se hacen los estudios, por
+
+01:02:13.760 --> 01:02:23.279
+ejemplo, el electrocardiograma,
+eh capta despide un PDF que queda como
+
+01:02:20.760 --> 01:02:27.599
+atrapado en en el en el equipo del
+electro.
+
+01:02:24.839 --> 01:02:33.000
+En el argometría pasa algo parecido, en
+la espirometría pasa algo parecido.
+
+01:02:30.079 --> 01:02:42.480
+Habría que ver eh no sé, los demás
+estudios, el de la el de el de este las
+
+01:02:37.279 --> 01:02:50.359
+placas de la rayos. Eh, bueno, es como
+que está diverso. ¿Dónde queda cargada
+
+01:02:46.440 --> 01:02:54.319
+eh el resultado del estudio según el
+equipo?
+
+01:02:51.920 --> 01:03:01.799
+Este, y en algunos casos sí no queda
+otra que ir y escanear el resultado en
+
+01:02:57.559 --> 01:03:05.559
+papel y transform en PDF.
+Ahí
+
+01:03:03.440 --> 01:03:10.240
+se tiene que abordar, ¿cómo se aborda el
+tema? se tiene que ir al lugar, eh,
+
+01:03:08.559 --> 01:03:15.960
+consultorio por consultorio, a ver qué
+equipos hay para ver si podemos nosotros
+
+01:03:13.440 --> 01:03:23.599
+ingresar de alguna manera para poder
+captar eh el resultado
+
+01:03:19.599 --> 01:03:29.440
+eh y evitar lo máximo posible que la
+gente tenga que estar escaneando
+
+01:03:26.680 --> 01:03:35.119
+el papel, siendo que quizás en algunos
+casos el PDF ya está generado dentro de
+
+01:03:32.799 --> 01:03:38.680
+el equipo de de cada estudio, no sé si
+se entiende. de mi pregunta.
+
+01:03:36.720 --> 01:03:44.680
+Sí, mira, lo que tendríamos que hacer es
+un relevamiento de los equipos con su
+
+01:03:41.720 --> 01:03:48.640
+nombre, marca y con su versión y con su
+número de identificación
+
+01:03:47.000 --> 01:03:54.680
+para que nosotros hagamos un estudio
+completo, vuelvo a la idea
+
+01:03:52.160 --> 01:03:58.680
+eh de si esos equipos emiten reportes,
+cómo los emiten, si tienen un protocolo
+
+01:03:56.559 --> 01:04:03.400
+de comunicación, cómo es y bueno, y
+armar un informe de todos esos equipos
+
+01:04:01.400 --> 01:04:09.079
+para ver cuáles son los que emiten, qué
+es lo que emiten y cómo podemos hacer
+
+01:04:06.440 --> 01:04:14.799
+para levantar esa información.
+Espectacular. Perfecto. Listo.
+
+01:04:12.079 --> 01:04:18.599
+Entonces, estaría muy bueno eso, que que
+puedan armar un listado con el nombre de
+
+01:04:16.920 --> 01:04:23.480
+los equipos y con todas las
+especificaciones posibles. Con ese
+
+01:04:20.359 --> 01:04:28.160
+listado nosotros hacemos un estudio.
+Bien.
+
+01:04:25.520 --> 01:04:33.839
+Bueno, también podemos eh generarles un
+acceso remoto eh a través de NIDS con la
+
+01:04:31.720 --> 01:04:39.000
+máquina que ejecuta por lo menos algunos
+de sus equipos y entonces van a poder
+
+01:04:35.599 --> 01:04:43.359
+entrar y ver directamente toda la info
+sin transcripciones ni nada.
+
+01:04:41.440 --> 01:04:47.760
+Eso es importante. Me parece bien. Me
+parece bien.
+
+01:04:44.799 --> 01:04:52.760
+Por con si lo manejamos también ese
+tema, no hay problema, podemos tener
+
+01:04:49.839 --> 01:04:57.960
+acceso siempre que ustedes nos autoricen
+y hacer el análisis. Lo que sí, por ahí
+
+01:04:55.119 --> 01:05:01.880
+necesitaríamos hacer un meet eh, para
+que nos expliquen, para que nosotros no
+
+01:04:59.760 --> 01:05:07.400
+estemos dando vuelta, investigando.
+Sí, obvio, obvio, obvio. Yo eh de
+
+01:05:06.039 --> 01:05:13.359
+acuerdo a lo que estuvimos charlando la
+otra vez, que es lo que les decía
+
+01:05:08.720 --> 01:05:18.960
+recién, eh la mayoría de los equipos
+genera un PDF que vos podés imprimirlo,
+
+01:05:16.319 --> 01:05:23.680
+dejarlo cargado como archivo, como PDF y
+lo podemos adjuntar como como vimos más
+
+01:05:21.079 --> 01:05:29.000
+temprano cómo se podían hacer. Solo nos
+quedan un par de cuestiones que que nos
+
+01:05:26.839 --> 01:05:34.480
+generan PDF que habría que escanear, que
+son los informes de laboratorio y eh la
+
+01:05:32.480 --> 01:05:38.160
+omometría, que como les decía, es es
+como manual, pero que podemos
+
+01:05:35.880 --> 01:05:44.119
+implementar alguna manera de hacer. En
+el caso del laboratorio, por ejemplo,
+
+01:05:40.760 --> 01:05:50.319
+que es eh ellos nos mandan impresos los
+informes, son montones de de números.
+
+01:05:47.880 --> 01:05:55.039
+Eh, hace algunos años atrás lo que
+hacíamos era transcribir de manera
+
+01:05:52.319 --> 01:05:59.799
+manual todos los resultados, número
+renglón por renglón, digamos, número por
+
+01:05:56.680 --> 01:06:04.920
+número. Y hoy lo que hacemos es evaluar
+el informe papel que nos manda la
+
+01:06:01.680 --> 01:06:08.839
+empresa, el laboratorio y ponemos si si
+tiene alguna observación, solo cargamos
+
+01:06:06.680 --> 01:06:14.599
+la observación, algún valor que esté
+medio raro y el resultado final. No
+
+01:06:12.079 --> 01:06:19.839
+cargamos todo porque se prestaba para
+que hubieran errores, además el tiempo
+
+01:06:17.359 --> 01:06:24.640
+que demoran y qué són. ¿Qué me pasa con
+el laboratorio? Yo podría pedirle a
+
+01:06:21.720 --> 01:06:31.319
+ellos que nos manden los informes en PDF
+y directamente adjuntar el PDF. Me pasa
+
+01:06:27.960 --> 01:06:37.640
+con ellos que eh son más antiguos que
+nosotros y entonces no tienen en el PDF
+
+01:06:34.640 --> 01:06:43.960
+la firma del profesional. Pero si
+nosotros pudiéramos cargar ese PDF en la
+
+01:06:41.079 --> 01:06:49.279
+parte de laboratorio, supongamos, y
+nuestro médico auditor validara esos
+
+01:06:46.599 --> 01:06:54.039
+resultados, podría ser una opción.
+Podría ser una opción o bien pedir la
+
+01:06:52.039 --> 01:06:58.520
+firma digital
+así imagen de la gente de laboratorio y
+
+01:06:56.960 --> 01:07:03.520
+poder nosotros validarlos dentro del
+sistema, una cosa así que se me ocurre
+
+01:07:00.079 --> 01:07:08.799
+en este momento porque la verdad que es
+bastante compleja esa partecita,
+
+01:07:05.319 --> 01:07:12.799
+digamos, ese punto y todos los que
+laboratorio.
+
+01:07:09.960 --> 01:07:19.319
+Bueno, en ese caso podemos hacer un una
+cuestión de de mira, eh te digo el tope
+
+01:07:17.119 --> 01:07:22.920
+de gama, digámoslo así.
+En este momento, ayer tuvimos una
+
+01:07:21.119 --> 01:07:28.200
+reunión con una empresa acá de San
+Rafael, somos de San Rafael, Camiletti,
+
+01:07:25.760 --> 01:07:33.160
+de cubierto y me decían, "Nosotros nos
+llegan cantidad de facturas terribles,
+
+01:07:30.319 --> 01:07:38.119
+queremos que lea los PDF y la guía nos
+carguen los comprobantes."
+
+01:07:36.000 --> 01:07:41.559
+Hoy día lo estuvimos probando, armando
+el prototipo. Todavía no lo pruebo
+
+01:07:40.240 --> 01:07:46.839
+porque justo tuve la reunión con
+ustedes, pero puede ser una alternativa
+
+01:07:44.160 --> 01:07:52.400
+que te manden todos los PDF, los subamos
+y que te los lea y ver qué pasa. A ver
+
+01:07:50.119 --> 01:07:53.599
+si los levantas sin problema.
+Sí.
+
+01:07:53.279 --> 01:07:58.880
+Ajá.
+Eh, es una alternativa viable, no te
+
+01:07:57.039 --> 01:08:01.839
+digo todavía factible porque no la he
+testeado, pero es viable.
+
+01:08:00.720 --> 01:08:07.440
+Ajá.
+Bien. Bueno, esa sería eso sería un gol.
+
+01:08:06.559 --> 01:08:13.000
+Por eso te digo,
+lea la data y la baje en nuestro
+
+01:08:10.079 --> 01:08:16.560
+formato, eso sería
+jamás me imaginé que se pudiera, pero
+
+01:08:14.720 --> 01:08:18.400
+bueno, si hoy la verdad que cualquier
+cosa puede ser.
+
+01:08:17.759 --> 01:08:22.480
+Sí, sí.
+Bueno, veamos.
+
+01:08:20.560 --> 01:08:26.199
+Tenemos que ir viendo en pasos
+posteriores.
+
+01:08:23.839 --> 01:08:31.040
+Exactamente. Una cosa que, bueno, si
+llegamos a un acuerdo con el presupuesto
+
+01:08:28.520 --> 01:08:35.359
+y toda la historia, una cosa importante
+es que eh hay que entrar en producción
+
+01:08:33.400 --> 01:08:41.520
+lo más pronto posible. Nosotros
+generalmente damos un tiempo de 3 meses
+
+01:08:38.199 --> 01:08:47.199
+para el proceso. Sí. Nosotros en un mes
+tenemos que estar facturados.
+
+01:08:43.440 --> 01:08:51.040
+Eh eh ese es el objetivo. ¿Por qué? ¿Por
+qué esta urgencia y por qué es
+
+01:08:49.120 --> 01:08:55.080
+importante esto? Porque si no se
+empiezan a dilatar los tiempos.
+
+01:08:53.640 --> 01:09:00.120
+En cambio, si le metemos presión,
+¿correcto? a la facturación de compra y
+
+01:08:57.520 --> 01:09:04.920
+facturación de venta y todos nos ponemos
+nerviosos y ustedes se ponen nerviosos y
+
+01:09:03.120 --> 01:09:08.880
+que falta esto, falta aquello y nosotros
+atrás corrigiendo.
+
+01:09:06.600 --> 01:09:14.040
+Nos ha pasado que empresas seguida
+terminó. Me gustaría que aparezca esta
+
+01:09:10.679 --> 01:09:19.040
+cosita acá que pa pa pa y se van los
+tiempos y no nos sirve ni a usted ni a
+
+01:09:15.839 --> 01:09:23.239
+nosotros. Entonces, esa es una condición
+muy importante que que establezco para
+
+01:09:21.920 --> 01:09:29.080
+entrar en producción lo más pronto
+posible. en un mes tienen que estar
+
+01:09:24.640 --> 01:09:34.359
+facturando y eh y con el sistema este
+por lo menos el troncal funcionando.
+
+01:09:32.719 --> 01:09:39.799
+Mm,
+perfecto. Como te digo, el en el
+
+01:09:38.159 --> 01:09:43.319
+funcionamiento donde se van viendo las
+cosas que necesitas corregir, mejorar,
+
+01:09:42.000 --> 01:09:47.120
+adaptar,
+eh por ahí en el aire es bastante
+
+01:09:44.799 --> 01:09:51.159
+difícil y y seguro hay miles de cosas
+que se quedan en el aire, pero pero
+
+01:09:48.799 --> 01:09:56.239
+bueno, con el proceso
+con con el proceso lo vamos a ir
+
+01:09:53.040 --> 01:10:01.199
+puliendo. Y además también me parece que
+tiene un montón de herramientas que hoy
+
+01:09:58.360 --> 01:10:06.880
+no estamos usando y que la verdad que
+estaría muy piola porque descomprimiría
+
+01:10:03.159 --> 01:10:11.600
+algunas áreas de trabajo importante.
+Bueno, ese es el objetivo en realidad.
+
+01:10:10.719 --> 01:10:17.719
+Bueno, okay.
+Bueno, este nosotros con esta reunión si
+
+01:10:14.920 --> 01:10:21.960
+tenés algo más que decir Eno Paola y se
+les se acuerdan después mándennos
+
+01:10:20.000 --> 01:10:28.800
+WhatsApp, no hay problema.
+en su pasar el WhatsApp a Paola y bueno,
+
+01:10:26.400 --> 01:10:31.960
+lo tenemos en cuenta.
+Dale.
+
+01:10:29.719 --> 01:10:36.000
+Sí. Y si tien los flujos, si tienen los
+flujos de los procesos,
+
+01:10:36.199 --> 01:10:42.440
+si ten perdón procesos, si tienes los
+flujos de los procesos también está
+
+01:10:39.920 --> 01:10:46.960
+bueno tenerlo.
+Sí, en realidad no tengo mucho más que
+
+01:10:45.159 --> 01:10:52.520
+lo que Enzo les mandó, que son los
+procedimientos que hicimos con ISO, no
+
+01:10:49.880 --> 01:10:55.400
+se hizo como un flujo eh gráfico,
+digamos.
+
+01:10:54.480 --> 01:11:01.920
+Okay.
+Este, entonces eh quedamos atentos y yo
+
+01:10:58.800 --> 01:11:06.800
+creo que eh a finales de esta semana, el
+viernes, ya te mandaríamos el
+
+01:11:03.719 --> 01:11:10.320
+presupuesto de implementación y el
+presupuesto de la membresía. Recordad
+
+01:11:08.600 --> 01:11:15.960
+que son dos presupuestos, el presupuesto
+que se le paga ONU anual, ¿sí? Y después
+
+01:11:13.920 --> 01:11:20.400
+está el proceso, el presupuesto nuestro,
+que son es un presupuesto que nosotros
+
+01:11:18.320 --> 01:11:25.320
+los dividimos por tr meses, o sea, el
+monto total lo dividimos por mes, no lo
+
+01:11:22.840 --> 01:11:28.560
+atamos a procesos de hito ni de hora ni
+nada porque hay veces que trabajamos
+
+01:11:26.960 --> 01:11:32.760
+mucha más hora, hay veces que trabajamos
+menos hora, sino que va por mes, o sea,
+
+01:11:31.199 --> 01:11:39.520
+primer cuota, segunda cuota y tercer
+cuota. Sí.
+
+01:11:36.280 --> 01:11:43.520
+Y el compromiso nuestro es que funcione.
+Sí. al en los tr meses tiene que quedar
+
+01:11:42.120 --> 01:11:46.719
+funcionando
+completo.
+
+01:11:44.120 --> 01:11:51.239
+Bien. Y después de ponerle una vez
+terminado esos 3 meses, se termina de
+
+01:11:49.199 --> 01:11:55.440
+poner en funcionamiento todo lo que
+tenga que ver con una posterioridad
+
+01:11:53.920 --> 01:12:00.600
+después de esos tr meses que vayan
+surgiendo o dudas o necesitemos
+
+01:11:57.840 --> 01:12:05.679
+modificar cosas o necesitemos adaptar o
+y o agregar cosas eh
+
+01:12:03.800 --> 01:12:10.040
+todo depende de cómo
+Claro. Podemos ver un modelo de e
+
+01:12:08.320 --> 01:12:13.320
+soporte
+soporte
+
+01:12:11.000 --> 01:12:17.199
+si es que les conviene a ustedes,
+porque generalmente lo que buscamos que
+
+01:12:15.440 --> 01:12:21.520
+en estos tres meses quede bien armado
+todos. Sí,
+
+01:12:19.679 --> 01:12:24.800
+que que ustedes queden tranquilos y
+nosotros también.
+
+01:12:22.920 --> 01:12:29.239
+Y si después hay alguna cuestión que
+tengamos que ver de soporte o algo, se
+
+01:12:27.320 --> 01:12:34.440
+ve, no hay problema. o si es algo
+específico, mira, necesitamos que haga
+
+01:12:31.320 --> 01:12:38.719
+tal cosa. Bueno, eso lo vamos, ¿no? Te
+va a costar eh hacer este pedacito
+
+01:12:36.560 --> 01:12:41.639
+nuevo, cosas nuevas que se les ocurra
+después. Eh,
+
+01:12:40.560 --> 01:12:46.239
+sí,
+sí, es otra cosa.
+
+01:12:43.120 --> 01:12:52.719
+Claro, pero en en la implementación son
+3 meses de trabajo. Sí.
+
+01:12:49.679 --> 01:12:57.560
+Eh, y bueno, lo más pronto posible tiene
+que quedar funcionando la parte de
+
+01:12:54.280 --> 01:13:02.400
+facturación de compras y de bancos. Sí,
+porque eso genera estrés y al generar
+
+01:12:59.760 --> 01:13:07.080
+estrés nos movemos más rápido.
+Bien,
+
+01:13:03.800 --> 01:13:07.080
+muy bien.
+
+01:13:07.159 --> 01:13:15.719
+Vale. Eh, así que
+nosotros ahora
+
+01:13:12.840 --> 01:13:19.880
+eh te mandamos los dos presupuestos. Eh,
+lo que sí te voy a pedir que me mandes
+
+01:13:17.159 --> 01:13:24.920
+el número de Quid y el nombre de la
+compañía y el contacto, porque eso se lo
+
+01:13:22.639 --> 01:13:30.080
+pasamos a ODU para que hagan el
+presupuesto de la membresía.
+
+01:13:27.880 --> 01:13:36.880
+El contacto
+que un mail
+
+01:13:32.800 --> 01:13:40.480
+Eno los datos de Eno, teléfono o tuyo,
+Paula cualquiera de los dos. correo
+
+01:13:39.000 --> 01:13:45.520
+electrónico de alguien de contacto el
+teléfono.
+
+01:13:41.679 --> 01:13:50.800
+Listo, perfecto. Ahí se los paso. Se los
+paso por acá ya.
+
+01:13:47.600 --> 01:13:50.800
+Ah, okay.
+
+01:13:53.199 --> 01:13:58.960
+¿Lo levantas vos, Ricardo?
+Sí, lo estoy levantando
+
+01:13:57.320 --> 01:14:02.320
+y ahí te lo mando por WhatsApp, así nos
+queda los dos.
+
+01:14:03.040 --> 01:14:09.040
+Este es mi celu y bueno, el de Enzo ya
+lo tiene.
+
+01:14:08.400 --> 01:14:13.320
+Bueno, buenísim.
+Este es el correo de administración que
+
+01:14:10.960 --> 01:14:18.360
+es el que centraliza todo.
+Okay. Ahí posiblemente te vayan a llegar
+
+01:14:15.560 --> 01:14:22.320
+los dos los dos presupuestos.
+Bueno,
+
+01:14:20.040 --> 01:14:29.560
+así que igual te lo vamos a mandar eso
+por por WhatsApp igual. Sí. Perfecto.
+
+01:14:27.679 --> 01:14:33.920
+Bueno, muchas gracias y por el tiempo
+que nos dieron.
+
+01:14:31.840 --> 01:14:37.719
+Muchas gracias a ustedes.
+Nos estaremos viendo. El testing queda
+
+01:14:35.760 --> 01:14:43.560
+habilitado. Creo que que tienen unos
+días más. Creo que son 20 días más por
+
+01:14:39.920 --> 01:14:50.199
+si quieren seguir jugando
+con los chicos. A ver.
+
+01:14:45.239 --> 01:14:54.960
+Ajá. Y inclusive podés generar en en los
+contactos podés agregarle una contraseña
+
+01:14:52.719 --> 01:15:00.080
+para que entre el perfil de recepción,
+para que entre el perfil de clínica,
+
+01:14:57.080 --> 01:15:06.280
+para que vean cómo trabaja eso. Sí, yo
+lo que haría sería para justamente que
+
+01:15:04.159 --> 01:15:12.679
+el en el menor tiempo posible salga todo
+rápido, haría un trabajo de ir uno por
+
+01:15:09.440 --> 01:15:20.400
+uno el personal que haga un poco este
+testeo y que cada uno vaya anotando su
+
+01:15:16.760 --> 01:15:25.480
+sus inquietudes, sus preguntas por por
+cada uno de los que están. Sí, porque
+
+01:15:22.840 --> 01:15:33.159
+capaz que uno le parece una cosa otro.
+Entonces, juntamos todas las las
+
+01:15:28.320 --> 01:15:37.960
+inquietudes de todos, eh, y las unimos y
+después, bueno, en la próxima si
+
+01:15:35.159 --> 01:15:44.440
+decidimos avanzar ya de entrada tenemos
+una pila de temas que que revisar.
+
+01:15:42.320 --> 01:15:48.000
+Sí, no hay problema. No hay un problema.
+Ya lo lo veo acá con los chicos de
+
+01:15:46.159 --> 01:15:50.440
+pasarles el link y demás para poder
+verlo juntos.
+
+01:15:49.400 --> 01:15:55.880
+Bien,
+sí, no hay problema. Estamos atentos en
+
+01:15:52.520 --> 01:16:01.480
+ese sentido. Bueno, nos veremos luego.
+Nos vemos.
+
+01:15:57.639 --> 01:16:01.480
+¿Por qué? Hasta luego. Chao. Chao.
+
